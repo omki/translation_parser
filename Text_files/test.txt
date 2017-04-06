@@ -1,0 +1,11 @@
+{
+  "BASE": {
+    "UPGRADENOW": "Opgrader nu"
+  }, 
+  "HOME": {
+    "DESIGN_EDITOR": {
+      "BACK": "Tilbage", 
+      "BACKGROUND": "Baggrund"
+    }
+  }
+}

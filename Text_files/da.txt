@@ -1,0 +1,310 @@
+{
+  "BASE": {
+    "UPGRADENOW": "Opgrader nu"
+  }, 
+  "HOME": {
+    "DESIGN_EDITOR": {
+      "BACK": "Tilbage", 
+      "BACKGROUND": "Baggrund", 
+      "BACKGROUNDS": "Baggrunde", 
+      "COLORS": "Farver pa website", 
+      "DESIGN": "Layout", 
+      "DESIGN_1": "Layout 1", 
+      "DESIGN_2": "Layout 2", 
+      "DESIGN_3": "Layout 3", 
+      "DESIGN_HEADER": "Websitets layout", 
+      "FONTS": "Skrifttyper pa website", 
+      "FREE_LOGOS": "Logoer", 
+      "GO_PRO_BACKGROUNDS_MESSAGE": "Opgrader til PRO for at bruge denne baggrund", 
+      "GO_PRO_MESSAGE_TITLE": "Skift til PRO", 
+      "MORE_BACKGROUNDS": "flere baggrunde", 
+      "MORE_COLORS": "flere farver", 
+      "MORE_DESIGNS": "Flere layout", 
+      "MORE_FONTS": "flere skrifttyper", 
+      "MORE_LOGOS": "Flere logoer", 
+      "NO_BACKGROUND": "Ingen baggrund", 
+      "NO_LOGO": "Intet logo", 
+      "PRO_BACKGROUNDS": "Pro-baggrunde", 
+      "PRO_FONTS": "Pro-skrifttyper", 
+      "PRO_LOGOS": "Premium-logoer", 
+      "REPLACE_BACKGROUND": "Udskift baggrund", 
+      "UPGRADE_TO_PRO": "Opgrader til PRO", 
+      "UPLOAD_BACKGROUND": "Upload baggrund", 
+      "UPLOAD_LOGO": "Upload logo", 
+      "UPLOAD_YOUR_OWN": "Billedet må højst være 5 MB.", 
+      "VIDEO_BACKGROUND": "Video ", 
+      "YOUR_OWN_BACKGROUND": "Din baggrund"
+    }, 
+    "PAGES_OVERVIEW": {
+      "NEW_PAGE_MODAL": {
+        "ABOUT_US": "Om os", 
+        "ABOUT_US_TEXT": "Fortæl noget om dig selv, dit firma eller din organisation", 
+        "ADD": "Tilføj", 
+        "ADDRESS_PAGE": "Adresse", 
+        "ADDRESS_PAGE_TEXT": "Tilføj kontaktinformation, så du kan kontaktes", 
+        "BLOG": "Blog", 
+        "BLOG_TEXT": "Fortæl om dine meninger, aktiviteter og oplevelser", 
+        "CONTACT_ME": "Kontaktside", 
+        "CONTACT_ME_TEXT": "Tilføj en kontaktside, så folk kan kontakte dig via e-mail", 
+        "GUESTBOOK_PAGE": "Gæstebog", 
+        "GUESTBOOK_PAGE_TEXT": "Giv dine besøgende et sted, hvor de kan skrive beskeder", 
+        "MY_PROJECT": "Mit projekt", 
+        "MY_PROJECT_TEXT": "Fortæl verden, hvad du arbejder på lige nu, eller vis opgaver frem, som du allerede er færdig med", 
+        "PEOPLE_GALLERY": "Persongalleri", 
+        "PEOPLE_GALLERY_TEXT": "Hvem er nøglepersonerne bag dine aktiviteter? Vis dem frem her for at gøre dit website mere personligt", 
+        "PHOTO_ALBUM": "Fotoalbum", 
+        "PHOTO_ALBUM_TEXT": "Tilføj billeder, og del dine visuelle historier", 
+        "PHOTO_STORY": "Fotohistorie", 
+        "PHOTO_STORY_TEXT": "Et billede siger mere end tusind ord. Brug billeder til at fortælle en historie, der ikke kan udtrykkes med tekst alene", 
+        "PLACEHOLDER": "Sidenavn", 
+        "SERVICE_LIST": "List over serviceydelser", 
+        "SERVICE_LIST_TEXT": "Fortæl dem, der besøger dit website, om de serviceydelser, du tilbyder. Husk at tilføje priser, beskrivelser og billeder, så det er nemt for folk at sammenligne", 
+        "STANDARD_PAGE": "Tom", 
+        "STANDARD_PAGE_TEXT": "Opret en side, præcis som du ønsker den", 
+        "TITLE": "Tilføj ny side", 
+        "WEBSHOP": "Webshop", 
+        "WEBSHOP_TEXT": "Sælg dine produkter online"
+      }
+    }, 
+    "PREVIEW": {
+      "ADD_IMAGE_MODAL": {
+        "CATEGORIES": {
+          "ANIMALS": "Dyr", 
+          "FASHION": "Mode", 
+          "FOOD": "Mad", 
+          "FUN": "Have det sjovt", 
+          "KIDS": "Børn", 
+          "LOVE": "Kærlighed", 
+          "NATURE": "Naturen", 
+          "OBJECTS": "Objekter", 
+          "SCENERY": "Landskaber", 
+          "WORK": "Arbejdsliv"
+        }, 
+        "CATEGORY": "Alle", 
+        "CATEGORY_LABEL": "Kategori", 
+        "TIP": "Tip: Du kan filtrere billederne ved at vælge en kategori", 
+        "TITLE": "Vælg billede", 
+        "UPLOAD_BUTTON": "Upload"
+      }, 
+      "ADD_SECTION_MODAL": {
+        "TITLE": "Tilføj indhold"
+      }, 
+      "COLUMNS_SECTION": {
+        "BLOCK": "Bloknr.", 
+        "BLOCKS": "Blokke", 
+        "DESCRIPTION_PLACEHOLDER": "Tilføj beskrivelse", 
+        "HEADLINE_PLACEHOLDER": "Tilføj kolonneoverskrift", 
+        "MODAL_LABEL": "Titel", 
+        "MODAL_LINK_LABEL": "Hvad skal titlen linke til?", 
+        "MODAL_TITLE": "Indstillinger for titel", 
+        "SELECT_PAGE_OPTION": "Vælg en side", 
+        "SWITCH_BUTTONS_LABEL": "Antal kolonner", 
+        "THREE_COLUMNS": "3 kolonner", 
+        "TWO_COLUMNS": "2 kolonner"
+      }, 
+      "COMMENTS_BOX": {
+        "INFOTEXT1": "Dette er kommentarafsnittet for denne side. Her kan de besøgende på dit website skrive kommentarer.", 
+        "INFOTEXT2": "Kommentarer er en rigtig god måde at få feedback fra de besøgende på. I modsætning til e-mail er kommentarer ikke kun synlige for dig, men også for andre besøgende.", 
+        "INFOTEXT3": "På [livewebsite] og under indstillinger for kommentarer på fanen '[@:HOME.MAINMENU.ACCOUNT]' kan du se de kommentarer, besøgende på dit website allerede har skrevet. Under indstillingerne kan du også gennemgå og slette kommentarer, ligesom du kan aktivere og deaktivere kommentarer for de enkelte sider på dit website.", 
+        "INFOTEXT_TEASER": "Dette er kommentarafsnittet for denne side. Her kan de besøgende på dit website skrive kommentarer."
+      }, 
+      "CONTACT_ME": {
+        "FORM_BUTTON": "Send – klik her!", 
+        "FORM_HEADLINE": "Skriv din besked her. Udfyld formularen:", 
+        "INFOTEXT1": "Dette er en kontaktside. Denne side gør det muligt for besøgende på dit website at kontakte dig via e-mail.", 
+        "INFOTEXT2": "Husk at skrive en kort besked til de besøgende øverst på siden. Før folk skriver til dig, vil de ofte gerne vide", 
+        "INFOTEXT3": "hvad de kan skrive til dig om", 
+        "INFOTEXT4": "hvor længe du normalt er om at svare", 
+        "INFOTEXT5": "hvilke andre måder de kan kontakte dig på (f.eks. telefon eller via sociale medier).", 
+        "INFOTEXT_TEASER": "Denne side er en kontaktside. Siden gør det muligt for besøgende på dit website at sende dig en e-mail. E-mailen bliver sendt direkte til din e-mailindbakke, så du hurtigt kan svare på den.", 
+        "RECIEVED_MESSAGES_BUTTON": "Se modtagne beskeder"
+      }, 
+      "CREATE": {
+        "BUTTON": "Slip for reklamer med PRO", 
+        "TEXT": "Vi bruger dette område til en lille reklame for SimpleSite, så dit website kan blive ved med at være fuldstændig gratis.", 
+        "TITLE": "Dit website er gratis"
+      }, 
+      "DELETE_MODAL": {
+        "DELETE_TITLE": "Slet indhold", 
+        "IS_EMPTY": "Dette afsnit er tomt. Hvis du fortsætter, bliver afsnittet slettet. Ønsker du at slette dette afsnit?", 
+        "REALLY": "Slet dette indhold fra din side?"
+      }, 
+      "DIVIDER_SECTION": {
+        "STYLE": "Udseende af separator", 
+        "STYLES": {
+          "DASHED": "Streger", 
+          "DOTTED": "Prikker", 
+          "SOLID": "Streg"
+        }
+      }, 
+      "FOOTER": {
+        "FREEMIUM": {
+          "LINK": "Få dit eget GRATIS website. Klik her!", 
+          "TEXT": "Dette website er oprettet med SimpleSite"
+        }, 
+        "PAYING": {
+          "TEXT": "Oprettet med SimpleSite"
+        }
+      }, 
+      "HERO_SECTION": {
+        "CTA_OPTIONS": {
+          "CTA_LINK_LABEL": "Hvad skal knappen linke til?", 
+          "CTA_TEXT_LABEL": "Hvad skal der stå på knappen? (Eksempler: \"Læs mere\", \"Kontakt os nu\")", 
+          "INVALID_LINK": "Du skal angive, hvilken side der skal vises, når en bruger trykker på knappen.", 
+          "INVALID_TEXT": "Du skal skrive en tekst til knappen. En knap uden tekst er sværere at forstå for brugerne af dit website.", 
+          "TITLE": "Indstillinger for knap"
+        }, 
+        "CTA_PLACEHOLDER": "Klik på mig", 
+        "HEADLINE_PLACEHOLDER": "Overskrift", 
+        "INCLUDE_BUTTON": "Medtag knap", 
+        "LINK_DEFAULT_OPTION": "Link til", 
+        "TEXT_PLACEHOLDER": "Jeg er et afsnit Klik her for at tilføje din egen tekst og redigere mig. Jeg er et rigtig godt sted for dig at fortælle din historie, så besøgende på dit website kan lære dig lidt bedre at kende."
+      }, 
+      "MENU": {
+        "DESKTOP": {
+          "MORE": "MERE"
+        }, 
+        "MOBILE": {
+          "MORE": "Sideliste"
+        }
+      }, 
+      "NEWS_SECTION": {
+        "ADDNEWS": "tilføj nyhed", 
+        "ADD_NEWS_PLACEHOLDER": "Tilføj nyhedsoverskrift", 
+        "DELETE": "slet nyhed", 
+        "DESCRIPTION_PLACEHOLDER": "Tilføj tekst", 
+        "LINK": "Vælg en side", 
+        "LINK_LABEL": "Opret link fra denne nyhed til en side", 
+        "NEWS_HEADLINE_PLACEHOLDER": "Tilføj overskrift"
+      }, 
+      "PHOTO_ALBUM": {
+        "FILE_NOT_UPLOADED": "En af dine filer blev ikke uploadet", 
+        "PHOTO_CAPTION": "Tilføj beskrivelse", 
+        "SHOW_SLIDESHOW": "Vis diasshow på side", 
+        "TITLE_PLACEHOLDER": "Skriv en titel", 
+        "TRANSITIONS": {
+          "CUBIC": "Kubisk", 
+          "FADE": "Fade", 
+          "RANDOM": "Vilkårlig", 
+          "SLIDE": "Dias", 
+          "STRIPE": "Stribe", 
+          "UPDOWN": "Op/ned"
+        }, 
+        "UPLOAD_IMAGES": "Upload billeder"
+      }, 
+      "SECTIONS": {
+        "ADD_SECTION_TEXT": "Tilføj indhold", 
+        "COLUMNS": "Kolonner", 
+        "DIVIDER": "Separator", 
+        "HERO": "Plakat", 
+        "NEWS": "Nyheder", 
+        "PHOTO": "Billede", 
+        "SIGNATURE": "Underskrift", 
+        "SLIDESHOW": "Diasshow", 
+        "TEXT": "Tekst", 
+        "TEXTLEFT": "Tekst + billede", 
+        "TEXTNOIMAGE": "Tekst", 
+        "TEXTRIGHT": "Tekst + billede", 
+        "TITLE": "Overskrift", 
+        "VIDEO": "Video"
+      }, 
+      "SELECT_IMAGE_MODAL": {
+        "LIBRARY_BUTTON": "Fra bibliotek", 
+        "LIBRARY_BUTTON_TEXT": "Benyt et billede fra vores gratis bibliotek med billeder i høj kvalitet", 
+        "OUTTRO": "Tip: Du kan altid ændre billedet senere", 
+        "TITLE": "Vælg det billede, du ønsker at bruge", 
+        "UPLOAD_BUTTON": "Upload", 
+        "UPLOAD_BUTTON_TEXT": "Upload dit eget billede"
+      }, 
+      "SHARE": {
+        "COPY_CLIPBOARD": "Kopiér til udklipsholder", 
+        "FACEBOOK": "Del på Facebook", 
+        "GOOGLEPLUS": "Del på Google+", 
+        "MAIL_BODY": "Jeg har lige opdateret mit website på [livewebsite]", 
+        "MAIL_SUBJECT": "Kom og se mit website!", 
+        "SHARE": "Del", 
+        "SOCIAL_MEDIA": "Del dit website", 
+        "TITLE": "Del denne side", 
+        "TWITTER": "Del på Twitter", 
+        "URL_LABEL": "Dit websites adresse"
+      }, 
+      "SIGNATURE_SECTION": {
+        "REGARDS_TEXT_PLACEHOLDER": "Venlig hilsen", 
+        "SIGNATURE_PREVIEW_TEXT": "Underskrift", 
+        "SIGNATURE_TEXT_PLACEHOLDER": "Underskrift"
+      }, 
+      "SLIDESHOW_SECTION": {
+        "ADD_CAPTION_PLACEHOLDER": "Tilføj billedtekst", 
+        "ERR_FINISH_EDITING": "Afslut redigering eller uploading af det aktuelle billede!", 
+        "ERR_MAX_SLIDESHOW_NUMBER": "Maks. antal billeder: ", 
+        "HEADLINE_IMAGE_PLACEHOLDER": "Tilføj billedoverskrift", 
+        "HEADLINE_SELECT": "Link til overskrift", 
+        "LINK_IMAGE_TITLE": "Tilføj link til billede", 
+        "TRANSITION_CUBIC": "Kubisk", 
+        "TRANSITION_FADE": "Fade", 
+        "TRANSITION_RANDOM": "Vilkårlig", 
+        "TRANSITION_SELECT_DEFAULT": "Overgange", 
+        "TRANSITION_SLIDE": "Dias", 
+        "TRANSITION_STRIPE": "Stribe", 
+        "TRANSITION_UPDOWN": "Op/ned", 
+        "UPLOAD_TEXT": "upload billeder"
+      }, 
+      "SS_IMAGE": {
+        "CAPTION": "Billedtekst", 
+        "CROP": "Beskær", 
+        "DONE": "Udført", 
+        "REPLACE_IMAGE": "Udskift", 
+        "ROTATE_LEFT": "Roter til venstre", 
+        "ROTATE_RIGHT": "Roter til højre", 
+        "SELECT_IMAGE": "Vælg billede", 
+        "UPLOAD_IMAGE": "Upload", 
+        "WRONG_FILETYPE": "Forkert filformat. Du skal uploade en billedfil."
+      }, 
+      "SS_TEXTEDITOR": {
+        "ADD_TEXT": "Tilføj tekst", 
+        "PLACEHOLDER": "Klik for at tilføje tekst", 
+        "RESET_STYLES": "Nulstil styles", 
+        "SWIPE_TEXT": "Svirp for mere"
+      }, 
+      "TITLE_SECTION": {
+        "DEFAULT_TEXT": "Jeg er en overskrift"
+      }, 
+      "TRANSITION_TITLE_TEXT": "overgangstype", 
+      "UPGRADE_TO_PRO_MODAL": {
+        "UPGRADE_TO_PRO": "Opgrader til PRO", 
+        "UPGRADE_TO_PRO_DIMMED_TEXT": "Du forsøger at gemme PRO-funktioner", 
+        "UPGRADE_TO_PRO_TEXT_1": "PRO-funktioner, som den, du netop har valgt, er kun tilgængelige i SimpleSite PRO.", 
+        "UPGRADE_TO_PRO_TEXT_2": "SimpleSite PRO indeholder mange designfunktioner og fjerner alle reklamer og branding fra SimpleSite fra dit website. Du kan også få dit eget personlige domænenavn med SimpleSite PRO.", 
+        "UPGRADE_TO_PRO_TEXT_3": "Prøv SimpleSite PRO gratis og helt uforpligtende i 14 dage.", 
+        "UPGRADE_TO_PRO_TEXT_4": "God fornøjelse!"
+      }, 
+      "VIDEO_SECTION": {
+        "ADD": "Tilføj video", 
+        "ADD_URL_PLACEHOLDER": "Indtast URL til video", 
+        "AVAILABLE_SHORTLY": "Video kan ses om lidt.", 
+        "BROWSE": "Gennemse", 
+        "ENTER_VIDEO_URL": "Indtast URL til video", 
+        "NO_URL_IN_EXTERNAL_INPUT": "Ingen URL indtastet. Indtast URL til YouTube eller Vimeo.", 
+        "OR": "eller", 
+        "PROCESSING_VIDEO": "Vi er i gang med at behandle din video. Du vil kunne se videoklippet om et øjeblik.", 
+        "TEXT_PLACEHOLDER": "Tilføj beskrivelse af video", 
+        "TITLE_PLACEHOLDER": "Tilføj overskrift for video", 
+        "UPLOAD": "Upload", 
+        "VIDEO_DESCRIPTION": "Beskrivelse af video", 
+        "WRONG_FILETYPE": "Filformat understøttes ikke. Upload videofil.", 
+        "WRONG_URL": "Forkert URL. Indtast URL til YouTube eller Vimeo."
+      }, 
+      "WEBSHOP": {
+        "TEST_OR_EDIT": {
+          "EDIT_BUTTON": "Rediger produktliste", 
+          "TEST_BUTTON": "Vis shop live", 
+          "TITLE": "Hvad vil du gerne fortage dig nu?"
+        }
+      }
+    }, 
+    "PREVIEW_SITE_URL": {
+      "GOTIT": "OK, DET ER FORSTÅET", 
+      "HEADER": "Det er dit websites adresse"
+    }
+  }
+}
