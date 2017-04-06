@@ -1,0 +1,1374 @@
+<xliff srcLang="en-US" trgLang="da-DK" version="2.0" 
+  xmlns="urn:oasis:names:tc:xliff:document:2.0">
+  <file id="home" original="Home.json">
+    <skeleton href="Home.json"/>
+    <unit id="BASE.UPGRADENOW" maxbytes="300">
+      <segment>
+        <source>Jetzt upgraden</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.DESIGN_EDITOR.BACK" maxbytes="300">
+      <segment>
+        <source>Zurück</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.DESIGN_EDITOR.BACKGROUND" maxbytes="300">
+      <segment>
+        <source>Hintergrund</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.DESIGN_EDITOR.BACKGROUNDS" maxbytes="300">
+      <segment>
+        <source>Hintergründe</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.DESIGN_EDITOR.COLORS" maxbytes="300">
+      <segment>
+        <source>Website-Farben</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.DESIGN_EDITOR.DESIGN" maxbytes="300">
+      <segment>
+        <source>Layout</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.DESIGN_EDITOR.DESIGN_1" maxbytes="300">
+      <segment>
+        <source>Layout 1</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.DESIGN_EDITOR.DESIGN_2" maxbytes="300">
+      <segment>
+        <source>Layout 2</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.DESIGN_EDITOR.DESIGN_3" maxbytes="300">
+      <segment>
+        <source>Layout 3</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.DESIGN_EDITOR.DESIGN_HEADER" maxbytes="300">
+      <segment>
+        <source>Website-Layout</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.DESIGN_EDITOR.FONTS" maxbytes="300">
+      <segment>
+        <source>Website-Schriftarten</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.DESIGN_EDITOR.FREE_LOGOS" maxbytes="300">
+      <segment>
+        <source>Logos</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.DESIGN_EDITOR.GO_PRO_BACKGROUNDS_MESSAGE" maxbytes="300">
+      <segment>
+        <source>Auf Pro aktualisieren, um diesen Hintergrund zu verwenden</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.DESIGN_EDITOR.GO_PRO_MESSAGE_TITLE" maxbytes="300">
+      <segment>
+        <source>Auf Pro aktualisieren</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.DESIGN_EDITOR.MORE_BACKGROUNDS" maxbytes="300">
+      <segment>
+        <source>Mehr Hintergründe</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.DESIGN_EDITOR.MORE_COLORS" maxbytes="300">
+      <segment>
+        <source>Weitere Farben</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.DESIGN_EDITOR.MORE_DESIGNS" maxbytes="300">
+      <segment>
+        <source>Mehr Layouts</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.DESIGN_EDITOR.MORE_FONTS" maxbytes="300">
+      <segment>
+        <source>Weitere Schriftarten</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.DESIGN_EDITOR.MORE_LOGOS" maxbytes="300">
+      <segment>
+        <source>Mehr Logos</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.DESIGN_EDITOR.NO_BACKGROUND" maxbytes="300">
+      <segment>
+        <source>Kein Hintergrund</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.DESIGN_EDITOR.NO_LOGO" maxbytes="300">
+      <segment>
+        <source>Kein Logo</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.DESIGN_EDITOR.PRO_BACKGROUNDS" maxbytes="300">
+      <segment>
+        <source>Pro-Hintergründe</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.DESIGN_EDITOR.PRO_FONTS" maxbytes="300">
+      <segment>
+        <source>Pro-Schriftarten</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.DESIGN_EDITOR.PRO_LOGOS" maxbytes="300">
+      <segment>
+        <source>Premium-Logos</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.DESIGN_EDITOR.REPLACE_BACKGROUND" maxbytes="300">
+      <segment>
+        <source>Hintergrund ersetzen</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.DESIGN_EDITOR.UPGRADE_TO_PRO" maxbytes="300">
+      <segment>
+        <source>Auf PRO aktualisieren</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.DESIGN_EDITOR.UPLOAD_BACKGROUND" maxbytes="300">
+      <segment>
+        <source>Hintergrund hochladen</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.DESIGN_EDITOR.UPLOAD_LOGO" maxbytes="300">
+      <segment>
+        <source>Logo hochladen</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.DESIGN_EDITOR.UPLOAD_YOUR_OWN" maxbytes="300">
+      <segment>
+        <source>Bild darf nicht größer als 5MB sein.</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.DESIGN_EDITOR.VIDEO_BACKGROUND" maxbytes="300">
+      <segment>
+        <source>Video </source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.DESIGN_EDITOR.YOUR_OWN_BACKGROUND" maxbytes="300">
+      <segment>
+        <source>Ihr Hintergrund</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PAGES_OVERVIEW.NEW_PAGE_MODAL.ABOUT_US" maxbytes="300">
+      <segment>
+        <source>Über uns</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PAGES_OVERVIEW.NEW_PAGE_MODAL.ABOUT_US_TEXT" maxbytes="300">
+      <segment>
+        <source>Erzählen Sie etwas über sich, Ihr Geschäft oder Unternehmen</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PAGES_OVERVIEW.NEW_PAGE_MODAL.ADD" maxbytes="300">
+      <segment>
+        <source>Hinzufügen</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PAGES_OVERVIEW.NEW_PAGE_MODAL.ADDRESS_PAGE" maxbytes="300">
+      <segment>
+        <source>Adresse</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PAGES_OVERVIEW.NEW_PAGE_MODAL.ADDRESS_PAGE_TEXT" maxbytes="300">
+      <segment>
+        <source>Fügen Sie Kontaktdaten hinzu, damit die Besucher Sie erreichen können.</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PAGES_OVERVIEW.NEW_PAGE_MODAL.BLOG" maxbytes="300">
+      <segment>
+        <source>Blog</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PAGES_OVERVIEW.NEW_PAGE_MODAL.BLOG_TEXT" maxbytes="300">
+      <segment>
+        <source>Schreiben Sie über Ihre Meinungen, Aktivitäten und Erfahrungen.</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PAGES_OVERVIEW.NEW_PAGE_MODAL.CONTACT_ME" maxbytes="300">
+      <segment>
+        <source>Kontaktseite</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PAGES_OVERVIEW.NEW_PAGE_MODAL.CONTACT_ME_TEXT" maxbytes="300">
+      <segment>
+        <source>Fügen Sie Ihre Kontaktseite hinzu, damit Besucher Sie über E-Mail erreichen können.</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PAGES_OVERVIEW.NEW_PAGE_MODAL.GUESTBOOK_PAGE" maxbytes="300">
+      <segment>
+        <source>Gästebuch</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PAGES_OVERVIEW.NEW_PAGE_MODAL.GUESTBOOK_PAGE_TEXT" maxbytes="300">
+      <segment>
+        <source>Hier können Besucher Ihnen eine Nachricht schreiben.</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PAGES_OVERVIEW.NEW_PAGE_MODAL.MY_PROJECT" maxbytes="300">
+      <segment>
+        <source>Mein Projekt</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PAGES_OVERVIEW.NEW_PAGE_MODAL.MY_PROJECT_TEXT" maxbytes="300">
+      <segment>
+        <source>Teilen Sie der Welt mit, woran Sie gerade arbeiten oder zeigen Sie, was Sie schon geschafft haben.</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PAGES_OVERVIEW.NEW_PAGE_MODAL.PEOPLE_GALLERY" maxbytes="300">
+      <segment>
+        <source>Mitarbeiter-Galerie</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PAGES_OVERVIEW.NEW_PAGE_MODAL.PEOPLE_GALLERY_TEXT" maxbytes="300">
+      <segment>
+        <source>Wer sind die Leute in Ihrem Unternehmen? Stellen Sie Ihre Mitarbeiter vor, um Ihrer Website eine menschliche Note zu verleihen.</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PAGES_OVERVIEW.NEW_PAGE_MODAL.PHOTO_ALBUM" maxbytes="300">
+      <segment>
+        <source>Fotoalbum</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PAGES_OVERVIEW.NEW_PAGE_MODAL.PHOTO_ALBUM_TEXT" maxbytes="300">
+      <segment>
+        <source>Fügen Sie Bilder hinzu und erzählen Sie visuell Ihre Geschichte.</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PAGES_OVERVIEW.NEW_PAGE_MODAL.PHOTO_STORY" maxbytes="300">
+      <segment>
+        <source>Foto-Story</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PAGES_OVERVIEW.NEW_PAGE_MODAL.PHOTO_STORY_TEXT" maxbytes="300">
+      <segment>
+        <source>Ein Bild sagt mehr als tausend Worte. Unterstützen Sie Ihre Inhalte mit Bildern, wenn Worte nicht ausreichen.</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PAGES_OVERVIEW.NEW_PAGE_MODAL.PLACEHOLDER" maxbytes="300">
+      <segment>
+        <source>Seitenname</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PAGES_OVERVIEW.NEW_PAGE_MODAL.SERVICE_LIST" maxbytes="300">
+      <segment>
+        <source>Service-Liste</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PAGES_OVERVIEW.NEW_PAGE_MODAL.SERVICE_LIST_TEXT" maxbytes="300">
+      <segment>
+        <source>Erzählen Sie Ihren Besuchern, welche Dienste Sie anbieten. Binden Sie Preise, Beschreibungen und Bilder ein, damit Besucher einfach vergleichen können.</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PAGES_OVERVIEW.NEW_PAGE_MODAL.STANDARD_PAGE" maxbytes="300">
+      <segment>
+        <source>Leer</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PAGES_OVERVIEW.NEW_PAGE_MODAL.STANDARD_PAGE_TEXT" maxbytes="300">
+      <segment>
+        <source>Erstellen Sie eine Seite nach Ihren Wünschen.</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PAGES_OVERVIEW.NEW_PAGE_MODAL.TITLE" maxbytes="300">
+      <segment>
+        <source>Neue Seite hinzufügen</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PAGES_OVERVIEW.NEW_PAGE_MODAL.WEBSHOP" maxbytes="300">
+      <segment>
+        <source>Webshop</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PAGES_OVERVIEW.NEW_PAGE_MODAL.WEBSHOP_TEXT" maxbytes="300">
+      <segment>
+        <source>Verkaufen Sie Ihre Produkte online.</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.ADD_IMAGE_MODAL.CATEGORIES.ANIMALS" maxbytes="300">
+      <segment>
+        <source>Tiere</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.ADD_IMAGE_MODAL.CATEGORIES.FASHION" maxbytes="300">
+      <segment>
+        <source>Mode</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.ADD_IMAGE_MODAL.CATEGORIES.FOOD" maxbytes="300">
+      <segment>
+        <source>Lebensmittel</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.ADD_IMAGE_MODAL.CATEGORIES.FUN" maxbytes="300">
+      <segment>
+        <source>Freizeit</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.ADD_IMAGE_MODAL.CATEGORIES.KIDS" maxbytes="300">
+      <segment>
+        <source>Kinder</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.ADD_IMAGE_MODAL.CATEGORIES.LOVE" maxbytes="300">
+      <segment>
+        <source>Liebe</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.ADD_IMAGE_MODAL.CATEGORIES.NATURE" maxbytes="300">
+      <segment>
+        <source>Natur</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.ADD_IMAGE_MODAL.CATEGORIES.OBJECTS" maxbytes="300">
+      <segment>
+        <source>Gegenstände</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.ADD_IMAGE_MODAL.CATEGORIES.SCENERY" maxbytes="300">
+      <segment>
+        <source>Landschaften</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.ADD_IMAGE_MODAL.CATEGORIES.WORK" maxbytes="300">
+      <segment>
+        <source>Arbeit</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.ADD_IMAGE_MODAL.CATEGORY" maxbytes="300">
+      <segment>
+        <source>Alle</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.ADD_IMAGE_MODAL.CATEGORY_LABEL" maxbytes="300">
+      <segment>
+        <source>Kategorie</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.ADD_IMAGE_MODAL.TIP" maxbytes="300">
+      <segment>
+        <source>Tipp: Sie können die Bilder filtern, indem Sie eine Kategorie auswählen.</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.ADD_IMAGE_MODAL.TITLE" maxbytes="300">
+      <segment>
+        <source>Bild auswählen</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.ADD_IMAGE_MODAL.UPLOAD_BUTTON" maxbytes="300">
+      <segment>
+        <source>Hochladen</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.ADD_SECTION_MODAL.TITLE" maxbytes="300">
+      <segment>
+        <source>Inhalt hinzufügen</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.COLUMNS_SECTION.DESCRIPTION_PLACEHOLDER" maxbytes="300">
+      <segment>
+        <source>Beschreibung hinzufügen</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.COLUMNS_SECTION.HEADLINE_PLACEHOLDER" maxbytes="300">
+      <segment>
+        <source>Spaltenüberschrift hinzufügen</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.COLUMNS_SECTION.MODAL_LABEL" maxbytes="300">
+      <segment>
+        <source>Titel</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.COLUMNS_SECTION.MODAL_LINK_LABEL" maxbytes="300">
+      <segment>
+        <source>Womit soll der Titel verlinkt werden?</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.COLUMNS_SECTION.MODAL_TITLE" maxbytes="300">
+      <segment>
+        <source>Titeleinstellungen</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.COLUMNS_SECTION.SELECT_PAGE_OPTION" maxbytes="300">
+      <segment>
+        <source>Eine Seite auswählen</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.COLUMNS_SECTION.SWITCH_BUTTONS_LABEL" maxbytes="300">
+      <segment>
+        <source>Anzahl an Spalten</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.COLUMNS_SECTION.THREE_COLUMNS" maxbytes="300">
+      <segment>
+        <source>Drei Spalten</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.COLUMNS_SECTION.TWO_COLUMNS" maxbytes="300">
+      <segment>
+        <source>Zwei Spalten</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.COLUMNS_SECTION.BLOCK" maxbytes="300">
+      <segment>
+        <source>Blocknr.</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.COLUMNS_SECTION.BLOCKS" maxbytes="300">
+      <segment>
+        <source>Blöcke</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.COMMENTS_BOX.INFOTEXT1" maxbytes="300">
+      <segment>
+        <source>Dies ist der Kommentarbereich für diese Seite. Hier können Besucher Kommentare auf Ihrer Website hinterlassen.</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.COMMENTS_BOX.INFOTEXT2" maxbytes="300">
+      <segment>
+        <source>Kommentare sind eine gute Methode, um Feedback von Ihren Besuchern zu erhalten. Anders als E-Mails sind Kommentare nicht nur für Sie, sondern auch für andere Besucher sichtbar.</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.COMMENTS_BOX.INFOTEXT3" maxbytes="300">
+      <segment>
+        <source>Wechseln Sie zu Ihrer {livewebsite} oder Ihren Kommentareinstellungen auf der Registerkarte &apos;[@:HOME.MAINMENU.ACCOUNT]‘, um die Kommentare anzusehen, die Besucher bereits abgegeben haben. In den Einstellungen können Sie Kommentare auch prüfen und löschen und das Kommentarfeld auf einzelnen Seiten Ihrer Website ein- bzw. ausschalten.</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.COMMENTS_BOX.INFOTEXT_TEASER" maxbytes="300">
+      <segment>
+        <source>Dies ist der Kommentarbereich für diese Seite. Hier können Besucher Kommentare auf Ihrer Website hinterlassen.</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.CONTACT_ME.FORM_BUTTON" maxbytes="300">
+      <segment>
+        <source>Senden – klicken Sie hier!</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.CONTACT_ME.FORM_HEADLINE" maxbytes="300">
+      <segment>
+        <source>Geben Sie hier Ihre Nachricht ein. Füllen Sie das Formular aus:</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.CONTACT_ME.INFOTEXT1" maxbytes="300">
+      <segment>
+        <source>Dies ist eine Kontaktseite. Auf dieser Seite können Besucher Ihnen eine E-Mail senden, um Kontakt mit Ihnen aufzunehmen.</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.CONTACT_ME.INFOTEXT2" maxbytes="300">
+      <segment>
+        <source>Schreiben Sie oben auf der Seite eine kurze Nachricht an Ihre Besucher. Bevor Besucher Ihnen schreiben, möchten sie oft Folgendes wissen:</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.CONTACT_ME.INFOTEXT3" maxbytes="300">
+      <segment>
+        <source>Was können sie Ihnen schreiben?</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.CONTACT_ME.INFOTEXT4" maxbytes="300">
+      <segment>
+        <source>Wie lange dauert es normalerweise, bis sie eine Antwort erhalten?</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.CONTACT_ME.INFOTEXT5" maxbytes="300">
+      <segment>
+        <source>Welche anderen Möglichkeiten gibt es, mit Ihnen Kontakt aufzunehmen (z. B. per Telefon oder Social Media)?</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.CONTACT_ME.INFOTEXT_TEASER" maxbytes="300">
+      <segment>
+        <source>Diese Seite ist eine Kontaktseite. Auf dieser Seite können Besucher Ihnen eine E-Mail senden. Diese E-Mail landet direkt in Ihrem Posteingang, so dass Sie sofort antworten können.</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.CONTACT_ME.RECIEVED_MESSAGES_BUTTON" maxbytes="300">
+      <segment>
+        <source>Erhaltene Nachrichten ansehen</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.CREATE.BUTTON" maxbytes="300">
+      <segment>
+        <source>Werbung entfernen mit PRO</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.CREATE.TEXT" maxbytes="300">
+      <segment>
+        <source>In diesem Bereich wird eine kleine Werbung für SimpleSite angezeigt, so dass Ihre Website komplett kostenlos bleibt.</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.CREATE.TITLE" maxbytes="300">
+      <segment>
+        <source>Ihre Website ist kostenlos</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.DELETE_MODAL.DELETE_TITLE" maxbytes="300">
+      <segment>
+        <source>Inhalt löschen</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.DELETE_MODAL.IS_EMPTY" maxbytes="300">
+      <segment>
+        <source>Dieser Bereich ist leer. Wenn Sie fortfahren, wird der Bereich gelöscht. Möchten Sie den Bereich löschen?</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.DELETE_MODAL.REALLY" maxbytes="300">
+      <segment>
+        <source>Diesen Inhalt von der Seite löschen?</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.DIVIDER_SECTION.STYLE" maxbytes="300">
+      <segment>
+        <source>Divider-Stil</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.DIVIDER_SECTION.STYLES.DASHED" maxbytes="300">
+      <segment>
+        <source>Gestrichelt</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.DIVIDER_SECTION.STYLES.DOTTED" maxbytes="300">
+      <segment>
+        <source>Punkte</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.DIVIDER_SECTION.STYLES.SOLID" maxbytes="300">
+      <segment>
+        <source>Linie</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.FOOTER.FREEMIUM.LINK" maxbytes="300">
+      <segment>
+        <source>Holen Sie sich Ihre eigene, KOSTENLOSE Website. Klicken Sie hier!</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.FOOTER.FREEMIUM.TEXT" maxbytes="300">
+      <segment>
+        <source>Diese Website wurde mit SimpleSite erstellt.</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.FOOTER.PAYING.TEXT" maxbytes="300">
+      <segment>
+        <source>Erstellt mit SimpleSite</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.HERO_SECTION.CTA_OPTIONS.CTA_LINK_LABEL" maxbytes="300">
+      <segment>
+        <source>Womit soll die Schaltfläche verlinkt werden?</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.HERO_SECTION.CTA_OPTIONS.CTA_TEXT_LABEL" maxbytes="300">
+      <segment>
+        <source>Was soll auf der Schaltfläche stehen? (Beispiele: „Mehr erfahren“, „Jetzt Kontakt aufnehmen“)</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.HERO_SECTION.CTA_OPTIONS.INVALID_LINK" maxbytes="300">
+      <segment>
+        <source>Geben Sie an, welche Seite angezeigt wird, wenn Benutzer die Schaltfläche anklicken.</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.HERO_SECTION.CTA_OPTIONS.INVALID_TEXT" maxbytes="300">
+      <segment>
+        <source>Geben Sie einen Text für die Schaltfläche ein. Eine Schaltfäche ohne Text wird für Ihre Besucher keinen Sinn ergeben.</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.HERO_SECTION.CTA_OPTIONS.TITLE" maxbytes="300">
+      <segment>
+        <source>Schaltflächeneinstellungen</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.HERO_SECTION.CTA_PLACEHOLDER" maxbytes="300">
+      <segment>
+        <source>Hier klicken</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.HERO_SECTION.HEADLINE_PLACEHOLDER" maxbytes="300">
+      <segment>
+        <source>Überschrift</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.HERO_SECTION.INCLUDE_BUTTON" maxbytes="300">
+      <segment>
+        <source>Schaltfäche einbeziehen</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.HERO_SECTION.LINK_DEFAULT_OPTION" maxbytes="300">
+      <segment>
+        <source>Link zu</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.HERO_SECTION.TEXT_PLACEHOLDER" maxbytes="300">
+      <segment>
+        <source>Dies ist ein Absatz. Klicken Sie hier, um Ihren eigenen Text einzugeben. Erzählen Sie hier Ihre Geschichte und verraten Sie Ihren Besuchern etwas mehr über sich.</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.MENU.DESKTOP.MORE" maxbytes="300">
+      <segment>
+        <source>MEHR</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.MENU.MOBILE.MORE" maxbytes="300">
+      <segment>
+        <source>Seitenliste</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.NEWS_SECTION.ADDNEWS" maxbytes="300">
+      <segment>
+        <source>Neuigkeiten hinzufügen</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.NEWS_SECTION.ADD_NEWS_PLACEHOLDER" maxbytes="300">
+      <segment>
+        <source>Bulletin-Überschrift hinzufügen</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.NEWS_SECTION.DELETE" maxbytes="300">
+      <segment>
+        <source>Neuigkeiten löschen</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.NEWS_SECTION.DESCRIPTION_PLACEHOLDER" maxbytes="300">
+      <segment>
+        <source>Text hinzufügen</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.NEWS_SECTION.LINK" maxbytes="300">
+      <segment>
+        <source>Eine Seite auswählen</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.NEWS_SECTION.LINK_LABEL" maxbytes="300">
+      <segment>
+        <source>Diese Nachrichten mit einer Seite verlinken</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.NEWS_SECTION.NEWS_HEADLINE_PLACEHOLDER" maxbytes="300">
+      <segment>
+        <source>Überschrift hinzufügen</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.PHOTO_ALBUM.FILE_NOT_UPLOADED" maxbytes="300">
+      <segment>
+        <source>Eine Ihrer Dateien wurde nicht hochgeladen.</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.PHOTO_ALBUM.PHOTO_CAPTION" maxbytes="300">
+      <segment>
+        <source>Beschreibung hinzufügen</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.PHOTO_ALBUM.SHOW_SLIDESHOW" maxbytes="300">
+      <segment>
+        <source>Dia-Show auf Seite anzeigen</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.PHOTO_ALBUM.TITLE_PLACEHOLDER" maxbytes="300">
+      <segment>
+        <source>Titel schreiben</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.PHOTO_ALBUM.TRANSITIONS.CUBIC" maxbytes="300">
+      <segment>
+        <source>Kubisch</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.PHOTO_ALBUM.TRANSITIONS.FADE" maxbytes="300">
+      <segment>
+        <source>Ausblenden</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.PHOTO_ALBUM.TRANSITIONS.RANDOM" maxbytes="300">
+      <segment>
+        <source>Zufällig</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.PHOTO_ALBUM.TRANSITIONS.SLIDE" maxbytes="300">
+      <segment>
+        <source>Wischen</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.PHOTO_ALBUM.TRANSITIONS.STRIPE" maxbytes="300">
+      <segment>
+        <source>Streifen</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.PHOTO_ALBUM.TRANSITIONS.UPDOWN" maxbytes="300">
+      <segment>
+        <source>Nach oben/Nach unten</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.PHOTO_ALBUM.UPLOAD_IMAGES" maxbytes="300">
+      <segment>
+        <source>Bilder hochladen</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.SECTIONS.ADD_SECTION_TEXT" maxbytes="300">
+      <segment>
+        <source>Inhalt hinzufügen</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.SECTIONS.COLUMNS" maxbytes="300">
+      <segment>
+        <source>Spalten</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.SECTIONS.DIVIDER" maxbytes="300">
+      <segment>
+        <source>Divider</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.SECTIONS.HERO" maxbytes="300">
+      <segment>
+        <source>Autor</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.SECTIONS.NEWS" maxbytes="300">
+      <segment>
+        <source>Neuigkeiten</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.SECTIONS.PHOTO" maxbytes="300">
+      <segment>
+        <source>Bild</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.SECTIONS.SIGNATURE" maxbytes="300">
+      <segment>
+        <source>Unterschrift</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.SECTIONS.SLIDESHOW" maxbytes="300">
+      <segment>
+        <source>Dia-Show</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.SECTIONS.TEXT" maxbytes="300">
+      <segment>
+        <source>Text</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.SECTIONS.TEXTLEFT" maxbytes="300">
+      <segment>
+        <source>Text + Bild</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.SECTIONS.TEXTNOIMAGE" maxbytes="300">
+      <segment>
+        <source>Text</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.SECTIONS.TEXTRIGHT" maxbytes="300">
+      <segment>
+        <source>Text + Bild</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.SECTIONS.TITLE" maxbytes="300">
+      <segment>
+        <source>Überschrift</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.SECTIONS.VIDEO" maxbytes="300">
+      <segment>
+        <source>Video</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.SELECT_IMAGE_MODAL.LIBRARY_BUTTON" maxbytes="300">
+      <segment>
+        <source>Aus der Bibliothek</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.SELECT_IMAGE_MODAL.LIBRARY_BUTTON_TEXT" maxbytes="300">
+      <segment>
+        <source>Verwenden Sie ein Bild aus unserer Bibliothek mit kostenlosen Bildern in hoher Qualität.</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.SELECT_IMAGE_MODAL.OUTTRO" maxbytes="300">
+      <segment>
+        <source>Tipp: Sie können das Bild später jederzeit ändern.</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.SELECT_IMAGE_MODAL.TITLE" maxbytes="300">
+      <segment>
+        <source>Wählen Sie das Bild aus, das Sie verwenden möchten.</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.SELECT_IMAGE_MODAL.UPLOAD_BUTTON" maxbytes="300">
+      <segment>
+        <source>Hochladen</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.SELECT_IMAGE_MODAL.UPLOAD_BUTTON_TEXT" maxbytes="300">
+      <segment>
+        <source>Laden Sie Ihr eigenes Bild hoch.</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.SHARE.SHARE" maxbytes="300">
+      <segment>
+        <source>Teilen</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.SHARE.SOCIAL_MEDIA" maxbytes="300">
+      <segment>
+        <source>Ihre Website teilen</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.SHARE.URL_LABEL" maxbytes="300">
+      <segment>
+        <source>Adresse Ihrer Website</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.SHARE.COPY_CLIPBOARD" maxbytes="300">
+      <segment>
+        <source>In Zwischenablage kopieren</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.SHARE.MAIL_SUBJECT" maxbytes="300">
+      <segment>
+        <source>Sehen Sie sich meine Website an</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.SHARE.MAIL_BODY" maxbytes="300">
+      <segment>
+        <source>Ich habe eine neue Website [livewebsite]</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.SHARE.FACEBOOK" maxbytes="300">
+      <segment>
+        <source>Auf Facebook teilen</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.SHARE.GOOGLEPLUS" maxbytes="300">
+      <segment>
+        <source>Auf Google+ teilen</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.SHARE.TITLE" maxbytes="300">
+      <segment>
+        <source>Diese Seite teilen</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.SHARE.TWITTER" maxbytes="300">
+      <segment>
+        <source>Auf Twitter teilen</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.SIGNATURE_SECTION.REGARDS_TEXT_PLACEHOLDER" maxbytes="300">
+      <segment>
+        <source>Herzliche Grüße</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.SIGNATURE_SECTION.SIGNATURE_PREVIEW_TEXT" maxbytes="300">
+      <segment>
+        <source>Unterschrift</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.SIGNATURE_SECTION.SIGNATURE_TEXT_PLACEHOLDER" maxbytes="300">
+      <segment>
+        <source>Unterschrift</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.SLIDESHOW_SECTION.ADD_CAPTION_PLACEHOLDER" maxbytes="300">
+      <segment>
+        <source>Beschriftung hinzufügen</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.SLIDESHOW_SECTION.ERR_FINISH_EDITING" maxbytes="300">
+      <segment>
+        <source>Bearbeiten oder laden Sie das aktuelle Bild hoch!</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.SLIDESHOW_SECTION.ERR_MAX_SLIDESHOW_NUMBER" maxbytes="300">
+      <segment>
+        <source>Max. Anzahl an Bildern: </source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.SLIDESHOW_SECTION.HEADLINE_IMAGE_PLACEHOLDER" maxbytes="300">
+      <segment>
+        <source>Bildüberschrift hinzufügen</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.SLIDESHOW_SECTION.HEADLINE_SELECT" maxbytes="300">
+      <segment>
+        <source>Link zur Überschrift</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.SLIDESHOW_SECTION.LINK_IMAGE_TITLE" maxbytes="300">
+      <segment>
+        <source>Bild verlinken</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.SLIDESHOW_SECTION.TRANSITION_CUBIC" maxbytes="300">
+      <segment>
+        <source>Kubisch</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.SLIDESHOW_SECTION.TRANSITION_FADE" maxbytes="300">
+      <segment>
+        <source>Ausblenden</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.SLIDESHOW_SECTION.TRANSITION_RANDOM" maxbytes="300">
+      <segment>
+        <source>Zufällig</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.SLIDESHOW_SECTION.TRANSITION_SELECT_DEFAULT" maxbytes="300">
+      <segment>
+        <source>Übergänge</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.SLIDESHOW_SECTION.TRANSITION_SLIDE" maxbytes="300">
+      <segment>
+        <source>Wischen</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.SLIDESHOW_SECTION.TRANSITION_STRIPE" maxbytes="300">
+      <segment>
+        <source>Streifen</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.SLIDESHOW_SECTION.TRANSITION_UPDOWN" maxbytes="300">
+      <segment>
+        <source>Nach oben/Nach unten</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.SLIDESHOW_SECTION.UPLOAD_TEXT" maxbytes="300">
+      <segment>
+        <source>Bilder hochladen</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.SS_IMAGE.CAPTION" maxbytes="300">
+      <segment>
+        <source>Beschriftung</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.SS_IMAGE.CROP" maxbytes="300">
+      <segment>
+        <source>Zuschneiden</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.SS_IMAGE.DONE" maxbytes="300">
+      <segment>
+        <source>Fertig</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.SS_IMAGE.REPLACE_IMAGE" maxbytes="300">
+      <segment>
+        <source>Ersetzen</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.SS_IMAGE.ROTATE_LEFT" maxbytes="300">
+      <segment>
+        <source>Nach links drehen</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.SS_IMAGE.ROTATE_RIGHT" maxbytes="300">
+      <segment>
+        <source>Nach rechts drehen</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.SS_IMAGE.SELECT_IMAGE" maxbytes="300">
+      <segment>
+        <source>Bild auswählen</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.SS_IMAGE.UPLOAD_IMAGE" maxbytes="300">
+      <segment>
+        <source>Hochladen</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.SS_IMAGE.WRONG_FILETYPE" maxbytes="300">
+      <segment>
+        <source>Falsches Dateiformat. Bitte laden Sie eine Bilddatei hoch.</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.SS_TEXTEDITOR.ADD_TEXT" maxbytes="300">
+      <segment>
+        <source>Text hinzufügen</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.SS_TEXTEDITOR.PLACEHOLDER" maxbytes="300">
+      <segment>
+        <source>Klicken, um Text hinzuzufügen.</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.SS_TEXTEDITOR.RESET_STYLES" maxbytes="300">
+      <segment>
+        <source>Stil zurücksetzen</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.SS_TEXTEDITOR.SWIPE_TEXT" maxbytes="300">
+      <segment>
+        <source>Wischen, um mehr anzusehen</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.TITLE_SECTION.DEFAULT_TEXT" maxbytes="300">
+      <segment>
+        <source>Ich bin eine Überschrift</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.TRANSITION_TITLE_TEXT" maxbytes="300">
+      <segment>
+        <source>Übergangstyp</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.UPGRADE_TO_PRO_MODAL.UPGRADE_TO_PRO" maxbytes="300">
+      <segment>
+        <source>Auf PRO aktualisieren</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.UPGRADE_TO_PRO_MODAL.UPGRADE_TO_PRO_DIMMED_TEXT" maxbytes="300">
+      <segment>
+        <source>Sie versuchen, PRO-Funktionen zu speichern.</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.UPGRADE_TO_PRO_MODAL.UPGRADE_TO_PRO_TEXT_1" maxbytes="300">
+      <segment>
+        <source>PRO-Funktionen wie diese sind nur mit SimpleSite PRO verfügbar.</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.UPGRADE_TO_PRO_MODAL.UPGRADE_TO_PRO_TEXT_2" maxbytes="300">
+      <segment>
+        <source>SimpleSite PRO bietet mehr Design-Funktionen und entfernt alle SimpleSite-Anzeigen und Markenzeichen von Ihrer Website. Sie können mit SimpleSite PRO auch ihren persönlichen Domain-Namen verwenden.</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.UPGRADE_TO_PRO_MODAL.UPGRADE_TO_PRO_TEXT_3" maxbytes="300">
+      <segment>
+        <source>Testen Sie SimpleSite PRO 14 Tage kostenlos, ohne jegliche Verpflichtung.</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.UPGRADE_TO_PRO_MODAL.UPGRADE_TO_PRO_TEXT_4" maxbytes="300">
+      <segment>
+        <source>Viel Spaß!</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.VIDEO_SECTION.ADD" maxbytes="300">
+      <segment>
+        <source>Video hinzufügen</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.VIDEO_SECTION.ADD_URL_PLACEHOLDER" maxbytes="300">
+      <segment>
+        <source>Video-URL eingeben</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.VIDEO_SECTION.AVAILABLE_SHORTLY" maxbytes="300">
+      <segment>
+        <source>Das Video ist in Kürze verfügbar.</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.VIDEO_SECTION.BROWSE" maxbytes="300">
+      <segment>
+        <source>Durchsuchen</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.VIDEO_SECTION.ENTER_VIDEO_URL" maxbytes="300">
+      <segment>
+        <source>Video-URL eingeben</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.VIDEO_SECTION.NO_URL_IN_EXTERNAL_INPUT" maxbytes="300">
+      <segment>
+        <source>Keine URL eingegeben. Bitte geben Sie eine YouTube- oder Vimeo-URL ein.</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.VIDEO_SECTION.OR" maxbytes="300">
+      <segment>
+        <source>Oder</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.VIDEO_SECTION.PROCESSING_VIDEO" maxbytes="300">
+      <segment>
+        <source>Ihr Video wird bearbeitet. In wenigen Minuten können Sie Ihren Video-Clip ansehen.</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.VIDEO_SECTION.TEXT_PLACEHOLDER" maxbytes="300">
+      <segment>
+        <source>Video-Beschreibung hinzufügen</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.VIDEO_SECTION.TITLE_PLACEHOLDER" maxbytes="300">
+      <segment>
+        <source>Video-Überschrift hinzufügen</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.VIDEO_SECTION.UPLOAD" maxbytes="300">
+      <segment>
+        <source>Hochladen</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.VIDEO_SECTION.VIDEO_DESCRIPTION" maxbytes="300">
+      <segment>
+        <source>Videobeschreibung</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.VIDEO_SECTION.WRONG_FILETYPE" maxbytes="300">
+      <segment>
+        <source>Nicht unterstütztes Dateiformat. Bitte laden Sie eine Videodatei hoch.</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.VIDEO_SECTION.WRONG_URL" maxbytes="300">
+      <segment>
+        <source>Fehlerhafte URL. Bitte geben Sie eine YouTube- oder Vimeo-URL ein.</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.WEBSHOP.TEST_OR_EDIT.EDIT_BUTTON" maxbytes="300">
+      <segment>
+        <source>Produktliste bearbeiten</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.WEBSHOP.TEST_OR_EDIT.TEST_BUTTON" maxbytes="300">
+      <segment>
+        <source>Shop live ansehen</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.WEBSHOP.TEST_OR_EDIT.TITLE" maxbytes="300">
+      <segment>
+        <source>Was möchten Sie als Nächstes tun?</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW_SITE_URL.GOTIT" maxbytes="300">
+      <segment>
+        <source>OK, VERSTANDEN</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW_SITE_URL.HEADER" maxbytes="300">
+      <segment>
+        <source>Das ist die Adresse Ihrer Website</source>
+        <target/>
+      </segment>
+    </unit>
+  </file>
+</xliff>

@@ -1,0 +1,549 @@
+{
+  "HOME": {
+    "ACCOUNT": {
+      "CHANGE": "Ändern",
+      "COMMENTS_DISABLED": "Kommentare sind nicht aktiviert",
+      "COMMENTS_ENABLED": "Kommentare sind aktiviert",
+      "CONTACT": "Kontakt",
+      "COUNTER": "Zähler",
+      "CURRENT_PLAN": "Aktuelles Abo",
+      "CURRENT_PLAN_LABEL_FREE": "Sie haben das BASIS Abo",
+      "CURRENT_PLAN_LABEL_PRO": "Sie haben das PRO Abo",
+      "EMAIL": "E-Mail-Service",
+      "EMAIL2": "E-Mail",
+      "ENABLE": "Aktivieren",
+      "GUIDES": "Leitfaden",
+      "GUIDES_LABEL": "Schritt-für-Schritt Leitfaden",
+      "HELP_AND_SUPPORT": "Hilfe und Support",
+      "INFORMATION": "Ihre Informationen",
+      "LANGUAGE": "Sprache",
+      "LEARN_MORE": "Mehr erfahren",
+      "LOGOUT": "@:HOME.MAINMENU.LOGOUT",
+      "MANAGE": "Verwalten",
+      "MORE_SPACE": "Mehr Speicherplatz schaffen",
+      "PASSWORD": "Passwort",
+      "PERSONAL": "Persönliche Angaben",
+      "PERSONAL_INFORMATION": "Persönliche Informationen",
+      "SHARE_WIDGET": "Share Widget",
+      "SHOW_COUNTER": "Besucherzähler anzeigen",
+      "SHOW_SHARE_WIDGET": "Share Widget auf Website anzeigen",
+      "SIDEBAR_TITLE": "@:HOME.MAINMENU.ACCOUNT_SETTINGS",
+      "SUBSCRIPTION": "Ihr Abonnement",
+      "SUBSCRIPTION_STATUS": "Abo Status",
+      "UPGRADE": "Auf PRO aktualisieren",
+      "USERNAME": "Nutzername",
+      "VISITORS": "Besucher",
+      "VISITORS_COUNT": "Besucher auf Ihrer Website",
+      "VISITOR_COMMENTS": "Besucherkommentare",
+      "WEBSITE_CONTROLS": "Website-Steuerungen",
+      "WEBSITE_NAME": "Name der Website",
+      "WEBSITE_NAME2": "Webseiten-Name"
+    },
+    "ADDRESS": {
+      "ADDRESS": "Adresse:",
+      "ADDRESS_PLACEHOLDER": "Adresse hinzufügen",
+      "EMAIL": "E-Mail*:",
+      "EMAIL_INVALID": "E-Mail-Fehler",
+      "EMAIL_INVALID_MESSAGE": "E-Mail ungültig oder leer",
+      "EMAIL_PLACEHOLDER": "E-Mail hinzufügen",
+      "ENTER_BUBBLETEXT": "Text für Sprachblase eingeben",
+      "ENTER_LOCATION": "Standort eingeben",
+      "OPENING_HOURS": "Öffnungszeiten:",
+      "OPENING_HOURS_PLACEHOLDER": "Öffnungszeiten hinzufügen",
+      "OPENING_HOURS_TITLE": "Öffnungszeiten-Titel:",
+      "OPENING_HOURS_TITLE_PLACEHOLDER": "Öffnungszeiten-Titel hinzufügen",
+      "PAGE_TITLE": "Seitentitel:",
+      "PAGE_TITLE_PLACEHOLDER": "Seitenüberschrift hinzufügen",
+      "PARAGRAPH_TEXT": "Absatztext:",
+      "PARAGRAPH_TITLE": "Absatzüberschrift hinzufügen:",
+      "PARAGRAPH_TITLE_PLACEHOLDER": "Überschrift hinzufügen",
+      "PHONE_INVALID": "Fehlerhafte Telefonnummer",
+      "PHONE_INVALID_MESSAGE": "Telefonnummer ungültig oder leer",
+      "SHOW_BUBBLE": "Sprachblasen anzeigen",
+      "SHOW_MAP": "Karte anzeigen",
+      "TELEPHONE": "Tel.*:",
+      "TELEPHONE_PLACEHOLDER": "Telefonnummer hinzufügen",
+      "TITLE": "Titel:",
+      "TITLE_PLACEHOLDER": "Titel hinzufügen"
+    },
+    "CANCEL": "Abbrechen",
+    "CHANGE_PASSWORD_MODAL": {
+      "INTRO": "Hier können Sie Ihr Passwort ändern. Füllen Sie dazu die Felder unten aus.",
+      "TITLE": "Passwort ändern"
+    },
+    "CHOOSEADDRESS": {
+      "BUTTON_CLOSE_TEXT": "Schließen",
+      "BUTTON_CONTINUE_TEXT": "Weiter",
+      "GO_BUTTON_1": "WÄHLEN",
+      "GO_BUTTON_2": "@:HOME.CHOOSEADDRESS.GO_BUTTON_1",
+      "GO_BUTTON_3": "@:HOME.CHOOSEADDRESS.GO_BUTTON_1",
+      "GREAT_DEAL": "TOLLES ANGEBOT",
+      "NOT_VALID_DOMAIN": "Sonderzeichen und Leerstellen können nicht in einem Domain-Namen verwendet werden.",
+      "TITLE": "Herzlichen Glückwunsch, Ihre Website wurde erstellt."
+    },
+    "CLOSE": "Schließen",
+    "COMMENTS_MANAGE": {
+      "BLOCKED_TIP": "Haben Sie Besucher gesperrt, so dass diese auf Ihrer Seite keine Kommentare mehr schreiben können?",
+      "INTRO2_TIP": "Möchten Sie die Kommentareinstellungen ändern?",
+      "INTRO_TIP": "Sie können ganz einfach auf einen Kommentar antworten: Klicken Sie dazu auf „Seite anzeigen“ im Kommentar. So können Sie auf derselben Seite antworten, auf der der Kommentar steht. HINWEIS: Sollte ein Besucher unangenehme, belästigende o. ä. Kommentare hinterlassen, so können Sie diese ganz leicht löschen. Sie können die Kommentarfunktion auch für bestimmte Besucher ganz sperren. Klicken Sie dazu auf „Löschen und sperren“.",
+      "INTRO_TITLE": "Hier sehen Sie die neuesten Kommentare auf Ihrer Webseite.",
+      "NO_COMMENTS": "Es wurden noch keine Kommentare geschrieben."
+    },
+    "COMMENTS_SETTINGS": {
+      "APPROVE_COMMENTS": "@:BASE.V3.COMMENTS_WITH_APPROVAL",
+      "APPROVE_SUBTITLE": "Sie können bestimmen, dass Kommentare erst von Ihnen freigegeben werden müssen, bevor sie auf der Webseite erscheinen.",
+      "APPROVE_TITLE": "Kommentare freigeben",
+      "DONOT_APPROVE": "@:BASE.V3.COMMENTS_NO_APPROVAL",
+      "EMAIL_SUBTITLE": "Möchten Sie eine E-Mail erhalten, wenn auf Ihrer Webseite ein neuer Kommentar geschrieben wird?",
+      "EMAIL_TITLE": "E-Mail-Benachrichtigungen",
+      "NOTIFY_ON_MAIL": "@:BASE.V3.COMMENTS_NOTIFY_YES",
+      "NO_NOTIFY": "@:BASE.V3.COMMENTS_NOTIFY_NO",
+      "OFF": "@:BASE.V3.COMMENTS_OFF",
+      "ON": "@:BASE.V3.COMMENTS_ON",
+      "ON_EXCEPT": "@:BASE.V3.COMMENTS_ON_EXCEPT",
+      "SHOW_COMMENTS_SUBTITLE": "Sie können selbst bestimmen, auf welchen Seiten Kommentare zugelassen sind. Am einfachsten ist es, wenn Sie Kommentare auf allen Einzelseiten zulassen.",
+      "SHOW_COMMENTS_TITLE": "Seiten mit Kommentaren",
+      "TITLE": "@:BASE.V3.COMMENTS_TITLE",
+      "VIEW_PAGE": "@:BASE.V3.COMMENTS_VIEW_PAGE"
+    },
+    "DEFAULT_PAGE_NAME": "Meine Seite",
+    "DEFAULT_TEXT_IN_TEXTSECTION": {
+      "HEADLINE": "Dies ist eine Absatzüberschrift",
+      "TEXT": "Dies ist ein Absatz. Klicken Sie hier, um Ihren eigenen Text einzugeben. Erzählen Sie hier Ihre Geschichte und verraten Sie Ihren Besuchern etwas mehr über sich."
+    },
+    "DELETE": "Löschen",
+    "DESIGN_EDITOR": {
+      "BACK": "Zurück",
+      "BACKGROUND": "Hintergrund",
+      "BACKGROUNDS": "Hintergründe",
+      "COLORS": "Website-Farben",
+      "DESIGN": "Layout",
+      "DESIGN_1": "Layout 1",
+      "DESIGN_2": "Layout 2",
+      "DESIGN_3": "Layout 3",
+      "DESIGN_HEADER": "Website-Layout",
+      "FONTS": "Website-Schriftarten",
+      "FREE_LOGOS": "Logos",
+      "GO_PRO_BACKGROUNDS_MESSAGE": "Auf Pro aktualisieren, um diesen Hintergrund zu verwenden",
+      "GO_PRO_MESSAGE_TITLE": "Auf Pro aktualisieren",
+      "MORE_BACKGROUNDS": "Mehr Hintergründe",
+      "MORE_COLORS": "Weitere Farben",
+      "MORE_DESIGNS": "Mehr Layouts",
+      "MORE_FONTS": "Weitere Schriftarten",
+      "MORE_LOGOS": "Mehr Logos",
+      "NO_BACKGROUND": "Kein Hintergrund",
+      "NO_LOGO": "Kein Logo",
+      "PRO_BACKGROUNDS": "Pro-Hintergründe",
+      "PRO_FONTS": "Pro-Schriftarten",
+      "PRO_LOGOS": "Premium-Logos",
+      "REPLACE_BACKGROUND": "Hintergrund ersetzen",
+      "UPGRADE_TO_PRO": "Auf PRO aktualisieren",
+      "UPLOAD_BACKGROUND": "Hintergrund hochladen",
+      "UPLOAD_LOGO": "Logo hochladen",
+      "UPLOAD_YOUR_OWN": "Bild darf nicht größer als 5MB sein.",
+      "VIDEO_BACKGROUND": "Video ",
+      "YOUR_OWN_BACKGROUND": "Ihr Hintergrund"
+    },
+    "DOMAINBAR": {
+      "CONTACT_TEXT": "Kundenservice kontaktieren",
+      "DOMAIN_STATUS_TEXT": "Ihre Domain wurde erworben, aber noch nicht aktiviert.",
+      "DOMAIN_STATUS_TEXT_24": "Sie haben die Domain vor weniger als 24 Stunden erworben.",
+      "DOMAIN_STATUS_TEXT_24-48": "Sie haben die Domain vor 24-48 Stunden erworben.",
+      "DOMAIN_STATUS_TEXT_48-76": "Sie haben die Domain vor 48-76 Stunden erworben.",
+      "DOMAIN_STATUS_TEXT_76": "Sie haben die Domain vor mehr als 76 Stunden erworben."
+    },
+    "ERROR": "Fehler",
+    "GOT_IT": "Ok, verstanden",
+    "HEADLINE_PLACEHOLDER": "@:BASE.V3.HOME_HEADLINE_PLACEHOLDER",
+    "LIVE_WEBSITE": "Live-Website",
+    "MAINMENU": {
+      "ACCOUNT": "Konto",
+      "ACCOUNT_SETTINGS": "Konto",
+      "ACCOUNT_SETTINGS_TITLE": "Kontoeinstellungen",
+      "ALL_SET": "Alles fertig",
+      "AUTOSAVING": "Automatische Speicherung...",
+      "DESIGN": "Design",
+      "DESIGN_TITLE": "Website-Design ändern",
+      "EDIT_WEBSITE": "Website bearbeiten",
+      "LIVE_WEBSITE": "@:HOME.LIVE_WEBSITE",
+      "LOGOUT": "Abmelden",
+      "PAGES": "Seiten",
+      "PAGES_TITLE": "Website-Seiten bearbeiten",
+      "PREVIEW_WEBSITE": "Website-Vorschau"
+    },
+    "MORE": "Mehr",
+    "OFFER": {
+      "CLOSE_BUTTON_TEXT": "Schließen"
+    },
+    "OK": "OK",
+    "PAGES_OVERVIEW": {
+      "ADD_PAGE": "Seite hinzufügen",
+      "DELETE_MODAL": {
+        "CANCEL": "@:HOME.CANCEL",
+        "DELETE": "@:HOME.DELETE",
+        "REALLY": "Seite \"{{pageName}}\" löschen?",
+        "TITLE": "Seite löschen"
+      },
+      "DELETE_PAGE": "Löschen",
+      "DELETE_PAGE_TITLE": "Seite löschen",
+      "DONE": "Fertig",
+      "FIELD_EMPTY": "@:BASE.V3.FIELD_EMPTY",
+      "NEW_PAGE_MODAL": {
+        "ABOUT_US": "Über uns",
+        "ABOUT_US_TEXT": "Erzählen Sie etwas über sich, Ihr Geschäft oder Unternehmen",
+        "ADD": "Hinzufügen",
+        "ADDRESS_PAGE": "Adresse",
+        "ADDRESS_PAGE_TEXT": "Fügen Sie Kontaktdaten hinzu, damit die Besucher Sie erreichen können.",
+        "BLOG": "Blog",
+        "BLOG_TEXT": "Schreiben Sie über Ihre Meinungen, Aktivitäten und Erfahrungen.",
+        "CONTACT_ME": "Kontaktseite",
+        "CONTACT_ME_TEXT": "Fügen Sie Ihre Kontaktseite hinzu, damit Besucher Sie über E-Mail erreichen können.",
+        "GUESTBOOK_PAGE": "Gästebuch",
+        "GUESTBOOK_PAGE_TEXT": "Hier können Besucher Ihnen eine Nachricht schreiben.",
+        "MY_PROJECT": "Mein Projekt",
+        "MY_PROJECT_TEXT": "Teilen Sie der Welt mit, woran Sie gerade arbeiten oder zeigen Sie, was Sie schon geschafft haben.",
+        "PEOPLE_GALLERY": "Mitarbeiter-Galerie",
+        "PEOPLE_GALLERY_TEXT": "Wer sind die Leute in Ihrem Unternehmen? Stellen Sie Ihre Mitarbeiter vor, um Ihrer Website eine menschliche Note zu verleihen.",
+        "PHOTO_ALBUM": "Fotoalbum",
+        "PHOTO_ALBUM_TEXT": "Fügen Sie Bilder hinzu und erzählen Sie visuell Ihre Geschichte.",
+        "PHOTO_STORY": "Foto-Story",
+        "PHOTO_STORY_TEXT": "Ein Bild sagt mehr als tausend Worte. Unterstützen Sie Ihre Inhalte mit Bildern, wenn Worte nicht ausreichen.",
+        "PLACEHOLDER": "Seitenname",
+        "SERVICE_LIST": "Service-Liste",
+        "SERVICE_LIST_TEXT": "Erzählen Sie Ihren Besuchern, welche Dienste Sie anbieten. Binden Sie Preise, Beschreibungen und Bilder ein, damit Besucher einfach vergleichen können.",
+        "STANDARD_PAGE": "Leer",
+        "STANDARD_PAGE_TEXT": "Erstellen Sie eine Seite nach Ihren Wünschen.",
+        "TITLE": "Neue Seite hinzufügen",
+        "WEBSHOP": "Webshop",
+        "WEBSHOP_TEXT": "Verkaufen Sie Ihre Produkte online."
+      },
+      "NOPAGES_1": "Es sind keine Seiten vorhanden,",
+      "NOPAGES_2": "fügen Sie eine hinzu!",
+      "PAGE_MANAGE_WEBSHOP": "Verwalten",
+      "PAGE_NAME_EMPTY": "@:BASE.V3.PAGE_NAME_EMPTY",
+      "PAGE_OPTIONS": "Seitenoptionen",
+      "RENAME_PAGE": "Umbenennen",
+      "RENAME_PAGE_TITLE": "Seite umbenennen",
+      "REORDER_PAGE": "Neu anordnen",
+      "REORDER_PAGE_TITLE": "Seite neu anordnen",
+      "TITLE": "@:HOME.MAINMENU.PAGES",
+      "UPDATE_MODAL": {
+        "CHANGE_TITLE": "Seite umbenennen",
+        "OK": "@:HOME.OK"
+      }
+    },
+    "PARAGRAPH_PLACEHOLDER": "Add paragraph text",
+    "PERSONAL_INFO_MODAL": {
+      "MISSING_EMAIL": "@:BASE.V3.CHANGE_PERSONAL_INFO_VALIDATION_MISSING_EMAIL",
+      "MISSING_URL": "@:BASE.V3.CHANGE_PERSONAL_INFO_EMPTY_URL"
+    },
+    "PITCHBOX_BLUE": {
+      "BUTTON": "Weiter",
+      "HEADER": "Limitiertes Angebot",
+      "LINE": "Wählen Sie einen kostenlosen Domain-Namen."
+    },
+    "PREVIEW": {
+      "ADD_IMAGE_MODAL": {
+        "CATEGORIES": {
+          "ANIMALS": "Tiere",
+          "FASHION": "Mode",
+          "FOOD": "Lebensmittel",
+          "FUN": "Freizeit",
+          "KIDS": "Kinder",
+          "LOVE": "Liebe",
+          "NATURE": "Natur",
+          "OBJECTS": "Gegenstände",
+          "SCENERY": "Landschaften",
+          "WORK": "Arbeit"
+        },
+        "CATEGORY": "Alle",
+        "CATEGORY_LABEL": "Kategorie",
+        "TIP": "Tipp: Sie können die Bilder filtern, indem Sie eine Kategorie auswählen.",
+        "TITLE": "Bild auswählen",
+        "UPLOAD_BUTTON": "Hochladen"
+      },
+      "ADD_SECTION_MODAL": {
+        "TITLE": "Inhalt hinzufügen"
+      },
+      "COLUMNS_SECTION": {
+        "BLOCK": "Blocknr.",
+        "BLOCKS": "Blöcke",
+        "DESCRIPTION_PLACEHOLDER": "Beschreibung hinzufügen",
+        "HEADLINE_PLACEHOLDER": "Spaltenüberschrift hinzufügen",
+        "MODAL_LABEL": "Titel",
+        "MODAL_LINK_LABEL": "Womit soll der Titel verlinkt werden?",
+        "MODAL_TITLE": "Titeleinstellungen",
+        "SELECT_PAGE_OPTION": "Eine Seite auswählen",
+        "SWITCH_BUTTONS_LABEL": "Anzahl an Spalten",
+        "THREE_COLUMNS": "Drei Spalten",
+        "TWO_COLUMNS": "Zwei Spalten"
+      },
+      "COMMENTS_BOX": {
+        "ADD_COMMENT_BUTTON": "@:BASE.V3.COMMENTS_BOX_ADD_COMMENT_BTN",
+        "CHECKBOX_TEXT": "@:BASE.V3.COMMENTS_BOX_CHECKBOX",
+        "EMAIL_PLACEHOLDER_TEXT": "@:BASE.V3.CONTACTME_TBXYOUREMAIL",
+        "GOT_IT": "@:HOME.GOT_IT",
+        "INFOTEXT1": "Dies ist der Kommentarbereich für diese Seite. Hier können Besucher Kommentare auf Ihrer Website hinterlassen.",
+        "INFOTEXT2": "Kommentare sind eine gute Methode, um Feedback von Ihren Besuchern zu erhalten. Anders als E-Mails sind Kommentare nicht nur für Sie, sondern auch für andere Besucher sichtbar.",
+        "INFOTEXT3": "Wechseln Sie zu Ihrer {livewebsite} oder Ihren Kommentareinstellungen auf der Registerkarte '[@:HOME.MAINMENU.ACCOUNT]‘, um die Kommentare anzusehen, die Besucher bereits abgegeben haben. In den Einstellungen können Sie Kommentare auch prüfen und löschen und das Kommentarfeld auf einzelnen Seiten Ihrer Website ein- bzw. ausschalten.",
+        "INFOTEXT_TEASER": "Dies ist der Kommentarbereich für diese Seite. Hier können Besucher Kommentare auf Ihrer Website hinterlassen.",
+        "LIVE_WEBSITE": "@:HOME.LIVE_WEBSITE",
+        "MORE": "@:HOME.MORE",
+        "NAME_PLACEHOLDER_TEXT": "@:BASE.V3.CONTACTME_TBXYOURNAME",
+        "TEXT_AREA_PLACEHOLDER_TEXT": "@:BASE.V3.CONTACTME_TBXYOURMESSAGE",
+        "TITLE": "@:BASE.V3.COMMENTS_BOX_TITLE"
+      },
+      "CONTACT_ME": {
+        "FORM_BUTTON": "Senden – klicken Sie hier!",
+        "FORM_EMAIL": "@:BASE.V3.CONTACTME_TBXYOUREMAIL",
+        "FORM_HEADLINE": "Geben Sie hier Ihre Nachricht ein. Füllen Sie das Formular aus:",
+        "FORM_MESSAGE": "@:BASE.V3.CONTACTME_TBXYOURMESSAGE",
+        "FORM_NAME": "@:BASE.V3.CONTACTME_TBXYOURNAME",
+        "GOT_IT": "@:HOME.GOT_IT",
+        "INFOTEXT1": "Dies ist eine Kontaktseite. Auf dieser Seite können Besucher Ihnen eine E-Mail senden, um Kontakt mit Ihnen aufzunehmen.",
+        "INFOTEXT2": "Schreiben Sie oben auf der Seite eine kurze Nachricht an Ihre Besucher. Bevor Besucher Ihnen schreiben, möchten sie oft Folgendes wissen:",
+        "INFOTEXT3": "Was können sie Ihnen schreiben?",
+        "INFOTEXT4": "Wie lange dauert es normalerweise, bis sie eine Antwort erhalten?",
+        "INFOTEXT5": "Welche anderen Möglichkeiten gibt es, mit Ihnen Kontakt aufzunehmen (z. B. per Telefon oder Social Media)?",
+        "INFOTEXT_TEASER": "Diese Seite ist eine Kontaktseite. Auf dieser Seite können Besucher Ihnen eine E-Mail senden. Diese E-Mail landet direkt in Ihrem Posteingang, so dass Sie sofort antworten können.",
+        "MORE": "@:HOME.MORE",
+        "RECIEVED_MESSAGES_BUTTON": "Erhaltene Nachrichten ansehen",
+        "TEXT_PLACEHOLDER": "@:HOME.PARAGRAPH_PLACEHOLDER",
+        "TITLE_PLACEHOLDER": "@:HOME.HEADLINE_PLACEHOLDER"
+      },
+      "CREATE": {
+        "BUTTON": "Werbung entfernen mit PRO",
+        "TEXT": "In diesem Bereich wird eine kleine Werbung für SimpleSite angezeigt, so dass Ihre Website komplett kostenlos bleibt.",
+        "TITLE": "Ihre Website ist kostenlos"
+      },
+      "DELETE_MODAL": {
+        "DELETE": "@:HOME.DELETE",
+        "DELETE_TITLE": "Inhalt löschen",
+        "IS_EMPTY": "Dieser Bereich ist leer. Wenn Sie fortfahren, wird der Bereich gelöscht. Möchten Sie den Bereich löschen?",
+        "NAH": "@:HOME.PAGES_OVERVIEW.DELETE_MODAL.REALLY_NAH",
+        "REALLY": "Diesen Inhalt von der Seite löschen?",
+        "YEAH": "@:HOME.PAGES_OVERVIEW.DELETE_MODAL.REALLY_YEAH"
+      },
+      "DIVIDER_SECTION": {
+        "STYLE": "Divider-Stil",
+        "STYLES": {
+          "DASHED": "Gestrichelt",
+          "DOTTED": "Punkte",
+          "SOLID": "Linie"
+        }
+      },
+      "FOOTER": {
+        "FREEMIUM": {
+          "LINK": "Holen Sie sich Ihre eigene, KOSTENLOSE Website. Klicken Sie hier!",
+          "TEXT": "Diese Website wurde mit SimpleSite erstellt."
+        },
+        "PAYING": {
+          "TEXT": "Erstellt mit SimpleSite"
+        }
+      },
+      "HERO_SECTION": {
+        "CTA_OPTIONS": {
+          "CTA_LINK_LABEL": "Womit soll die Schaltfläche verlinkt werden?",
+          "CTA_TEXT_LABEL": "Was soll auf der Schaltfläche stehen? (Beispiele: „Mehr erfahren“, „Jetzt Kontakt aufnehmen“)",
+          "INVALID_LINK": "Geben Sie an, welche Seite angezeigt wird, wenn Benutzer die Schaltfläche anklicken.",
+          "INVALID_TEXT": "Geben Sie einen Text für die Schaltfläche ein. Eine Schaltfäche ohne Text wird für Ihre Besucher keinen Sinn ergeben.",
+          "TITLE": "Schaltflächeneinstellungen"
+        },
+        "CTA_PLACEHOLDER": "Hier klicken",
+        "HEADLINE_PLACEHOLDER": "Überschrift",
+        "INCLUDE_BUTTON": "Schaltfäche einbeziehen",
+        "LINK_DEFAULT_OPTION": "Link zu",
+        "TEXT_PLACEHOLDER": "Dies ist ein Absatz. Klicken Sie hier, um Ihren eigenen Text einzugeben. Erzählen Sie hier Ihre Geschichte und verraten Sie Ihren Besuchern etwas mehr über sich.",
+        "UPLOAD_IMAGE": "@:HOME.PREVIEW.SS_IMAGE.UPLOAD_IMAGE"
+      },
+      "MENU": {
+        "DESKTOP": {
+          "MORE": "MEHR"
+        },
+        "MOBILE": {
+          "MORE": "Seitenliste"
+        }
+      },
+      "NEWS_SECTION": {
+        "ADDNEWS": "Neuigkeiten hinzufügen",
+        "ADD_NEWS_PLACEHOLDER": "Bulletin-Überschrift hinzufügen",
+        "CANCEL": "Abbrechen",
+        "DELETE": "Neuigkeiten löschen",
+        "DESCRIPTION_PLACEHOLDER": "Text hinzufügen",
+        "LINK": "Eine Seite auswählen",
+        "LINK_LABEL": "Diese Nachrichten mit einer Seite verlinken",
+        "NEWS_HEADLINE_PLACEHOLDER": "Überschrift hinzufügen",
+        "SAVE": "Speichern"
+      },
+      "PHOTO_ALBUM": {
+        "FILE_NOT_UPLOADED": "Eine Ihrer Dateien wurde nicht hochgeladen.",
+        "PHOTO_CAPTION": "Beschreibung hinzufügen",
+        "SHOW_SLIDESHOW": "Dia-Show auf Seite anzeigen",
+        "TITLE_PLACEHOLDER": "Titel schreiben",
+        "TRANSITIONS": {
+          "CUBIC": "Kubisch",
+          "FADE": "Ausblenden",
+          "RANDOM": "Zufällig",
+          "SLIDE": "Wischen",
+          "STRIPE": "Streifen",
+          "UPDOWN": "Nach oben/Nach unten"
+        },
+        "UPLOAD_IMAGES": "Bilder hochladen"
+      },
+      "SECTIONS": {
+        "ADD_SECTION_TEXT": "Inhalt hinzufügen",
+        "COLUMNS": "Spalten",
+        "DIVIDER": "Divider",
+        "HERO": "Autor",
+        "NEWS": "Neuigkeiten",
+        "PHOTO": "Bild",
+        "SIGNATURE": "Unterschrift",
+        "SLIDESHOW": "Dia-Show",
+        "TEXT": "Text",
+        "TEXTLEFT": "Text + Bild",
+        "TEXTNOIMAGE": "Text",
+        "TEXTRIGHT": "Text + Bild",
+        "TITLE": "Überschrift",
+        "VIDEO": "Video"
+      },
+      "SELECT_IMAGE_MODAL": {
+        "LIBRARY_BUTTON": "Aus der Bibliothek",
+        "LIBRARY_BUTTON_TEXT": "Verwenden Sie ein Bild aus unserer Bibliothek mit kostenlosen Bildern in hoher Qualität.",
+        "OUTTRO": "Tipp: Sie können das Bild später jederzeit ändern.",
+        "TITLE": "Wählen Sie das Bild aus, das Sie verwenden möchten.",
+        "UPLOAD_BUTTON": "Hochladen",
+        "UPLOAD_BUTTON_TEXT": "Laden Sie Ihr eigenes Bild hoch."
+      },
+      "SHARE": {
+        "COPY_CLIPBOARD": "In Zwischenablage kopieren",
+        "FACEBOOK": "Auf Facebook teilen",
+        "GOOGLEPLUS": "Auf Google+ teilen",
+        "MAIL_BODY": "Ich habe eine neue Website [livewebsite]",
+        "MAIL_SUBJECT": "Sehen Sie sich meine Website an",
+        "SHARE": "Teilen",
+        "SOCIAL_MEDIA": "Ihre Website teilen",
+        "TITLE": "Diese Seite teilen",
+        "TWITTER": "Auf Twitter teilen",
+        "URL_LABEL": "Adresse Ihrer Website"
+      },
+      "SIGNATURE_SECTION": {
+        "REGARDS_TEXT_PLACEHOLDER": "Herzliche Grüße",
+        "SIGNATURE_PREVIEW_TEXT": "Unterschrift",
+        "SIGNATURE_TEXT_PLACEHOLDER": "Unterschrift"
+      },
+      "SLIDESHOW_SECTION": {
+        "ADD_CAPTION_PLACEHOLDER": "Beschriftung hinzufügen",
+        "ERR_FINISH_EDITING": "Bearbeiten oder laden Sie das aktuelle Bild hoch!",
+        "ERR_MAX_SLIDESHOW_NUMBER": "Max. Anzahl an Bildern: ",
+        "HEADLINE_IMAGE_PLACEHOLDER": "Bildüberschrift hinzufügen",
+        "HEADLINE_SELECT": "Link zur Überschrift",
+        "LINK_IMAGE_TITLE": "Bild verlinken",
+        "TRANSITION_CUBIC": "Kubisch",
+        "TRANSITION_FADE": "Ausblenden",
+        "TRANSITION_RANDOM": "Zufällig",
+        "TRANSITION_SELECT_DEFAULT": "Übergänge",
+        "TRANSITION_SLIDE": "Wischen",
+        "TRANSITION_STRIPE": "Streifen",
+        "TRANSITION_TITLE_TEXT": "Übergangstyp",
+        "TRANSITION_UPDOWN": "Nach oben/Nach unten",
+        "UPLOAD_TEXT": "Bilder hochladen"
+      },
+      "SS_IMAGE": {
+        "CAPTION": "Beschriftung",
+        "CHANGE_IMAGE": "@:BASE.V3.CHANGE_IMAGE",
+        "CROP": "Zuschneiden",
+        "DONE": "Fertig",
+        "REPLACE_IMAGE": "Ersetzen",
+        "ROTATE_LEFT": "Nach links drehen",
+        "ROTATE_RIGHT": "Nach rechts drehen",
+        "SELECT_IMAGE": "Bild auswählen",
+        "UPLOAD_IMAGE": "Hochladen",
+        "WRONG_FILETYPE": "Falsches Dateiformat. Bitte laden Sie eine Bilddatei hoch."
+      },
+      "SS_TEXTEDITOR": {
+        "ADD_TEXT": "Text hinzufügen",
+        "PLACEHOLDER": "Klicken, um Text hinzuzufügen.",
+        "RESET_STYLES": "Stil zurücksetzen",
+        "SWIPE_TEXT": "Wischen, um mehr anzusehen"
+      },
+      "TITLE_SECTION": {
+        "DEFAULT_TEXT": "Ich bin eine Überschrift"
+      },
+      "TRANSITION_TITLE_TEXT": "Übergangstyp",
+      "UPGRADE_TO_PRO_MODAL": {
+        "UPGRADE_TO_PRO": "Auf PRO aktualisieren",
+        "UPGRADE_TO_PRO_DIMMED_TEXT": "Sie versuchen, PRO-Funktionen zu speichern.",
+        "UPGRADE_TO_PRO_TEXT_1": "PRO-Funktionen wie diese sind nur mit SimpleSite PRO verfügbar.",
+        "UPGRADE_TO_PRO_TEXT_2": "SimpleSite PRO bietet mehr Design-Funktionen und entfernt alle SimpleSite-Anzeigen und Markenzeichen von Ihrer Website. Sie können mit SimpleSite PRO auch ihren persönlichen Domain-Namen verwenden.",
+        "UPGRADE_TO_PRO_TEXT_3": "Testen Sie SimpleSite PRO 14 Tage kostenlos, ohne jegliche Verpflichtung.",
+        "UPGRADE_TO_PRO_TEXT_4": "Viel Spaß!"
+      },
+      "VIDEO_SECTION": {
+        "ADD": "Video hinzufügen",
+        "ADD_URL_PLACEHOLDER": "Video-URL eingeben",
+        "ADD_VIDEO": "Video hinzufügen",
+        "AVAILABLE_SHORTLY": "Das Video ist in Kürze verfügbar.",
+        "BROWSE": "Durchsuchen",
+        "ENTER_VIDEO_URL": "Video-URL eingeben",
+        "NO_URL_IN_EXTERNAL_INPUT": "Keine URL eingegeben. Bitte geben Sie eine YouTube- oder Vimeo-URL ein.",
+        "OR": "Oder",
+        "PROCESSING_VIDEO": "Ihr Video wird bearbeitet. In wenigen Minuten können Sie Ihren Video-Clip ansehen.",
+        "TEXT_PLACEHOLDER": "Video-Beschreibung hinzufügen",
+        "TITLE_PLACEHOLDER": "Video-Überschrift hinzufügen",
+        "UPLOAD": "Hochladen",
+        "VIDEO_DESCRIPTION": "Videobeschreibung",
+        "WRONG_FILETYPE": "Nicht unterstütztes Dateiformat. Bitte laden Sie eine Videodatei hoch.",
+        "WRONG_URL": "Fehlerhafte URL. Bitte geben Sie eine YouTube- oder Vimeo-URL ein."
+      },
+      "WEBSHOP": {
+        "TEST_OR_EDIT": {
+          "EDIT_BUTTON": "Produktliste bearbeiten",
+          "TEST_BUTTON": "Shop live ansehen",
+          "TITLE": "Was möchten Sie als Nächstes tun?"
+        }
+      }
+    },
+    "PREVIEW_SITE_URL": {
+      "GOTIT": "OK, VERSTANDEN",
+      "HEADER": "Das ist die Adresse Ihrer Website"
+    },
+    "PRIMERS": {
+      "CLOSE": "Schließen",
+      "COLUMNS": {
+        "TEXT": "Sie fügen „Spalten“ zu Ihrer Website hinzu. Bitte beachten Sie, dass Spalten nur auf der Desktop-Version Ihrer Website angezeigt werden. Auf mobilen Geräten wird nur eine Spalte angezeigt.",
+        "TITLE": "Spalten hinzufügen"
+      },
+      "CONTINUE": "Weiter",
+      "NEWS": {
+        "TEXT": "Hier können Sie Neuigkeiten und aktuelle Informationen zur Ihrer Website einfügen.",
+        "TITLE": "Neuigkeiten hinzufügen"
+      }
+    },
+    "REMOVEADSPLASH": {
+      "CLOSE": "@:HOME.OFFER.CLOSE_BUTTON_TEXT"
+    },
+    "SALESPITCHBAR": {
+      "BUTTON_BUY_TEXT": "Jetzt kaufen",
+      "CHANGE_IT_TO": "Ãndern in",
+      "WEBSITE_AVAILABLE_AT": "Website verfügbar unter"
+    },
+    "SALESPITCHBOX": {
+      "BUTTON_TEXT": "Mehr erfahren",
+      "FREE_PLAN": "Ihr aktueller Plan ist KOSTENLOS."
+    },
+    "SOME_EXPERIMENT_ONLY_IN_ENGLISH": {
+      "TEXT1": "Das ist Text 1",
+      "TEXT2": "Das ist Text 2"
+    },
+    "TOO_LONG_INPUT": "Ihr Seiten-Titel darf leider nur 20 Zeichen enthalten. Bitte versuchen Sie es mit einem kürzeren Titel.",
+    "WELCOME": {
+      "BODYTEXT1": "Ihre Webseite für {BUSINESSNAME} ist fertig.",
+      "BODYTEXT2": "Wir haben Ihnen Inhalte und Designs passend zu Ihrem Unternehmen hinzugefügt, damit Sie den bestmöglichen Start online haben.",
+      "BODYTEXT3": "Ihre Webseite hat die folgenden Seiten:",
+      "BODYTEXT4": "Sie können diese je nach Wunsch bearbeiten, anpassen und mit Inhalten füllen.",
+      "CLOSE_BUTTON_TEXT": "Schließen",
+      "HEADER": "Willkommen bei SimpleSite. Los geht’s!",
+      "OK_BUTTON_TEXT": "Ok, loslegen!"
+    }
+  }
+}

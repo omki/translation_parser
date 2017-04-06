@@ -1,0 +1,1374 @@
+<xliff srcLang="en-US" trgLang="da-DK" version="2.0" 
+  xmlns="urn:oasis:names:tc:xliff:document:2.0">
+  <file id="home" original="Home.json">
+    <skeleton href="Home.json"/>
+    <unit id="BASE.UPGRADENOW" maxbytes="300">
+      <segment>
+        <source>Oppgrader nå</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.DESIGN_EDITOR.BACK" maxbytes="300">
+      <segment>
+        <source>Tilbake</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.DESIGN_EDITOR.BACKGROUND" maxbytes="300">
+      <segment>
+        <source>Bakgrunn</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.DESIGN_EDITOR.BACKGROUNDS" maxbytes="300">
+      <segment>
+        <source>Bakgrunner</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.DESIGN_EDITOR.COLORS" maxbytes="300">
+      <segment>
+        <source>Nettsidefarger</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.DESIGN_EDITOR.DESIGN" maxbytes="300">
+      <segment>
+        <source>Utforming</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.DESIGN_EDITOR.DESIGN_1" maxbytes="300">
+      <segment>
+        <source>Utforming 1</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.DESIGN_EDITOR.DESIGN_2" maxbytes="300">
+      <segment>
+        <source>Utforming 2</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.DESIGN_EDITOR.DESIGN_3" maxbytes="300">
+      <segment>
+        <source>Utforming 3</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.DESIGN_EDITOR.DESIGN_HEADER" maxbytes="300">
+      <segment>
+        <source>Utforming av nettsiden</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.DESIGN_EDITOR.FONTS" maxbytes="300">
+      <segment>
+        <source>Skrifttyper til nettside</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.DESIGN_EDITOR.FREE_LOGOS" maxbytes="300">
+      <segment>
+        <source>Logoer</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.DESIGN_EDITOR.GO_PRO_BACKGROUNDS_MESSAGE" maxbytes="300">
+      <segment>
+        <source>Oppgrader til PRO for å bruke denne bakgrunnen</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.DESIGN_EDITOR.GO_PRO_MESSAGE_TITLE" maxbytes="300">
+      <segment>
+        <source>Skaff deg PRO</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.DESIGN_EDITOR.MORE_BACKGROUNDS" maxbytes="300">
+      <segment>
+        <source>flere bakgrunner</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.DESIGN_EDITOR.MORE_COLORS" maxbytes="300">
+      <segment>
+        <source>flere farger</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.DESIGN_EDITOR.MORE_DESIGNS" maxbytes="300">
+      <segment>
+        <source>Flere utforminger</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.DESIGN_EDITOR.MORE_FONTS" maxbytes="300">
+      <segment>
+        <source>flere skrifttyper</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.DESIGN_EDITOR.MORE_LOGOS" maxbytes="300">
+      <segment>
+        <source>Flere logoer</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.DESIGN_EDITOR.NO_BACKGROUND" maxbytes="300">
+      <segment>
+        <source>Ingen bakgrunn</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.DESIGN_EDITOR.NO_LOGO" maxbytes="300">
+      <segment>
+        <source>Ingen logo</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.DESIGN_EDITOR.PRO_BACKGROUNDS" maxbytes="300">
+      <segment>
+        <source>PRO-bakgrunner</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.DESIGN_EDITOR.PRO_FONTS" maxbytes="300">
+      <segment>
+        <source>PRO-skrifttyper</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.DESIGN_EDITOR.PRO_LOGOS" maxbytes="300">
+      <segment>
+        <source>Premium-logoer</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.DESIGN_EDITOR.REPLACE_BACKGROUND" maxbytes="300">
+      <segment>
+        <source>Bytt bakgrunn</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.DESIGN_EDITOR.UPGRADE_TO_PRO" maxbytes="300">
+      <segment>
+        <source>Oppgrader til PRO</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.DESIGN_EDITOR.UPLOAD_BACKGROUND" maxbytes="300">
+      <segment>
+        <source>Last opp bakgrunn</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.DESIGN_EDITOR.UPLOAD_LOGO" maxbytes="300">
+      <segment>
+        <source>Last opp logo</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.DESIGN_EDITOR.UPLOAD_YOUR_OWN" maxbytes="300">
+      <segment>
+        <source>bildet kan ikke være større enn 5 MB</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.DESIGN_EDITOR.VIDEO_BACKGROUND" maxbytes="300">
+      <segment>
+        <source>Video </source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.DESIGN_EDITOR.YOUR_OWN_BACKGROUND" maxbytes="300">
+      <segment>
+        <source>Din bakgrunn</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PAGES_OVERVIEW.NEW_PAGE_MODAL.ABOUT_US" maxbytes="300">
+      <segment>
+        <source>Om oss</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PAGES_OVERVIEW.NEW_PAGE_MODAL.ABOUT_US_TEXT" maxbytes="300">
+      <segment>
+        <source>Fortell noe om deg selv, din bransje eller virksomheten din</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PAGES_OVERVIEW.NEW_PAGE_MODAL.ADD" maxbytes="300">
+      <segment>
+        <source>Legg til</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PAGES_OVERVIEW.NEW_PAGE_MODAL.ADDRESS_PAGE" maxbytes="300">
+      <segment>
+        <source>Adresse</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PAGES_OVERVIEW.NEW_PAGE_MODAL.ADDRESS_PAGE_TEXT" maxbytes="300">
+      <segment>
+        <source>Legg til kontaktopplysninger slik at man kan komme i kontakt med deg</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PAGES_OVERVIEW.NEW_PAGE_MODAL.BLOG" maxbytes="300">
+      <segment>
+        <source>Blogg</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PAGES_OVERVIEW.NEW_PAGE_MODAL.BLOG_TEXT" maxbytes="300">
+      <segment>
+        <source>Skriv om dine meninger, aktiviteter og erfaringer</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PAGES_OVERVIEW.NEW_PAGE_MODAL.CONTACT_ME" maxbytes="300">
+      <segment>
+        <source>Kontaktside</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PAGES_OVERVIEW.NEW_PAGE_MODAL.CONTACT_ME_TEXT" maxbytes="300">
+      <segment>
+        <source>Legg til kontaktopplysninger slik at man kan kontakte deg via e-post</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PAGES_OVERVIEW.NEW_PAGE_MODAL.GUESTBOOK_PAGE" maxbytes="300">
+      <segment>
+        <source>Gjestebok</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PAGES_OVERVIEW.NEW_PAGE_MODAL.GUESTBOOK_PAGE_TEXT" maxbytes="300">
+      <segment>
+        <source>Gi dine besøkende mulighet til å skrive beskjeder til deg</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PAGES_OVERVIEW.NEW_PAGE_MODAL.MY_PROJECT" maxbytes="300">
+      <segment>
+        <source>Mitt prosjekt</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PAGES_OVERVIEW.NEW_PAGE_MODAL.MY_PROJECT_TEXT" maxbytes="300">
+      <segment>
+        <source>Fortell omverdenen hva du arbeider med, eller vis frem arbeid som du allerede har fullført</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PAGES_OVERVIEW.NEW_PAGE_MODAL.PEOPLE_GALLERY" maxbytes="300">
+      <segment>
+        <source>Persongalleri</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PAGES_OVERVIEW.NEW_PAGE_MODAL.PEOPLE_GALLERY_TEXT" maxbytes="300">
+      <segment>
+        <source>Hvem er hovedpersonene bak din virksomhet? Presenter dem her for å gi nettsiden din en mer personlig touch</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PAGES_OVERVIEW.NEW_PAGE_MODAL.PHOTO_ALBUM" maxbytes="300">
+      <segment>
+        <source>Fotoalbum</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PAGES_OVERVIEW.NEW_PAGE_MODAL.PHOTO_ALBUM_TEXT" maxbytes="300">
+      <segment>
+        <source>Legg til bilder og del dine visuelle historier</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PAGES_OVERVIEW.NEW_PAGE_MODAL.PHOTO_STORY" maxbytes="300">
+      <segment>
+        <source>Bildehistorie</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PAGES_OVERVIEW.NEW_PAGE_MODAL.PHOTO_STORY_TEXT" maxbytes="300">
+      <segment>
+        <source>Et bilde er verdt tusen ord. Bruk bilder for å fortelle en historie som ikke kan formidles bare med ord</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PAGES_OVERVIEW.NEW_PAGE_MODAL.PLACEHOLDER" maxbytes="300">
+      <segment>
+        <source>Navn på side</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PAGES_OVERVIEW.NEW_PAGE_MODAL.SERVICE_LIST" maxbytes="300">
+      <segment>
+        <source>Liste over tjenester</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PAGES_OVERVIEW.NEW_PAGE_MODAL.SERVICE_LIST_TEXT" maxbytes="300">
+      <segment>
+        <source>Fortell dine besøkende om hvilke tjenester du tilbyr. Inkluder priser, beskrivelser og bilder slik at de lett kan sammenligne</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PAGES_OVERVIEW.NEW_PAGE_MODAL.STANDARD_PAGE" maxbytes="300">
+      <segment>
+        <source>Tom</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PAGES_OVERVIEW.NEW_PAGE_MODAL.STANDARD_PAGE_TEXT" maxbytes="300">
+      <segment>
+        <source>Lag en side akkurat slik du ønsker</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PAGES_OVERVIEW.NEW_PAGE_MODAL.TITLE" maxbytes="300">
+      <segment>
+        <source>Legg til ny side</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PAGES_OVERVIEW.NEW_PAGE_MODAL.WEBSHOP" maxbytes="300">
+      <segment>
+        <source>Nettbutikk</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PAGES_OVERVIEW.NEW_PAGE_MODAL.WEBSHOP_TEXT" maxbytes="300">
+      <segment>
+        <source>Selg produktene dine på nett</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.ADD_IMAGE_MODAL.CATEGORIES.ANIMALS" maxbytes="300">
+      <segment>
+        <source>Dyr</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.ADD_IMAGE_MODAL.CATEGORIES.FASHION" maxbytes="300">
+      <segment>
+        <source>Mote</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.ADD_IMAGE_MODAL.CATEGORIES.FOOD" maxbytes="300">
+      <segment>
+        <source>Mat</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.ADD_IMAGE_MODAL.CATEGORIES.FUN" maxbytes="300">
+      <segment>
+        <source>Fornøyelser</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.ADD_IMAGE_MODAL.CATEGORIES.KIDS" maxbytes="300">
+      <segment>
+        <source>Barn</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.ADD_IMAGE_MODAL.CATEGORIES.LOVE" maxbytes="300">
+      <segment>
+        <source>Kjærlighet</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.ADD_IMAGE_MODAL.CATEGORIES.NATURE" maxbytes="300">
+      <segment>
+        <source>Natur</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.ADD_IMAGE_MODAL.CATEGORIES.OBJECTS" maxbytes="300">
+      <segment>
+        <source>Ting</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.ADD_IMAGE_MODAL.CATEGORIES.SCENERY" maxbytes="300">
+      <segment>
+        <source>Landskap</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.ADD_IMAGE_MODAL.CATEGORIES.WORK" maxbytes="300">
+      <segment>
+        <source>Arbeid</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.ADD_IMAGE_MODAL.CATEGORY" maxbytes="300">
+      <segment>
+        <source>Alle</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.ADD_IMAGE_MODAL.CATEGORY_LABEL" maxbytes="300">
+      <segment>
+        <source>Kategori</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.ADD_IMAGE_MODAL.TIP" maxbytes="300">
+      <segment>
+        <source>Tips: Du kan filtrere bildene ved å velge en kategori</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.ADD_IMAGE_MODAL.TITLE" maxbytes="300">
+      <segment>
+        <source>Velg bilde</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.ADD_IMAGE_MODAL.UPLOAD_BUTTON" maxbytes="300">
+      <segment>
+        <source>Last opp</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.ADD_SECTION_MODAL.TITLE" maxbytes="300">
+      <segment>
+        <source>Legg til innhold</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.COLUMNS_SECTION.DESCRIPTION_PLACEHOLDER" maxbytes="300">
+      <segment>
+        <source>Legg til beskrivelse</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.COLUMNS_SECTION.HEADLINE_PLACEHOLDER" maxbytes="300">
+      <segment>
+        <source>Legg til kolonne-overskrift</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.COLUMNS_SECTION.MODAL_LABEL" maxbytes="300">
+      <segment>
+        <source>Tittel</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.COLUMNS_SECTION.MODAL_LINK_LABEL" maxbytes="300">
+      <segment>
+        <source>Hva skal tittelen kobles til?</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.COLUMNS_SECTION.MODAL_TITLE" maxbytes="300">
+      <segment>
+        <source>Innstillinger for tittel</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.COLUMNS_SECTION.SELECT_PAGE_OPTION" maxbytes="300">
+      <segment>
+        <source>Velg en side</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.COLUMNS_SECTION.SWITCH_BUTTONS_LABEL" maxbytes="300">
+      <segment>
+        <source>Antall kolonner</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.COLUMNS_SECTION.THREE_COLUMNS" maxbytes="300">
+      <segment>
+        <source>3 kolonner</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.COLUMNS_SECTION.TWO_COLUMNS" maxbytes="300">
+      <segment>
+        <source>2 kolonner</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.COLUMNS_SECTION.BLOCK" maxbytes="300">
+      <segment>
+        <source>Blokk #</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.COLUMNS_SECTION.BLOCKS" maxbytes="300">
+      <segment>
+        <source>Blokker</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.COMMENTS_BOX.INFOTEXT1" maxbytes="300">
+      <segment>
+        <source>Dette er en kommentardel til denne siden. Her kan dine besøkende skrive inn kommentarer på nettstedet ditt.</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.COMMENTS_BOX.INFOTEXT2" maxbytes="300">
+      <segment>
+        <source>Kommentarer er en fin måte å få tilbakemelding fra dine besøkende. I motsetning til e-post er kommentarene synlige både for deg og andre besøkende.</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.COMMENTS_BOX.INFOTEXT3" maxbytes="300">
+      <segment>
+        <source>Gå til din [livewebsite] eller innstillingene for kommentarer i &apos;[@:HOME.MAINMENU.ACCOUNT]&apos;-fanen for å se hvilke kommentarer dine besøkende allerede har lagt inn. I disse innstillingene kan du også se gjennom og slette kommentarer, og du kan velge å slå kommentarer på eller av for de ulike sidene på nettstedet ditt.</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.COMMENTS_BOX.INFOTEXT_TEASER" maxbytes="300">
+      <segment>
+        <source>Dette er en kommentardel til denne siden. Her kan dine besøkende skrive inn kommentarer på nettstedet ditt.</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.CONTACT_ME.FORM_BUTTON" maxbytes="300">
+      <segment>
+        <source>Send – Klikk her!</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.CONTACT_ME.FORM_HEADLINE" maxbytes="300">
+      <segment>
+        <source>Skriv meldingen din her. Fyll ut skjemaet:</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.CONTACT_ME.INFOTEXT1" maxbytes="300">
+      <segment>
+        <source>Dette er en kontaktside. For å komme i kontakt med deg, kan besøkende sende deg e-post via denne siden.</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.CONTACT_ME.INFOTEXT2" maxbytes="300">
+      <segment>
+        <source>Sørg for at du skriver en kort melding til dine besøkende øverst på siden. Før de skriver til deg, vil de besøkende gjerne vite</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.CONTACT_ME.INFOTEXT3" maxbytes="300">
+      <segment>
+        <source>Hva skal de skrive til deg om?</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.CONTACT_ME.INFOTEXT4" maxbytes="300">
+      <segment>
+        <source>Hvor lang tid tar det før du svarer dem?</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.CONTACT_ME.INFOTEXT5" maxbytes="300">
+      <segment>
+        <source>På hvilke andre måter kan de komme i kontakt med deg (f.eks. telefon eller sosiale medier)?</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.CONTACT_ME.INFOTEXT_TEASER" maxbytes="300">
+      <segment>
+        <source>Denne siden er en kontaktside. Besøkende kan sende deg e-post via denne siden. E-posten vil gå direkte til innboksen din, slik at du kan besvare den umiddelbart.</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.CONTACT_ME.RECIEVED_MESSAGES_BUTTON" maxbytes="300">
+      <segment>
+        <source>Se mottatte meldinger</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.CREATE.BUTTON" maxbytes="300">
+      <segment>
+        <source>Bli kvitt annonser med PRO</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.CREATE.TEXT" maxbytes="300">
+      <segment>
+        <source>Vi bruker denne plassen til en liten SimpleSite-annonse, dermed kan du få nettsiden din gratis.</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.CREATE.TITLE" maxbytes="300">
+      <segment>
+        <source>Nettsiden din er gratis</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.DELETE_MODAL.DELETE_TITLE" maxbytes="300">
+      <segment>
+        <source>Slett innhold</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.DELETE_MODAL.IS_EMPTY" maxbytes="300">
+      <segment>
+        <source>Denne seksjonen er tom. Hvis du fortsetter, vil seksjonen bli slettet. Vil du slette denne seksjonen?</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.DELETE_MODAL.REALLY" maxbytes="300">
+      <segment>
+        <source>Slette dette innholdet fra siden din?</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.DIVIDER_SECTION.STYLE" maxbytes="300">
+      <segment>
+        <source>Stil på oppdeler</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.DIVIDER_SECTION.STYLES.DASHED" maxbytes="300">
+      <segment>
+        <source>Stiplet</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.DIVIDER_SECTION.STYLES.DOTTED" maxbytes="300">
+      <segment>
+        <source>Prikkete</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.DIVIDER_SECTION.STYLES.SOLID" maxbytes="300">
+      <segment>
+        <source>Ensfarget</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.FOOTER.FREEMIUM.LINK" maxbytes="300">
+      <segment>
+        <source>Få din egen GRATIS nettside. Klikk her!</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.FOOTER.FREEMIUM.TEXT" maxbytes="300">
+      <segment>
+        <source>Denne nettsiden ble laget med SimpleSite</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.FOOTER.PAYING.TEXT" maxbytes="300">
+      <segment>
+        <source>Laget med SimpleSite</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.HERO_SECTION.CTA_OPTIONS.CTA_LINK_LABEL" maxbytes="300">
+      <segment>
+        <source>Hva skal knappen kobles til?</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.HERO_SECTION.CTA_OPTIONS.CTA_TEXT_LABEL" maxbytes="300">
+      <segment>
+        <source>Hva skal det stå på knappen? (Eksempler: &quot;Les mer&quot;, &quot;Kontakt oss nå&quot;)</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.HERO_SECTION.CTA_OPTIONS.INVALID_LINK" maxbytes="300">
+      <segment>
+        <source>Du må spesifisere hvilken side som skal vises når brukerne trykker på knappen.</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.HERO_SECTION.CTA_OPTIONS.INVALID_TEXT" maxbytes="300">
+      <segment>
+        <source>Du må ha en spesifikk tekst på knappen. En knapp uten tekst er meningsløs for brukerne.</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.HERO_SECTION.CTA_OPTIONS.TITLE" maxbytes="300">
+      <segment>
+        <source>Innstillinger for knapp</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.HERO_SECTION.CTA_PLACEHOLDER" maxbytes="300">
+      <segment>
+        <source>Trykk på meg</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.HERO_SECTION.HEADLINE_PLACEHOLDER" maxbytes="300">
+      <segment>
+        <source>Overskrift</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.HERO_SECTION.INCLUDE_BUTTON" maxbytes="300">
+      <segment>
+        <source>Inkluder knapp</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.HERO_SECTION.LINK_DEFAULT_OPTION" maxbytes="300">
+      <segment>
+        <source>Lenke til:</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.HERO_SECTION.TEXT_PLACEHOLDER" maxbytes="300">
+      <segment>
+        <source>Jeg er et avsnitt. Klikk her for å legge til din egen tekst og redigere meg. På denne plassen kan du fortelle din historie og la de besøkende få vite litt mer om deg.</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.MENU.DESKTOP.MORE" maxbytes="300">
+      <segment>
+        <source>MER</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.MENU.MOBILE.MORE" maxbytes="300">
+      <segment>
+        <source>Sideoversikt</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.NEWS_SECTION.ADDNEWS" maxbytes="300">
+      <segment>
+        <source>legg til nyheter</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.NEWS_SECTION.ADD_NEWS_PLACEHOLDER" maxbytes="300">
+      <segment>
+        <source>Legg til meldingsoverskrift</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.NEWS_SECTION.DELETE" maxbytes="300">
+      <segment>
+        <source>slett nyheter</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.NEWS_SECTION.DESCRIPTION_PLACEHOLDER" maxbytes="300">
+      <segment>
+        <source>Legg til tekst</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.NEWS_SECTION.LINK" maxbytes="300">
+      <segment>
+        <source>Velg en side</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.NEWS_SECTION.LINK_LABEL" maxbytes="300">
+      <segment>
+        <source>Koble denne nyheten til en side</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.NEWS_SECTION.NEWS_HEADLINE_PLACEHOLDER" maxbytes="300">
+      <segment>
+        <source>Legg til overskrift</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.PHOTO_ALBUM.FILE_NOT_UPLOADED" maxbytes="300">
+      <segment>
+        <source>En av filene dine ble ikke lastet opp</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.PHOTO_ALBUM.PHOTO_CAPTION" maxbytes="300">
+      <segment>
+        <source>Legg til beskrivelse</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.PHOTO_ALBUM.SHOW_SLIDESHOW" maxbytes="300">
+      <segment>
+        <source>Vis lysbildevisning på side</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.PHOTO_ALBUM.TITLE_PLACEHOLDER" maxbytes="300">
+      <segment>
+        <source>Skriv en tittel</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.PHOTO_ALBUM.TRANSITIONS.CUBIC" maxbytes="300">
+      <segment>
+        <source>Kubisk</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.PHOTO_ALBUM.TRANSITIONS.FADE" maxbytes="300">
+      <segment>
+        <source>Tone ut</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.PHOTO_ALBUM.TRANSITIONS.RANDOM" maxbytes="300">
+      <segment>
+        <source>Tilfeldig</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.PHOTO_ALBUM.TRANSITIONS.SLIDE" maxbytes="300">
+      <segment>
+        <source>Lysbilde</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.PHOTO_ALBUM.TRANSITIONS.STRIPE" maxbytes="300">
+      <segment>
+        <source>Stripe</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.PHOTO_ALBUM.TRANSITIONS.UPDOWN" maxbytes="300">
+      <segment>
+        <source>Opp/Ned</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.PHOTO_ALBUM.UPLOAD_IMAGES" maxbytes="300">
+      <segment>
+        <source>Last opp bilder</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.SECTIONS.ADD_SECTION_TEXT" maxbytes="300">
+      <segment>
+        <source>Legg til innhold</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.SECTIONS.COLUMNS" maxbytes="300">
+      <segment>
+        <source>Kolonner</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.SECTIONS.DIVIDER" maxbytes="300">
+      <segment>
+        <source>Oppdeler</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.SECTIONS.HERO" maxbytes="300">
+      <segment>
+        <source>Plakat</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.SECTIONS.NEWS" maxbytes="300">
+      <segment>
+        <source>Nyheter</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.SECTIONS.PHOTO" maxbytes="300">
+      <segment>
+        <source>Bilde</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.SECTIONS.SIGNATURE" maxbytes="300">
+      <segment>
+        <source>Signatur</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.SECTIONS.SLIDESHOW" maxbytes="300">
+      <segment>
+        <source>Lysbildevisning</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.SECTIONS.TEXT" maxbytes="300">
+      <segment>
+        <source>Tekst</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.SECTIONS.TEXTLEFT" maxbytes="300">
+      <segment>
+        <source>Tekst + bilde</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.SECTIONS.TEXTNOIMAGE" maxbytes="300">
+      <segment>
+        <source>Tekst</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.SECTIONS.TEXTRIGHT" maxbytes="300">
+      <segment>
+        <source>Tekst + bilde</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.SECTIONS.TITLE" maxbytes="300">
+      <segment>
+        <source>Overskrift</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.SECTIONS.VIDEO" maxbytes="300">
+      <segment>
+        <source>Video</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.SELECT_IMAGE_MODAL.LIBRARY_BUTTON" maxbytes="300">
+      <segment>
+        <source>Fra biblioteket</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.SELECT_IMAGE_MODAL.LIBRARY_BUTTON_TEXT" maxbytes="300">
+      <segment>
+        <source>Bruk et bilde fra vårt bibliotek med gratis høykvalitetsbilder</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.SELECT_IMAGE_MODAL.OUTTRO" maxbytes="300">
+      <segment>
+        <source>Tips: Du kan alltid endre bildet senere</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.SELECT_IMAGE_MODAL.TITLE" maxbytes="300">
+      <segment>
+        <source>Velg det bildet du vil bruke</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.SELECT_IMAGE_MODAL.UPLOAD_BUTTON" maxbytes="300">
+      <segment>
+        <source>Last opp</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.SELECT_IMAGE_MODAL.UPLOAD_BUTTON_TEXT" maxbytes="300">
+      <segment>
+        <source>Last opp ditt eget bilde</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.SHARE.SHARE" maxbytes="300">
+      <segment>
+        <source>Del</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.SHARE.SOCIAL_MEDIA" maxbytes="300">
+      <segment>
+        <source>Del nettsiden din</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.SHARE.URL_LABEL" maxbytes="300">
+      <segment>
+        <source>Nettsideadresse</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.SHARE.COPY_CLIPBOARD" maxbytes="300">
+      <segment>
+        <source>Kopier til utklippstavle</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.SHARE.MAIL_SUBJECT" maxbytes="300">
+      <segment>
+        <source>Ta en titt på nettsiden min</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.SHARE.MAIL_BODY" maxbytes="300">
+      <segment>
+        <source>Jeg har nettopp oppdatert nettsiden på [livewebsite]</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.SHARE.FACEBOOK" maxbytes="300">
+      <segment>
+        <source>Del på Facebook</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.SHARE.GOOGLEPLUS" maxbytes="300">
+      <segment>
+        <source>Del på Google+</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.SHARE.TITLE" maxbytes="300">
+      <segment>
+        <source>Del denne siden</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.SHARE.TWITTER" maxbytes="300">
+      <segment>
+        <source>Del på Twitter</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.SIGNATURE_SECTION.REGARDS_TEXT_PLACEHOLDER" maxbytes="300">
+      <segment>
+        <source>Med vennlig hilsen</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.SIGNATURE_SECTION.SIGNATURE_PREVIEW_TEXT" maxbytes="300">
+      <segment>
+        <source>Signatur</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.SIGNATURE_SECTION.SIGNATURE_TEXT_PLACEHOLDER" maxbytes="300">
+      <segment>
+        <source>Signatur</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.SLIDESHOW_SECTION.ADD_CAPTION_PLACEHOLDER" maxbytes="300">
+      <segment>
+        <source>Legg til bildetekst</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.SLIDESHOW_SECTION.ERR_FINISH_EDITING" maxbytes="300">
+      <segment>
+        <source>Avslutt redigering eller last opp det aktuelle bildet!</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.SLIDESHOW_SECTION.ERR_MAX_SLIDESHOW_NUMBER" maxbytes="300">
+      <segment>
+        <source>Maks antall bilder: </source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.SLIDESHOW_SECTION.HEADLINE_IMAGE_PLACEHOLDER" maxbytes="300">
+      <segment>
+        <source>Legg til bildeoverskrift</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.SLIDESHOW_SECTION.HEADLINE_SELECT" maxbytes="300">
+      <segment>
+        <source>Lenke til overskrift</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.SLIDESHOW_SECTION.LINK_IMAGE_TITLE" maxbytes="300">
+      <segment>
+        <source>Bildelenke</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.SLIDESHOW_SECTION.TRANSITION_CUBIC" maxbytes="300">
+      <segment>
+        <source>Kubisk</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.SLIDESHOW_SECTION.TRANSITION_FADE" maxbytes="300">
+      <segment>
+        <source>Tone ut</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.SLIDESHOW_SECTION.TRANSITION_RANDOM" maxbytes="300">
+      <segment>
+        <source>Tilfeldig</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.SLIDESHOW_SECTION.TRANSITION_SELECT_DEFAULT" maxbytes="300">
+      <segment>
+        <source>Overganger</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.SLIDESHOW_SECTION.TRANSITION_SLIDE" maxbytes="300">
+      <segment>
+        <source>Lysbilde</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.SLIDESHOW_SECTION.TRANSITION_STRIPE" maxbytes="300">
+      <segment>
+        <source>Stripe</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.SLIDESHOW_SECTION.TRANSITION_UPDOWN" maxbytes="300">
+      <segment>
+        <source>Opp/Ned</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.SLIDESHOW_SECTION.UPLOAD_TEXT" maxbytes="300">
+      <segment>
+        <source>last opp bilder</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.SS_IMAGE.CAPTION" maxbytes="300">
+      <segment>
+        <source>Bildetekst</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.SS_IMAGE.CROP" maxbytes="300">
+      <segment>
+        <source>Beskjær</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.SS_IMAGE.DONE" maxbytes="300">
+      <segment>
+        <source>Ferdig</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.SS_IMAGE.REPLACE_IMAGE" maxbytes="300">
+      <segment>
+        <source>Erstatt</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.SS_IMAGE.ROTATE_LEFT" maxbytes="300">
+      <segment>
+        <source>Roter mot venstre</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.SS_IMAGE.ROTATE_RIGHT" maxbytes="300">
+      <segment>
+        <source>Roter mot høyre</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.SS_IMAGE.SELECT_IMAGE" maxbytes="300">
+      <segment>
+        <source>Velg bilde</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.SS_IMAGE.UPLOAD_IMAGE" maxbytes="300">
+      <segment>
+        <source>Last opp</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.SS_IMAGE.WRONG_FILETYPE" maxbytes="300">
+      <segment>
+        <source>Uriktig filformat. Last opp en bildefil.</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.SS_TEXTEDITOR.ADD_TEXT" maxbytes="300">
+      <segment>
+        <source>Legg til tekst</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.SS_TEXTEDITOR.PLACEHOLDER" maxbytes="300">
+      <segment>
+        <source>Klikk for å legge til tekst</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.SS_TEXTEDITOR.RESET_STYLES" maxbytes="300">
+      <segment>
+        <source>Tilbakestill stiler</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.SS_TEXTEDITOR.SWIPE_TEXT" maxbytes="300">
+      <segment>
+        <source>Sveip for mer</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.TITLE_SECTION.DEFAULT_TEXT" maxbytes="300">
+      <segment>
+        <source>Jeg er en overskrift</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.TRANSITION_TITLE_TEXT" maxbytes="300">
+      <segment>
+        <source>overgangstype</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.UPGRADE_TO_PRO_MODAL.UPGRADE_TO_PRO" maxbytes="300">
+      <segment>
+        <source>Oppgrader til PRO</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.UPGRADE_TO_PRO_MODAL.UPGRADE_TO_PRO_DIMMED_TEXT" maxbytes="300">
+      <segment>
+        <source>Du prøver å lagre PRO-funksjoner</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.UPGRADE_TO_PRO_MODAL.UPGRADE_TO_PRO_TEXT_1" maxbytes="300">
+      <segment>
+        <source>PRO-funksjoner, som de du nettopp har valgt, er kun tilgjengelige i SimpleSite PRO.</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.UPGRADE_TO_PRO_MODAL.UPGRADE_TO_PRO_TEXT_2" maxbytes="300">
+      <segment>
+        <source>SimpleSite PRO tilbyr flere design-funksjoner og fjerner all SimpleSite-reklame og -profilering fra nettsiden din. Med SimpleSite PRO kan du også få ditt eget personlige domene.</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.UPGRADE_TO_PRO_MODAL.UPGRADE_TO_PRO_TEXT_3" maxbytes="300">
+      <segment>
+        <source>Prøv SimpleSite PRO gratis i 14 dager uten forpliktelser.</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.UPGRADE_TO_PRO_MODAL.UPGRADE_TO_PRO_TEXT_4" maxbytes="300">
+      <segment>
+        <source>Gled deg!</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.VIDEO_SECTION.ADD" maxbytes="300">
+      <segment>
+        <source>Legg til video</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.VIDEO_SECTION.ADD_URL_PLACEHOLDER" maxbytes="300">
+      <segment>
+        <source>Angi video-URL</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.VIDEO_SECTION.AVAILABLE_SHORTLY" maxbytes="300">
+      <segment>
+        <source>Videoen er snart tilgjengelig.</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.VIDEO_SECTION.BROWSE" maxbytes="300">
+      <segment>
+        <source>Bla gjennom</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.VIDEO_SECTION.ENTER_VIDEO_URL" maxbytes="300">
+      <segment>
+        <source>Angi video-URL</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.VIDEO_SECTION.NO_URL_IN_EXTERNAL_INPUT" maxbytes="300">
+      <segment>
+        <source>Ingen URL angitt. Skriv inn en YouTube- eller Vimeo-URL.</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.VIDEO_SECTION.OR" maxbytes="300">
+      <segment>
+        <source>eller</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.VIDEO_SECTION.PROCESSING_VIDEO" maxbytes="300">
+      <segment>
+        <source>Vi behandler din video. Du vil kunne se videoklippet om få minutter.</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.VIDEO_SECTION.TEXT_PLACEHOLDER" maxbytes="300">
+      <segment>
+        <source>Legg til video-beskrivelse</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.VIDEO_SECTION.TITLE_PLACEHOLDER" maxbytes="300">
+      <segment>
+        <source>Legg til video-overskrift</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.VIDEO_SECTION.UPLOAD" maxbytes="300">
+      <segment>
+        <source>Last opp</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.VIDEO_SECTION.VIDEO_DESCRIPTION" maxbytes="300">
+      <segment>
+        <source>Beskrivelse av video</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.VIDEO_SECTION.WRONG_FILETYPE" maxbytes="300">
+      <segment>
+        <source>Filformatet støttes ikke. Last opp en video-fil.</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.VIDEO_SECTION.WRONG_URL" maxbytes="300">
+      <segment>
+        <source>Uriktig URL. Skriv inn en YouTube- eller Vimeo-URL.</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.WEBSHOP.TEST_OR_EDIT.EDIT_BUTTON" maxbytes="300">
+      <segment>
+        <source>Rediger produktoversikt</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.WEBSHOP.TEST_OR_EDIT.TEST_BUTTON" maxbytes="300">
+      <segment>
+        <source>Se nettbutikken live</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.WEBSHOP.TEST_OR_EDIT.TITLE" maxbytes="300">
+      <segment>
+        <source>Hva vil du gjøre nå?</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW_SITE_URL.GOTIT" maxbytes="300">
+      <segment>
+        <source>OK, SKJØNNER</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW_SITE_URL.HEADER" maxbytes="300">
+      <segment>
+        <source>Dette er din nettsideadresse</source>
+        <target/>
+      </segment>
+    </unit>
+  </file>
+</xliff>

@@ -1,0 +1,1374 @@
+<xliff srcLang="en-US" trgLang="da-DK" version="2.0" 
+  xmlns="urn:oasis:names:tc:xliff:document:2.0">
+  <file id="home" original="Home.json">
+    <skeleton href="Home.json"/>
+    <unit id="BASE.UPGRADENOW" maxbytes="300">
+      <segment>
+        <source>Обновить</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.DESIGN_EDITOR.BACK" maxbytes="300">
+      <segment>
+        <source>Назад</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.DESIGN_EDITOR.BACKGROUND" maxbytes="300">
+      <segment>
+        <source>Фон</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.DESIGN_EDITOR.BACKGROUNDS" maxbytes="300">
+      <segment>
+        <source>Фоны</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.DESIGN_EDITOR.COLORS" maxbytes="300">
+      <segment>
+        <source>Цвета сайта</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.DESIGN_EDITOR.DESIGN" maxbytes="300">
+      <segment>
+        <source>Внешний вид</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.DESIGN_EDITOR.DESIGN_1" maxbytes="300">
+      <segment>
+        <source>Внешний вид 1</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.DESIGN_EDITOR.DESIGN_2" maxbytes="300">
+      <segment>
+        <source>Внешний вид 2</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.DESIGN_EDITOR.DESIGN_3" maxbytes="300">
+      <segment>
+        <source>Внешний вид 3</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.DESIGN_EDITOR.DESIGN_HEADER" maxbytes="300">
+      <segment>
+        <source>Внешний вид сайта</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.DESIGN_EDITOR.FONTS" maxbytes="300">
+      <segment>
+        <source>Шрифты сайта</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.DESIGN_EDITOR.FREE_LOGOS" maxbytes="300">
+      <segment>
+        <source>Логотипы</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.DESIGN_EDITOR.GO_PRO_BACKGROUNDS_MESSAGE" maxbytes="300">
+      <segment>
+        <source>Перейти на версию «про» и применить этот фон</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.DESIGN_EDITOR.GO_PRO_MESSAGE_TITLE" maxbytes="300">
+      <segment>
+        <source>Перейти на версию «про»</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.DESIGN_EDITOR.MORE_BACKGROUNDS" maxbytes="300">
+      <segment>
+        <source>Другие фоны</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.DESIGN_EDITOR.MORE_COLORS" maxbytes="300">
+      <segment>
+        <source>Другие цвета</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.DESIGN_EDITOR.MORE_DESIGNS" maxbytes="300">
+      <segment>
+        <source>Другие варианты внешнего вида</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.DESIGN_EDITOR.MORE_FONTS" maxbytes="300">
+      <segment>
+        <source>Другие шрифты</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.DESIGN_EDITOR.MORE_LOGOS" maxbytes="300">
+      <segment>
+        <source>Другие логотипы</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.DESIGN_EDITOR.NO_BACKGROUND" maxbytes="300">
+      <segment>
+        <source>Нет фона</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.DESIGN_EDITOR.NO_LOGO" maxbytes="300">
+      <segment>
+        <source>Нет логотипа</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.DESIGN_EDITOR.PRO_BACKGROUNDS" maxbytes="300">
+      <segment>
+        <source>Фоны версии «про»</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.DESIGN_EDITOR.PRO_FONTS" maxbytes="300">
+      <segment>
+        <source>Шрифты версии «про»</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.DESIGN_EDITOR.PRO_LOGOS" maxbytes="300">
+      <segment>
+        <source>Премиум-логотипы</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.DESIGN_EDITOR.REPLACE_BACKGROUND" maxbytes="300">
+      <segment>
+        <source>Заменить фон</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.DESIGN_EDITOR.UPGRADE_TO_PRO" maxbytes="300">
+      <segment>
+        <source>Перейти на версию ПРО</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.DESIGN_EDITOR.UPLOAD_BACKGROUND" maxbytes="300">
+      <segment>
+        <source>Загрузить фон</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.DESIGN_EDITOR.UPLOAD_LOGO" maxbytes="300">
+      <segment>
+        <source>Загрузить логотип</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.DESIGN_EDITOR.UPLOAD_YOUR_OWN" maxbytes="300">
+      <segment>
+        <source>размер изображения не должен превышать 5 Мб.</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.DESIGN_EDITOR.VIDEO_BACKGROUND" maxbytes="300">
+      <segment>
+        <source>Видео </source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.DESIGN_EDITOR.YOUR_OWN_BACKGROUND" maxbytes="300">
+      <segment>
+        <source>Ваш фон</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PAGES_OVERVIEW.NEW_PAGE_MODAL.ABOUT_US" maxbytes="300">
+      <segment>
+        <source>О нас</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PAGES_OVERVIEW.NEW_PAGE_MODAL.ABOUT_US_TEXT" maxbytes="300">
+      <segment>
+        <source>Расскажите немного о себе, вашем бизнесе или организации</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PAGES_OVERVIEW.NEW_PAGE_MODAL.ADD" maxbytes="300">
+      <segment>
+        <source>Добавить</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PAGES_OVERVIEW.NEW_PAGE_MODAL.ADDRESS_PAGE" maxbytes="300">
+      <segment>
+        <source>Адрес</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PAGES_OVERVIEW.NEW_PAGE_MODAL.ADDRESS_PAGE_TEXT" maxbytes="300">
+      <segment>
+        <source>Добавьте вашу контактную информацию, чтобы люди смогли связаться с вами</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PAGES_OVERVIEW.NEW_PAGE_MODAL.BLOG" maxbytes="300">
+      <segment>
+        <source>Блог</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PAGES_OVERVIEW.NEW_PAGE_MODAL.BLOG_TEXT" maxbytes="300">
+      <segment>
+        <source>Выскажите свое мнение, расскажите о ваших занятиях и впечатлениях</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PAGES_OVERVIEW.NEW_PAGE_MODAL.CONTACT_ME" maxbytes="300">
+      <segment>
+        <source>Страница для контактов</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PAGES_OVERVIEW.NEW_PAGE_MODAL.CONTACT_ME_TEXT" maxbytes="300">
+      <segment>
+        <source>Добавьте страницу для связи, чтобы люди смогли связаться с вами</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PAGES_OVERVIEW.NEW_PAGE_MODAL.GUESTBOOK_PAGE" maxbytes="300">
+      <segment>
+        <source>Гостевая книга</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PAGES_OVERVIEW.NEW_PAGE_MODAL.GUESTBOOK_PAGE_TEXT" maxbytes="300">
+      <segment>
+        <source>Создайте страницу, на которой ваши посетители смогут оставить вам сообщение</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PAGES_OVERVIEW.NEW_PAGE_MODAL.MY_PROJECT" maxbytes="300">
+      <segment>
+        <source>Мой проект</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PAGES_OVERVIEW.NEW_PAGE_MODAL.MY_PROJECT_TEXT" maxbytes="300">
+      <segment>
+        <source>Расскажите людям, над чем вы работаете или покажите готовую работу.</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PAGES_OVERVIEW.NEW_PAGE_MODAL.PEOPLE_GALLERY" maxbytes="300">
+      <segment>
+        <source>Галерея сотрудников</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PAGES_OVERVIEW.NEW_PAGE_MODAL.PEOPLE_GALLERY_TEXT" maxbytes="300">
+      <segment>
+        <source>Кто играет ключевую роль в вашей организации? Покажите здесь своих сотрудников, чтобы сделать сайт более открытым и дружелюбным.</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PAGES_OVERVIEW.NEW_PAGE_MODAL.PHOTO_ALBUM" maxbytes="300">
+      <segment>
+        <source>Фотоальбом</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PAGES_OVERVIEW.NEW_PAGE_MODAL.PHOTO_ALBUM_TEXT" maxbytes="300">
+      <segment>
+        <source>Вставьте изображения и расскажите историю в картинках</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PAGES_OVERVIEW.NEW_PAGE_MODAL.PHOTO_STORY" maxbytes="300">
+      <segment>
+        <source>Фотоистория</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PAGES_OVERVIEW.NEW_PAGE_MODAL.PHOTO_STORY_TEXT" maxbytes="300">
+      <segment>
+        <source>Картинка стоит тысячи слов. Воспользуйтесь изображениями, чтобы рассказать историю, которую нельзя выразить только словами.</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PAGES_OVERVIEW.NEW_PAGE_MODAL.PLACEHOLDER" maxbytes="300">
+      <segment>
+        <source>Название страницы</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PAGES_OVERVIEW.NEW_PAGE_MODAL.SERVICE_LIST" maxbytes="300">
+      <segment>
+        <source>Список услуг</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PAGES_OVERVIEW.NEW_PAGE_MODAL.SERVICE_LIST_TEXT" maxbytes="300">
+      <segment>
+        <source>Расскажите посетителям, какие услуги вы предлагаете. Укажите цены, описания и добавьте изображения, чтобы им было легче сравнивать.</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PAGES_OVERVIEW.NEW_PAGE_MODAL.STANDARD_PAGE" maxbytes="300">
+      <segment>
+        <source>Пусто</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PAGES_OVERVIEW.NEW_PAGE_MODAL.STANDARD_PAGE_TEXT" maxbytes="300">
+      <segment>
+        <source>Создайте такую страницу, какую вам нужно</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PAGES_OVERVIEW.NEW_PAGE_MODAL.TITLE" maxbytes="300">
+      <segment>
+        <source>Добавить новую страницу</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PAGES_OVERVIEW.NEW_PAGE_MODAL.WEBSHOP" maxbytes="300">
+      <segment>
+        <source>Интернет-магазин</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PAGES_OVERVIEW.NEW_PAGE_MODAL.WEBSHOP_TEXT" maxbytes="300">
+      <segment>
+        <source>Продавайте товары онлайн</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.ADD_IMAGE_MODAL.CATEGORIES.ANIMALS" maxbytes="300">
+      <segment>
+        <source>Животные</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.ADD_IMAGE_MODAL.CATEGORIES.FASHION" maxbytes="300">
+      <segment>
+        <source>Мода</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.ADD_IMAGE_MODAL.CATEGORIES.FOOD" maxbytes="300">
+      <segment>
+        <source>Еда</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.ADD_IMAGE_MODAL.CATEGORIES.FUN" maxbytes="300">
+      <segment>
+        <source>Развлечения</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.ADD_IMAGE_MODAL.CATEGORIES.KIDS" maxbytes="300">
+      <segment>
+        <source>Дети</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.ADD_IMAGE_MODAL.CATEGORIES.LOVE" maxbytes="300">
+      <segment>
+        <source>Любовь</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.ADD_IMAGE_MODAL.CATEGORIES.NATURE" maxbytes="300">
+      <segment>
+        <source>Природа</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.ADD_IMAGE_MODAL.CATEGORIES.OBJECTS" maxbytes="300">
+      <segment>
+        <source>Объекты</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.ADD_IMAGE_MODAL.CATEGORIES.SCENERY" maxbytes="300">
+      <segment>
+        <source>Обстановка</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.ADD_IMAGE_MODAL.CATEGORIES.WORK" maxbytes="300">
+      <segment>
+        <source>Работа</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.ADD_IMAGE_MODAL.CATEGORY" maxbytes="300">
+      <segment>
+        <source>Все</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.ADD_IMAGE_MODAL.CATEGORY_LABEL" maxbytes="300">
+      <segment>
+        <source>Категория</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.ADD_IMAGE_MODAL.TIP" maxbytes="300">
+      <segment>
+        <source>Совет: Изображения можно фильтровать по категории.</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.ADD_IMAGE_MODAL.TITLE" maxbytes="300">
+      <segment>
+        <source>Выбрать картинку</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.ADD_IMAGE_MODAL.UPLOAD_BUTTON" maxbytes="300">
+      <segment>
+        <source>Загрузить</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.ADD_SECTION_MODAL.TITLE" maxbytes="300">
+      <segment>
+        <source>Вставить содержимое</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.COLUMNS_SECTION.DESCRIPTION_PLACEHOLDER" maxbytes="300">
+      <segment>
+        <source>Вставить описание</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.COLUMNS_SECTION.HEADLINE_PLACEHOLDER" maxbytes="300">
+      <segment>
+        <source>Вставить заголовок столбца</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.COLUMNS_SECTION.MODAL_LABEL" maxbytes="300">
+      <segment>
+        <source>Заголовок</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.COLUMNS_SECTION.MODAL_LINK_LABEL" maxbytes="300">
+      <segment>
+        <source>С чем должен быть связан этот заголовок?</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.COLUMNS_SECTION.MODAL_TITLE" maxbytes="300">
+      <segment>
+        <source>Настройки заголовка</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.COLUMNS_SECTION.SELECT_PAGE_OPTION" maxbytes="300">
+      <segment>
+        <source>Выберите страницу</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.COLUMNS_SECTION.SWITCH_BUTTONS_LABEL" maxbytes="300">
+      <segment>
+        <source>Количество столбцов</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.COLUMNS_SECTION.THREE_COLUMNS" maxbytes="300">
+      <segment>
+        <source>3 столбца</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.COLUMNS_SECTION.TWO_COLUMNS" maxbytes="300">
+      <segment>
+        <source>2 столбца</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.COLUMNS_SECTION.BLOCK" maxbytes="300">
+      <segment>
+        <source>Блок №</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.COLUMNS_SECTION.BLOCKS" maxbytes="300">
+      <segment>
+        <source>Блоки</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.COMMENTS_BOX.INFOTEXT1" maxbytes="300">
+      <segment>
+        <source>Это раздел комментариев данной страницы. Здесь посетители могут оставлять комментарии о вашем сайте.</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.COMMENTS_BOX.INFOTEXT2" maxbytes="300">
+      <segment>
+        <source>Комментарии - это отличный способ получить отзывы от ваших посетителей. В отличие от электронной почты, комментарии видите не только вы, но и другие посетители тоже.</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.COMMENTS_BOX.INFOTEXT3" maxbytes="300">
+      <segment>
+        <source>Перейдите на свой сайт [livewebsite] или в раздел комментариев во вкладке ‘[@:HOME.MAINMENU.ACCOUNT]’ и посмотрите комментарии, которые оставили ваши посетители. Вы также можете посмотреть и удалить комментарии в этих настройках, включить или отключить их на определенных страницах вашего сайта.</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.COMMENTS_BOX.INFOTEXT_TEASER" maxbytes="300">
+      <segment>
+        <source>Это раздел комментариев данной страницы. Здесь посетители могут оставлять комментарии о вашем сайте.</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.CONTACT_ME.FORM_BUTTON" maxbytes="300">
+      <segment>
+        <source>Отправить - Нажмите!</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.CONTACT_ME.FORM_HEADLINE" maxbytes="300">
+      <segment>
+        <source>Введите свое сообщение. Заполните форму:</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.CONTACT_ME.INFOTEXT1" maxbytes="300">
+      <segment>
+        <source>Это страница для связи. На этой странице посетители смогут отправить вам сообщение, чтобы связаться с вами.</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.CONTACT_ME.INFOTEXT2" maxbytes="300">
+      <segment>
+        <source>Напишите краткое сообщение для посетителей вверху страницы. Прежде чем что-то вам написать, посетителям нужно знать</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.CONTACT_ME.INFOTEXT3" maxbytes="300">
+      <segment>
+        <source>О чем им следует писать вам?</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.CONTACT_ME.INFOTEXT4" maxbytes="300">
+      <segment>
+        <source>Когда они получат ответ?</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.CONTACT_ME.INFOTEXT5" maxbytes="300">
+      <segment>
+        <source>Как с вами еще можно связаться (например, по телефону или в социальных сетях)?</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.CONTACT_ME.INFOTEXT_TEASER" maxbytes="300">
+      <segment>
+        <source>Это страница для связи. На этой странице посетители смогут отправить вам сообщение. Это сообщение будет перенаправлено на ваш адрес эл. почты, чтобы вы смогли сразу на него ответить.</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.CONTACT_ME.RECIEVED_MESSAGES_BUTTON" maxbytes="300">
+      <segment>
+        <source>Посмотреть полученные сообщения</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.CREATE.BUTTON" maxbytes="300">
+      <segment>
+        <source>Удалить рекламу благодаря версии ПРО</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.CREATE.TEXT" maxbytes="300">
+      <segment>
+        <source>В этом месте вставляется небольшая реклама SimpleSite, благодаря которой вы можете пользоваться сайтом совершенно бесплатно.</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.CREATE.TITLE" maxbytes="300">
+      <segment>
+        <source>Ваш веб-сайт бесплатный</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.DELETE_MODAL.DELETE_TITLE" maxbytes="300">
+      <segment>
+        <source>Удалить содержимое</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.DELETE_MODAL.IS_EMPTY" maxbytes="300">
+      <segment>
+        <source>Данный раздел пуст. Если вы продолжите, этот раздел будет удален. Хотите удалить этот раздел?</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.DELETE_MODAL.REALLY" maxbytes="300">
+      <segment>
+        <source>Удалить это содержимое с вашей страницы?</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.DIVIDER_SECTION.STYLE" maxbytes="300">
+      <segment>
+        <source>Стиль разделителя</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.DIVIDER_SECTION.STYLES.DASHED" maxbytes="300">
+      <segment>
+        <source>Штриховой</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.DIVIDER_SECTION.STYLES.DOTTED" maxbytes="300">
+      <segment>
+        <source>Пунктирный</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.DIVIDER_SECTION.STYLES.SOLID" maxbytes="300">
+      <segment>
+        <source>Сплошной</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.FOOTER.FREEMIUM.LINK" maxbytes="300">
+      <segment>
+        <source>Создайте свой собственный веб-сайт БЕСПЛАТНО. Нажмите здесь!</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.FOOTER.FREEMIUM.TEXT" maxbytes="300">
+      <segment>
+        <source>Этот сайт создан на платформе SimpleSite</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.FOOTER.PAYING.TEXT" maxbytes="300">
+      <segment>
+        <source>Создано на платформе SimpleSite</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.HERO_SECTION.CTA_OPTIONS.CTA_LINK_LABEL" maxbytes="300">
+      <segment>
+        <source>С чем должна быть связана эта кнопка?</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.HERO_SECTION.CTA_OPTIONS.CTA_TEXT_LABEL" maxbytes="300">
+      <segment>
+        <source>Что на ней должно быть написано? (Примеры: «Подробнее», «Свяжитесь с нами»)</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.HERO_SECTION.CTA_OPTIONS.INVALID_LINK" maxbytes="300">
+      <segment>
+        <source>Вам нужно указать, на какую страницу перейдет посетитель, нажав эту кнопку.</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.HERO_SECTION.CTA_OPTIONS.INVALID_TEXT" maxbytes="300">
+      <segment>
+        <source>Вам нужно указать текст кнопки. Кнопка без текста бессмысленна для пользователей.</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.HERO_SECTION.CTA_OPTIONS.TITLE" maxbytes="300">
+      <segment>
+        <source>Настройки кнопки</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.HERO_SECTION.CTA_PLACEHOLDER" maxbytes="300">
+      <segment>
+        <source>Нажми меня</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.HERO_SECTION.HEADLINE_PLACEHOLDER" maxbytes="300">
+      <segment>
+        <source>Заголовок</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.HERO_SECTION.INCLUDE_BUTTON" maxbytes="300">
+      <segment>
+        <source>Добавить кнопку</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.HERO_SECTION.LINK_DEFAULT_OPTION" maxbytes="300">
+      <segment>
+        <source>Ссылка на</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.HERO_SECTION.TEXT_PLACEHOLDER" maxbytes="300">
+      <segment>
+        <source>Я – абзац. Нажмите здесь, чтобы вставить свой текст и отредактировать меня. Я идеально подхожу для написания истории или предоставления краткой информации о себе.</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.MENU.DESKTOP.MORE" maxbytes="300">
+      <segment>
+        <source>ПОДРОБНЕЕ</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.MENU.MOBILE.MORE" maxbytes="300">
+      <segment>
+        <source>Список страниц</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.NEWS_SECTION.ADDNEWS" maxbytes="300">
+      <segment>
+        <source>Добавить новости</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.NEWS_SECTION.ADD_NEWS_PLACEHOLDER" maxbytes="300">
+      <segment>
+        <source>Вставить заголовок объявления</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.NEWS_SECTION.DELETE" maxbytes="300">
+      <segment>
+        <source>Удалить новости</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.NEWS_SECTION.DESCRIPTION_PLACEHOLDER" maxbytes="300">
+      <segment>
+        <source>Вставить текст</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.NEWS_SECTION.LINK" maxbytes="300">
+      <segment>
+        <source>Выберите страницу</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.NEWS_SECTION.LINK_LABEL" maxbytes="300">
+      <segment>
+        <source>Свяжите эти новости со страницей</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.NEWS_SECTION.NEWS_HEADLINE_PLACEHOLDER" maxbytes="300">
+      <segment>
+        <source>Вставить заголовок</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.PHOTO_ALBUM.FILE_NOT_UPLOADED" maxbytes="300">
+      <segment>
+        <source>Один из файлов не загрузился</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.PHOTO_ALBUM.PHOTO_CAPTION" maxbytes="300">
+      <segment>
+        <source>Вставить описание</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.PHOTO_ALBUM.SHOW_SLIDESHOW" maxbytes="300">
+      <segment>
+        <source>Показать слайд-шоу на странице</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.PHOTO_ALBUM.TITLE_PLACEHOLDER" maxbytes="300">
+      <segment>
+        <source>Напишите название</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.PHOTO_ALBUM.TRANSITIONS.CUBIC" maxbytes="300">
+      <segment>
+        <source>Кубики</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.PHOTO_ALBUM.TRANSITIONS.FADE" maxbytes="300">
+      <segment>
+        <source>Исчезновение</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.PHOTO_ALBUM.TRANSITIONS.RANDOM" maxbytes="300">
+      <segment>
+        <source>В случайном порядке</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.PHOTO_ALBUM.TRANSITIONS.SLIDE" maxbytes="300">
+      <segment>
+        <source>Перелистывание</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.PHOTO_ALBUM.TRANSITIONS.STRIPE" maxbytes="300">
+      <segment>
+        <source>Полоски</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.PHOTO_ALBUM.TRANSITIONS.UPDOWN" maxbytes="300">
+      <segment>
+        <source>Вверх/вниз</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.PHOTO_ALBUM.UPLOAD_IMAGES" maxbytes="300">
+      <segment>
+        <source>Загрузить изображения</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.SECTIONS.ADD_SECTION_TEXT" maxbytes="300">
+      <segment>
+        <source>Вставить содержимое</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.SECTIONS.COLUMNS" maxbytes="300">
+      <segment>
+        <source>Колонки</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.SECTIONS.DIVIDER" maxbytes="300">
+      <segment>
+        <source>Разделитель</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.SECTIONS.HERO" maxbytes="300">
+      <segment>
+        <source>Постер</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.SECTIONS.NEWS" maxbytes="300">
+      <segment>
+        <source>Новости</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.SECTIONS.PHOTO" maxbytes="300">
+      <segment>
+        <source>Изображение</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.SECTIONS.SIGNATURE" maxbytes="300">
+      <segment>
+        <source>Подпись</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.SECTIONS.SLIDESHOW" maxbytes="300">
+      <segment>
+        <source>Слайд-шоу</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.SECTIONS.TEXT" maxbytes="300">
+      <segment>
+        <source>Текст</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.SECTIONS.TEXTLEFT" maxbytes="300">
+      <segment>
+        <source>Текст и изображение</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.SECTIONS.TEXTNOIMAGE" maxbytes="300">
+      <segment>
+        <source>Текст</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.SECTIONS.TEXTRIGHT" maxbytes="300">
+      <segment>
+        <source>Текст и изображение</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.SECTIONS.TITLE" maxbytes="300">
+      <segment>
+        <source>Заголовок</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.SECTIONS.VIDEO" maxbytes="300">
+      <segment>
+        <source>Видео</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.SELECT_IMAGE_MODAL.LIBRARY_BUTTON" maxbytes="300">
+      <segment>
+        <source>Из библиотеки</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.SELECT_IMAGE_MODAL.LIBRARY_BUTTON_TEXT" maxbytes="300">
+      <segment>
+        <source>Вставьте изображение из нашей бесплатной библиотеки высококачественных картинок</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.SELECT_IMAGE_MODAL.OUTTRO" maxbytes="300">
+      <segment>
+        <source>Совет: Изображения можно поменять в любой момент.</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.SELECT_IMAGE_MODAL.TITLE" maxbytes="300">
+      <segment>
+        <source>Выберите нужное вам изображение</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.SELECT_IMAGE_MODAL.UPLOAD_BUTTON" maxbytes="300">
+      <segment>
+        <source>Загрузить</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.SELECT_IMAGE_MODAL.UPLOAD_BUTTON_TEXT" maxbytes="300">
+      <segment>
+        <source>Загрузите свое изображение</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.SHARE.SHARE" maxbytes="300">
+      <segment>
+        <source>Поделиться</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.SHARE.SOCIAL_MEDIA" maxbytes="300">
+      <segment>
+        <source>Поделитесь своим сайтом</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.SHARE.URL_LABEL" maxbytes="300">
+      <segment>
+        <source>Адрес вашего сайта</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.SHARE.COPY_CLIPBOARD" maxbytes="300">
+      <segment>
+        <source>Скопировать в буфер обмена</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.SHARE.MAIL_SUBJECT" maxbytes="300">
+      <segment>
+        <source>Посмотреть мой сайт</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.SHARE.MAIL_BODY" maxbytes="300">
+      <segment>
+        <source>Я только что обновил(а) свой сайт на [livewebsite]</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.SHARE.FACEBOOK" maxbytes="300">
+      <segment>
+        <source>Поделиться на Facebook</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.SHARE.GOOGLEPLUS" maxbytes="300">
+      <segment>
+        <source>Поделиться на Google+</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.SHARE.TITLE" maxbytes="300">
+      <segment>
+        <source>Поделиться этой страницей</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.SHARE.TWITTER" maxbytes="300">
+      <segment>
+        <source>Поделиться в Twitter</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.SIGNATURE_SECTION.REGARDS_TEXT_PLACEHOLDER" maxbytes="300">
+      <segment>
+        <source>С уважением,</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.SIGNATURE_SECTION.SIGNATURE_PREVIEW_TEXT" maxbytes="300">
+      <segment>
+        <source>Подпись</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.SIGNATURE_SECTION.SIGNATURE_TEXT_PLACEHOLDER" maxbytes="300">
+      <segment>
+        <source>Подпись</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.SLIDESHOW_SECTION.ADD_CAPTION_PLACEHOLDER" maxbytes="300">
+      <segment>
+        <source>Вставить надпись</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.SLIDESHOW_SECTION.ERR_FINISH_EDITING" maxbytes="300">
+      <segment>
+        <source>Закончить редактирование или загрузку текущего изображения!</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.SLIDESHOW_SECTION.ERR_MAX_SLIDESHOW_NUMBER" maxbytes="300">
+      <segment>
+        <source>Макс. количество изображений: </source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.SLIDESHOW_SECTION.HEADLINE_IMAGE_PLACEHOLDER" maxbytes="300">
+      <segment>
+        <source>Вставить надпись к изображению</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.SLIDESHOW_SECTION.HEADLINE_SELECT" maxbytes="300">
+      <segment>
+        <source>Ссылка на заголовок</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.SLIDESHOW_SECTION.LINK_IMAGE_TITLE" maxbytes="300">
+      <segment>
+        <source>Ссылка на изображение</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.SLIDESHOW_SECTION.TRANSITION_CUBIC" maxbytes="300">
+      <segment>
+        <source>Кубики</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.SLIDESHOW_SECTION.TRANSITION_FADE" maxbytes="300">
+      <segment>
+        <source>Исчезновение</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.SLIDESHOW_SECTION.TRANSITION_RANDOM" maxbytes="300">
+      <segment>
+        <source>В случайном порядке</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.SLIDESHOW_SECTION.TRANSITION_SELECT_DEFAULT" maxbytes="300">
+      <segment>
+        <source>Переходы</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.SLIDESHOW_SECTION.TRANSITION_SLIDE" maxbytes="300">
+      <segment>
+        <source>Перелистывание</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.SLIDESHOW_SECTION.TRANSITION_STRIPE" maxbytes="300">
+      <segment>
+        <source>Полоски</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.SLIDESHOW_SECTION.TRANSITION_UPDOWN" maxbytes="300">
+      <segment>
+        <source>Вверх/вниз</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.SLIDESHOW_SECTION.UPLOAD_TEXT" maxbytes="300">
+      <segment>
+        <source>Загрузить изображения</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.SS_IMAGE.CAPTION" maxbytes="300">
+      <segment>
+        <source>Надпись</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.SS_IMAGE.CROP" maxbytes="300">
+      <segment>
+        <source>Обрезать</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.SS_IMAGE.DONE" maxbytes="300">
+      <segment>
+        <source>Готово</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.SS_IMAGE.REPLACE_IMAGE" maxbytes="300">
+      <segment>
+        <source>Заменить</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.SS_IMAGE.ROTATE_LEFT" maxbytes="300">
+      <segment>
+        <source>Повернуть влево</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.SS_IMAGE.ROTATE_RIGHT" maxbytes="300">
+      <segment>
+        <source>Повернуть вправо</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.SS_IMAGE.SELECT_IMAGE" maxbytes="300">
+      <segment>
+        <source>Выбрать картинку</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.SS_IMAGE.UPLOAD_IMAGE" maxbytes="300">
+      <segment>
+        <source>Загрузить</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.SS_IMAGE.WRONG_FILETYPE" maxbytes="300">
+      <segment>
+        <source>Некорректный формат файла. Загрузите файл изображения.</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.SS_TEXTEDITOR.ADD_TEXT" maxbytes="300">
+      <segment>
+        <source>Вставить текст</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.SS_TEXTEDITOR.PLACEHOLDER" maxbytes="300">
+      <segment>
+        <source>Нажмите для вставки текста</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.SS_TEXTEDITOR.RESET_STYLES" maxbytes="300">
+      <segment>
+        <source>Сменить стиль</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.SS_TEXTEDITOR.SWIPE_TEXT" maxbytes="300">
+      <segment>
+        <source>Перелистнуть дальше</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.TITLE_SECTION.DEFAULT_TEXT" maxbytes="300">
+      <segment>
+        <source>Я – заголовок.</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.TRANSITION_TITLE_TEXT" maxbytes="300">
+      <segment>
+        <source>Тип перехода</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.UPGRADE_TO_PRO_MODAL.UPGRADE_TO_PRO" maxbytes="300">
+      <segment>
+        <source>Перейти на версию ПРО</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.UPGRADE_TO_PRO_MODAL.UPGRADE_TO_PRO_DIMMED_TEXT" maxbytes="300">
+      <segment>
+        <source>Вы пытаетесь сохранить функции ПРО</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.UPGRADE_TO_PRO_MODAL.UPGRADE_TO_PRO_TEXT_1" maxbytes="300">
+      <segment>
+        <source>Функции ПРО, одну из которых вы только что выбрали, доступны только в версии SimpleSite ПРО.</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.UPGRADE_TO_PRO_MODAL.UPGRADE_TO_PRO_TEXT_2" maxbytes="300">
+      <segment>
+        <source>В версии SimpleSite ПРО больше возможностей по выбору дизайна, нет рекламы SimpleSite и других брендов. Также в версии SimpleSite ПРО можно выбрать персональное доменное имя.</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.UPGRADE_TO_PRO_MODAL.UPGRADE_TO_PRO_TEXT_3" maxbytes="300">
+      <segment>
+        <source>Станьте пользователем версии SimpleSite ПРО бесплатно на 14 дней, без каких-либо обязательств.</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.UPGRADE_TO_PRO_MODAL.UPGRADE_TO_PRO_TEXT_4" maxbytes="300">
+      <segment>
+        <source>Пользуйтесь и наслаждайтесь!</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.VIDEO_SECTION.ADD" maxbytes="300">
+      <segment>
+        <source>Вставить видео</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.VIDEO_SECTION.ADD_URL_PLACEHOLDER" maxbytes="300">
+      <segment>
+        <source>Введите URL-адрес видео</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.VIDEO_SECTION.AVAILABLE_SHORTLY" maxbytes="300">
+      <segment>
+        <source>Видеоролик скоро будет доступен.</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.VIDEO_SECTION.BROWSE" maxbytes="300">
+      <segment>
+        <source>Обзор</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.VIDEO_SECTION.ENTER_VIDEO_URL" maxbytes="300">
+      <segment>
+        <source>Введите URL-адрес видео</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.VIDEO_SECTION.NO_URL_IN_EXTERNAL_INPUT" maxbytes="300">
+      <segment>
+        <source>URL-адрес не указан. Введите URL-адрес YouTube или Vimeo.</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.VIDEO_SECTION.OR" maxbytes="300">
+      <segment>
+        <source>или</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.VIDEO_SECTION.PROCESSING_VIDEO" maxbytes="300">
+      <segment>
+        <source>Выполняется обработка вашего видеоролика. Вы сможете посмотреть ваш видеоролик через несколько секунд.</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.VIDEO_SECTION.TEXT_PLACEHOLDER" maxbytes="300">
+      <segment>
+        <source>Вставить описание видео</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.VIDEO_SECTION.TITLE_PLACEHOLDER" maxbytes="300">
+      <segment>
+        <source>Вставить заголовок видео</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.VIDEO_SECTION.UPLOAD" maxbytes="300">
+      <segment>
+        <source>Загрузить</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.VIDEO_SECTION.VIDEO_DESCRIPTION" maxbytes="300">
+      <segment>
+        <source>Описание видео</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.VIDEO_SECTION.WRONG_FILETYPE" maxbytes="300">
+      <segment>
+        <source>Неподдерживаемый формат файла. Загрузите видео-файл.</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.VIDEO_SECTION.WRONG_URL" maxbytes="300">
+      <segment>
+        <source>Некорректный URL-адрес Введите URL-адрес YouTube или Vimeo.</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.WEBSHOP.TEST_OR_EDIT.EDIT_BUTTON" maxbytes="300">
+      <segment>
+        <source>Изменить список товаров</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.WEBSHOP.TEST_OR_EDIT.TEST_BUTTON" maxbytes="300">
+      <segment>
+        <source>Посмотреть магазин онлайн</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW.WEBSHOP.TEST_OR_EDIT.TITLE" maxbytes="300">
+      <segment>
+        <source>Что вы хотите сделать дальше?</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW_SITE_URL.GOTIT" maxbytes="300">
+      <segment>
+        <source>ОК, ПОНЯТНО</source>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="HOME.PREVIEW_SITE_URL.HEADER" maxbytes="300">
+      <segment>
+        <source>Это адрес вашего сайта</source>
+        <target/>
+      </segment>
+    </unit>
+  </file>
+</xliff>
