@@ -1,7 +1,4 @@
 {
-  "BASE": {
-    "UPGRADENOW": "Opgrader nu"
-  }, 
   "HOME": {
     "ACCOUNT": {
       "ENABLE": "Aktivieren", 
@@ -9,8 +6,7 @@
     }, 
     "DEFAULT_PAGE_NAME": "Meine Seite", 
     "DESIGN_EDITOR": {
-      "BACK": "Tilbage", 
-      "BACKGROUND": "Baggrund", 
+      "BACK": "Zurück", 
       "VIDEO_BACKGROUND": "Video ", 
       "YOUR_OWN_BACKGROUND": "Ihr Hintergrund"
     }
