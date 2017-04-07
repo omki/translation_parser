@@ -1,0 +1,21 @@
+{
+  "LOGIN": {
+    "LOGIN_BUTTON": {
+      "ACTIVE": "Accesso in corso", 
+      "TEXT": "Accedi"
+    }, 
+    "NEW": "È la prima volta che usi SimpleSite? Registrati", 
+    "PASSWORD": {
+      "LABEL": "Password", 
+      "MAXLENGTH": "Password troppo lunga", 
+      "MINLENGTH": "Password troppo breve", 
+      "REQUIRED": "Non dimenticare di inserire la password"
+    }, 
+    "SORRY": "Accesso non riuscito. Controlla nome utente e password.", 
+    "TITLE": "Accedi", 
+    "USERNAME": {
+      "LABEL": "Nome utente", 
+      "REQUIRED": "Indica il tuo nome utente"
+    }
+  }
+}

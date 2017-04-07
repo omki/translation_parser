@@ -1,0 +1,126 @@
+{
+  "HOME": {
+    "ACCOUNT": {
+      "EMAIL": "خدمة البريد الإلكتروني",
+      "INFORMATION": "معلوماتك",
+      "LOGOUT": "@:HOME.MAINMENU.LOGOUT",
+      "MORE_SPACE": "الحصول على مزيد من الفضاء",
+      "SUBSCRIPTION": "اشتراكك",
+      "UPGRADE": "الترقية إلى PRO",
+      "WEBSITE_NAME": "اسم الموقع"
+    },
+    "DESIGN_EDITOR": {
+      "BACK": "رجوع",
+      "BACKGROUNDS": "خلفيات الموقع",
+      "COLORS": "ألوان الموقع",
+      "FONTS": "نوعية الخط في الموقع",
+      "FREE_LOGOS": "الشعارات",
+      "MORE_COLORS": "المزيد من الألوان",
+      "MORE_FONTS": "المزيد من الخطوط",
+      "MORE_LOGOS": "المزيد من الشعارات",
+      "NO_LOGO": "بدون شعار",
+      "PRO_FONTS": "Pro خطوط",
+      "PRO_LOGOS": "الشعارات المميزة",
+      "UPLOAD_LOGO": "تحميل شعار"
+    },
+    "HEADLINE_PLACEHOLDER": "@:BASE.V3.HOME_HEADLINE_PLACEHOLDER",
+    "MAINMENU": {
+      "ACCOUNT": "الحساب",
+      "ACCOUNT_SETTINGS": "الحساب",
+      "ACCOUNT_SETTINGS_TITLE": "إعدادات الحساب",
+      "ADD_WEBSHOP": "إضافة متجر على الانترنت",
+      "DESIGN": "تصميم",
+      "DESIGN_TITLE": "تغيير تصميم الموقع",
+      "EDIT_WEBSITE": "تعديل موقع الويب",
+      "LOGOUT": "خروج",
+      "MANAGE_WEBSHOP": "إدارة متجر على الانترنت",
+      "PAGES": "الصفحات",
+      "PAGES_TITLE": "تعديل صفحات الموقع",
+      "PREVIEW_WEBSITE": "عرض موقع الويب"
+    },
+    "PAGES_OVERVIEW": {
+      "ADD_PAGE": "إضافة صفحة",
+      "DELETE_MODAL": {
+        "REALLY": "هل أنت متأكد من أنك تريد حذف هذه الصفحة؟",
+        "REALLY_NAH": "لا",
+        "REALLY_YEAH": "أجل"
+      },
+      "DELETE_PAGE": "حذف",
+      "DELETE_PAGE_TITLE": "حذف الصفحة",
+      "DONE": "إنهاء",
+      "NEW_PAGE_MODAL": {
+        "ADDRESS_PAGE": "العنوان",
+        "BLOG": "مدونة",
+        "EMPTY_PAGE": "صفحة فارغة",
+        "FRONT_PAGE": "الصفحة الأولى",
+        "GUESTBOOK_PAGE": "سجل الزوار",
+        "PHOTO_ALBUM": "ألبوم الصور",
+        "STANDARD_PAGE": "Standard page",
+        "TITLE": "إضافة صفحة جديدة"
+      },
+      "NOPAGES_1": "لا توجد صفحات",
+      "NOPAGES_2": "! أضف واحدة",
+      "PAGE_OPTIONS": "خيارات الصفحة",
+      "RENAME_PAGE": "إعادة التسمية",
+      "RENAME_PAGE_TITLE": "إعادة تسمية الصفحة",
+      "REORDER_PAGE": "إعادة الترتيب",
+      "REORDER_PAGE_TITLE": "إعادة ترتيب الصفحة",
+      "UPDATE_MODAL": {
+        "CHANGE_TITLE": "تغيير عنوان الصفحة",
+        "SAVE_TITLE": "حفظ عنوان الصفحة"
+      }
+    },
+    "PARAGRAPH_PLACEHOLDER": "Add paragraph text",
+    "PREVIEW": {
+      "COLUMNS_SECTION": {
+        "DESCRIPTION_PLACEHOLDER": "الوصف",
+        "HEADLINE_PLACEHOLDER": "عنوان العمود",
+        "SELECT_PAGE_OPTION": "تحديد صفحة",
+        "THREE_COLUMNS": "ثلاث أعمدة",
+        "TWO_COLUMNS": "عمودان"
+      },
+      "CREATE": {
+        "BUTTON": "جرّب ذلك الآن مجانا ",
+        "TEXT": "يمكن لأي شخص إنشاء موقع ويب، أمر سهل.",
+        "TITLE": "إنشاء موقع"
+      },
+      "DELETE_MODAL": {
+        "NAH": "@:HOME.PAGES_OVERVIEW.DELETE_MODAL.REALLY_NAH",
+        "REALLY": "هل أنت متأكد أنك تريد حذف هذا المحتوى من الصفحة الخاصة بك؟",
+        "YEAH": "@:HOME.PAGES_OVERVIEW.DELETE_MODAL.REALLY_YEAH"
+      },
+      "FOOTER": {
+        "LINK": "للحصول على موقع الويب المجاني الخاص بك. انقر هنا!",
+        "TEXT": "تم إنشاء هذا الموقع باستخدام Simplesite"
+      },
+      "NEWS_SECTION": {
+        "ADDNEWS": "إضافة أخبار",
+        "ADD_NEWS_PLACEHOLDER": "إضافة عنوان أخبار",
+        "CANCEL": "إلغاء الأمر",
+        "DELETE": "حذف أخبار",
+        "DESCRIPTION_PLACEHOLDER": "إضافة نص",
+        "LINK": "رابط",
+        "NEWS_HEADLINE_PLACEHOLDER": "إضافة عنوان",
+        "SAVE": "حفظ"
+      },
+      "SHARE": {
+        "FACEBOOK": "شارك على facebook",
+        "GOOGLEPLUS": "شارك على +Google",
+        "TITLE": "شارك هذه الصفحة",
+        "TWITTER": "شارك على twitter"
+      },
+      "SIGNATURE_SECTION": {
+        "REGARDS_TEXT_PLACEHOLDER": "مع أطيب التحيات",
+        "SIGNATURE_PREVIEW_TEXT": "التوقيع",
+        "SIGNATURE_TEXT_PLACEHOLDER": "التوقيع"
+      },
+      "SS_IMAGE": {
+        "CAPTION": "تعليق",
+        "DONE": "تمّ",
+        "REPLACE_IMAGE": "استبدال صورة",
+        "UPLOAD_IMAGE": "تحميل صورة"
+      }
+    },
+    "TOO_LONG_INPUT": "طول عنوان الصفحة الخاصة بكم لا يمكن أن يتجاوز 20 حرفا. يرجى المحاولة بعنوان أقصر."
+  }
+}

@@ -1,0 +1,146 @@
+{
+  "HOME": {
+    "ACCOUNT": {
+      "CHANGE": "Αλλαγή",
+      "COMMENTS_DISABLED": "Τα σχόλια δεν είναι ενεργοποιημένα",
+      "COMMENTS_ENABLED": "Τα σχόλια είναι ενεργοποιημένα",
+      "COUNTER": "Μετρητής",
+      "CURRENT_PLAN": "Τρέχουσα συνδρομή",
+      "CURRENT_PLAN_LABEL_FREE": "Έχετε την ΔΩΡΕΑΝ συνδρομή ",
+      "CURRENT_PLAN_LABEL_PRO": "Έχετε την PRO συνδρομή",
+      "EMAIL2": "Email",
+      "ENABLE": "Ενεργοποίηση",
+      "GUIDES": "Οδηγοί",
+      "GUIDES_LABEL": "Οδηγοί βήμα προς βήμα για να ξεκινήσετε ",
+      "HELP_AND_SUPPORT": "Βοήθεια και υποστήριξη",
+      "LANGUAGE": "Γλώσσα",
+      "LEARN_MORE": "Μάθετε περισσότερα",
+      "MANAGE": "Διαχείριση",
+      "PASSWORD": "Κωδικός",
+      "PERSONAL_INFORMATION": "Προσωπικά στοιχεία",
+      "SHARE_WIDGET": "Εργαλείο διαμοιρασμού",
+      "SHOW_COUNTER": "Εμφάνιση του μετρητή επισκεπτών",
+      "SHOW_SHARE_WIDGET": "Εμφάνιση του εργαλείου διαμοιρασμού στην ιστοσελίδα",
+      "SUBSCRIPTION_STATUS": "Κατάσταση εγγραφής",
+      "USERNAME": "Όνομα χρήστη",
+      "VISITORS": "Επισκέπτες",
+      "VISITORS_COUNT": "Επισκέπτες στην ιστοσελίδα",
+      "VISITOR_COMMENTS": "Σχόλια επισκεπτών",
+      "WEBSITE_CONTROLS": "Στοιχεία ελέγχου ιστοσελίδας",
+      "WEBSITE_NAME2": "Όνομα ιστοσελίδας"
+    },
+    "CLOSE": "Κλείσιμο",
+    "DESIGN_EDITOR": {
+      "FREE_LOGOS": "Λογότυπα",
+      "MORE_LOGOS": "Άλλα λογότυπα",
+      "NO_LOGO": "Χωρίς λογότυπο",
+      "PRO_LOGOS": "Premium λογότυπα",
+      "REPLACE_BACKGROUND": "Αντικατάσταση φόντου",
+      "UPLOAD_LOGO": "Φόρτωση λογοτύπου"
+    },
+    "DOMAINBAR": {
+      "CONTACT_TEXT": "Επικοινωνήστε με την εξυπηρέτηση πελατών",
+      "DOMAIN_STATUS_TEXT": "Το domain έχει αγοραστεί αλλά δεν έχει ενεργοποιηθεί ακόμα.",
+      "DOMAIN_STATUS_TEXT_24": "Προμηθευτήκατε αυτό το domain λιγότερο από 24 ώρες πριν.",
+      "DOMAIN_STATUS_TEXT_24-48": "Προμηθευτήκατε αυτό το domain μεταξύ 24 και 48 ώρες πριν.",
+      "DOMAIN_STATUS_TEXT_48-76": "Προμηθευτήκατε αυτό το domain μεταξύ 48 και 76 ώρες πριν.",
+      "DOMAIN_STATUS_TEXT_76": "Προμηθευτήκατε αυτό το domain περισσότερο από 76 ώρες πριν."
+    },
+    "ERROR": "Σφάλμα",
+    "GOT_IT": "ΕΝΤΑΞΕΙ, ΤΟ ΚΑΤΑΛΑΒΑ ",
+    "HEADLINE_PLACEHOLDER": "@:BASE.V3.HOME_HEADLINE_PLACEHOLDER",
+    "MORE": "Περισσότερα",
+    "PAGES_OVERVIEW": {
+      "NEW_PAGE_MODAL": {
+        "CONTACT_ME": "Σελίδα επικοινωνίας",
+        "CONTACT_ME_TEXT": "Προσθέστε τη σελίδα επικοινωνίας σας ώστε να μπορούν οι άνθρωποι να επικοινωνούν μαζί σας μέσω email"
+      },
+      "PAGE_MANAGE_WEBSHOP": "Διαχείριση"
+    },
+    "PARAGRAPH_PLACEHOLDER": "Add paragraph text",
+    "PREVIEW": {
+      "ADD_IMAGE_MODAL": {
+        "CATEGORY": "Όλες",
+        "CATEGORY_LABEL": "Κατηγορία",
+        "TIP": "Ιδέα: Μπορείτε να φιλτράρετε τις εικόνες επιλέγοντας κατηγορία",
+        "TITLE": "Επιλογή εικόνας",
+        "UPLOAD_BUTTON": "Φόρτωση"
+      },
+      "COMMENTS_BOX": {
+        "ADD_COMMENT_BUTTON": "@:BASE.V3.COMMENTS_BOX_ADD_COMMENT_BTN",
+        "CHECKBOX_TEXT": "@:BASE.V3.COMMENTS_BOX_CHECKBOX",
+        "EMAIL_PLACEHOLDER_TEXT": "@:BASE.V3.CONTACTME_TBXYOUREMAIL",
+        "GOT_IT": "@:HOME.GOT_IT",
+        "INFOTEXT1": "Αυτή είναι η περιοχή σχολίων για τη σελίδα αυτή. Εδώ οι επισκέπτες μπορούν να αφήνουν σχόλια στην ιστοσελίδα σας.",
+        "INFOTEXT2": "Τα σχόλια είναι ένας εξαιρετικός τρόπος να μαθαίνετε την άποψη των επισκεπτών σας. Σε αντίθεση με τα e-mail, τα σχόλια είναι ορατά όχι μόνο από εσάς αλλά και από άλλους επισκέπτες.",
+        "INFOTEXT3": "Μεταβείτε στο [livewebsite] ή στις ρυθμίσεις σχολίων σας στην καρτέλα '[@:HOME.MAINMENU.ACCOUNT]' για να δείτε σχόλια έχουν ήδη αφήσει οι επισκέπτες σας. Από τις ρυθμίσεις μπορείτε επίσης να ελέγξετε και να διαγράψετε σχόλια, και να επιλέξετε την ενεργοποίηση ή απενεργοποίηση των σχολίων σε επιμέρους σελίδες της ιστοσελίδας σας.",
+        "INFOTEXT_TEASER": "Αυτή είναι η περιοχή σχολίων για τη σελίδα αυτή. Εδώ οι επισκέπτες μπορούν να αφήνουν σχόλια στην ιστοσελίδα σας.",
+        "MORE": "@:HOME.MORE",
+        "NAME_PLACEHOLDER_TEXT": "@:BASE.V3.CONTACTME_TBXYOURNAME",
+        "TEXT_AREA_PLACEHOLDER_TEXT": "@:BASE.V3.CONTACTME_TBXYOURMESSAGE",
+        "TITLE": "@:BASE.V3.COMMENTS_BOX_TITLE"
+      },
+      "CONTACT_ME": {
+        "FORM_BUTTON": "Αποστολή - κλικ εδώ!",
+        "FORM_EMAIL": "@:BASE.V3.CONTACTME_TBXYOUREMAIL",
+        "FORM_HEADLINE": "Γράψτε εδώ το μήνυμά σας. Συμπληρώστε τη φόρμα:",
+        "FORM_MESSAGE": "@:BASE.V3.CONTACTME_TBXYOURMESSAGE",
+        "FORM_NAME": "@:BASE.V3.CONTACTME_TBXYOURNAME",
+        "GOT_IT": "@:HOME.GOT_IT",
+        "INFOTEXT1": "Αυτή είναι μια Σελίδα επικοινωνίας. Από τη σελίδα αυτή οι επισκέπτες μπορούν να επικοινωνούν μαζί σας.",
+        "INFOTEXT2": "Φροντίστε να γράψετε στην κορυφή της σελίδας ένα σύντομο μήνυμα προς τους επισκέπτες σας. Προτού σας γράψουν, οι επισκέπτες σας συχνά χρειάζεται να γνωρίζουν",
+        "INFOTEXT3": "Για ποιο θέμα μπορούν να σας γράψουν;",
+        "INFOTEXT4": "Πόσος χρόνος μεσολαβεί συνήθως μέχρι να απαντήσετε;",
+        "INFOTEXT5": "Με τι άλλους τρόπους μπορούν να επικοινωνήσουν μαζί σας (π.χ. τηλέφωνο ή μέσα κοινωνικής δικτύωσης);",
+        "INFOTEXT_TEASER": "Αυτή η σελίδα είναι μια Σελίδα επικοινωνίας. Από τη σελίδα αυτή οι επισκέπτες μπορούν να σας στέλνουν e-mail. Τα e-mail θα μεταφέρονται στα Εισερχόμενα ώστε να μπορείτε να απαντάτε αμέσως.",
+        "MORE": "@:HOME.MORE",
+        "RECIEVED_MESSAGES_BUTTON": "Προβολή ληφθέντων μηνυμάτων",
+        "TEXT_PLACEHOLDER": "@:HOME.PARAGRAPH_PLACEHOLDER",
+        "TITLE_PLACEHOLDER": "@:HOME.HEADLINE_PLACEHOLDER"
+      },
+      "DELETE_MODAL": {
+        "DELETE_TITLE": "Διαγραφή περιεχομένου"
+      },
+      "SELECT_IMAGE_MODAL": {
+        "LIBRARY_BUTTON": "Από τη βιβλιοθήκη",
+        "LIBRARY_BUTTON_TEXT": "Χρησιμοποιήστε μια εικόνα από τη δωρεάν βιβλιοθήκη εικόνων υψηλής ποιότητας",
+        "OUTTRO": "Ιδέα: Μπορείτε να επιστρέψετε αργότερα για να αλλάξετε την εικόνα",
+        "TITLE": "Επιλέξτε την εικόνα που θέλετε να χρησιμοποιήσετε",
+        "UPLOAD_BUTTON": "Φόρτωση",
+        "UPLOAD_BUTTON_TEXT": "Φορτώστε τη δική σας εικόνα"
+      },
+      "SHARE": {
+        "COPY_CLIPBOARD": "Αντιγραφή στο πρόχειρο",
+        "MAIL_BODY": "Μόλις ενημέρωσα την ιστοσελίδα μου στο [livewebsite]",
+        "MAIL_SUBJECT": "Δες την ιστοσελίδα μου",
+        "SHARE": "Κοινοποίησε",
+        "SOCIAL_MEDIA": "Κοινοποίησε την ιστοσελίδα σου",
+        "URL_LABEL": "Η διεύθυνση της ιστοσελίδας σου"
+      },
+      "SLIDESHOW_SECTION": {
+        "ERR_FINISH_EDITING": "Τέλος επεξεργασίας ή ανεβάσματος εικόνας!",
+        "ERR_MAX_SLIDESHOW_NUMBER": "Μέγιστος αριθμός εικόνων: "
+      },
+      "SS_IMAGE": {
+        "CHANGE_IMAGE": "@:BASE.V3.CHANGE_IMAGE",
+        "SELECT_IMAGE": "Επιλογή εικόνας"
+      },
+      "VIDEO_SECTION": {
+        "OR": "Ή"
+      }
+    },
+    "PREVIEW_SITE_URL": {
+      "GOTIT": "@:HOME.GOT_IT",
+      "HEADER": "Αυτή είναι η διεύθυνση της ιστοσελίδας σας "
+    },
+    "WELCOME": {
+      "BODYTEXT1": "Ι ιστοσελίδα σας για την {BUSINESSNAME} είναι έτοιμη.",
+      "BODYTEXT2": "Προσθέσαμε περιεχόμενο και σχέδια που ταιριάζουν στην επιχείρησή σας, ώστε να έχετε το καλύτερο online ξεκίνημα.",
+      "BODYTEXT3": "Η ιστοσελίδα σας έχει τις ακόλουθες σελίδες:",
+      "BODYTEXT4": "Μπορείτε να επεξεργαστείτε, να τροποποιήσετε και να προσθέσετε στην κάθε μία από αυτές ότι θέλετε.",
+      "CLOSE_BUTTON_TEXT": "Κλείσιμο",
+      "HEADER": "Καλωσορίσατε στο SimpleSite. Είστε έτοιμοι!",
+      "OK_BUTTON_TEXT": "Εντάξει, ξεκινήστε!"
+    }
+  }
+}

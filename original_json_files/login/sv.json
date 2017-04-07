@@ -1,0 +1,21 @@
+{
+  "LOGIN": {
+    "LOGIN_BUTTON": {
+      "ACTIVE": "Loggar in",
+      "TEXT": "Logga in"
+    },
+    "NEW": "Ny på SimpleSite? Registrera dig",
+    "PASSWORD": {
+      "LABEL": "Lösenord",
+      "MAXLENGTH": "lösenordet är för långt",
+      "MINLENGTH": "lösenordet är för kort",
+      "REQUIRED": "glöm inte att ange ditt lösenord"
+    },
+    "SORRY": "Inloggning misslyckades. Kontrollera användarnamn och lösenord.",
+    "TITLE": "Logga in",
+    "USERNAME": {
+      "LABEL": "Användarnamn",
+      "REQUIRED": "Ange användarnamn"
+    }
+  }
+}

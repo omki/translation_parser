@@ -1,0 +1,21 @@
+{
+  "LOGIN": {
+    "LOGIN_BUTTON": {
+      "ACTIVE": "Logger inn",
+      "TEXT": "Innlogging"
+    },
+    "NEW": "Ny på SimpleSite? Meld deg på",
+    "PASSWORD": {
+      "LABEL": "Passord",
+      "MAXLENGTH": "passordet er for langt",
+      "MINLENGTH": "passordet er for kort",
+      "REQUIRED": "husk å skrive inn passordet ditt"
+    },
+    "SORRY": "Innlogging mislyktes. Kontroller brukernavnet og passordet ditt",
+    "TITLE": "Innlogging",
+    "USERNAME": {
+      "LABEL": "Brukernavn",
+      "REQUIRED": "Angi brukernavnet ditt"
+    }
+  }
+}

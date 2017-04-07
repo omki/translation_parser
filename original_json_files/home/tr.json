@@ -1,0 +1,575 @@
+{
+  "HOME": {
+    "ACCOUNT": {
+      "CHANGE": "Değiştir",
+      "COMMENTS_DISABLED": "Yorumlar etkinleştirilmedi",
+      "COMMENTS_ENABLED": "Yorumlar etkinleştirildi",
+      "CONTACT": "İletişim",
+      "COUNTER": "Sayaç",
+      "CURRENT_PLAN": "Şuanki plan",
+      "CURRENT_PLAN_LABEL_FREE": "BEDAVA planımızdasınız",
+      "CURRENT_PLAN_LABEL_PRO": "PRO planımızdasınız",
+      "EMAIL": "E-posta servisi",
+      "EMAIL2": "E-posta",
+      "ENABLE": "Etkinleştir",
+      "GUIDES": "Rehber",
+      "GUIDES_LABEL": "Başlamanız için adım adım rehber",
+      "HELP_AND_SUPPORT": "Yardım ve destek",
+      "INFORMATION": "Bilgileriniz",
+      "LANGUAGE": "Dil",
+      "LEARN_MORE": "Daha fazla öğrenin",
+      "LOGOUT": "@:HOME.MAINMENU.LOGOUT",
+      "MANAGE": "Yönet",
+      "MORE_SPACE": "Daha fazla alan alın",
+      "PASSWORD": "Şifre",
+      "PERSONAL": "Kişisel",
+      "PERSONAL_INFORMATION": "Kişisel bilgiler",
+      "SHARE_WIDGET": "Widget'i Paylaş",
+      "SHOW_COUNTER": "Ziyaretçi sayacını göster",
+      "SHOW_SHARE_WIDGET": "Paylaşılan Widget'i websitesinde göster",
+      "SIDEBAR_TITLE": "@:HOME.MAINMENU.ACCOUNT_SETTINGS",
+      "SUBSCRIPTION": "Aboneliğiniz",
+      "SUBSCRIPTION_STATUS": "Abonelik durumu",
+      "UPGRADE": "PRO'ya yükselt",
+      "USERNAME": "Kullanıcı adı",
+      "VISITORS": "Ziyaretçiler",
+      "VISITORS_COUNT": "Websitenize gelen ziyaretçiler",
+      "VISITOR_COMMENTS": "Ziyaretçi yorumları",
+      "WEBSITE_CONTROLS": "Website Kontrolleri",
+      "WEBSITE_NAME": "Web sitesi adı",
+      "WEBSITE_NAME2": "Web sitesi adı"
+    },
+    "ADDRESS": {
+      "ADDRESS": "Adres:",
+      "ADDRESS_PLACEHOLDER": "Adres ekle",
+      "EMAIL": "E-posta *:",
+      "EMAIL_INVALID": "E-posta hatası",
+      "EMAIL_INVALID_MESSAGE": "E-posta geçersiz ya da boş",
+      "EMAIL_PLACEHOLDER": "E-posta ekle",
+      "ENTER_BUBBLETEXT": "Bir balon metni girin",
+      "ENTER_LOCATION": "Bir konum girin",
+      "OPENING_HOURS": "Çalışma saatleri:",
+      "OPENING_HOURS_PLACEHOLDER": "Çalışma saatleri ekle",
+      "OPENING_HOURS_TITLE": "Çalışma saatleri başlığı:",
+      "OPENING_HOURS_TITLE_PLACEHOLDER": "Çalışma saatleri başlığı ekle",
+      "PAGE_TITLE": "Sayfa başlığı:",
+      "PAGE_TITLE_PLACEHOLDER": "Sayfa başlığı ekle",
+      "PARAGRAPH_TEXT": "Paragraf metni:",
+      "PARAGRAPH_TITLE": "Paragraf başlığı:",
+      "PARAGRAPH_TITLE_PLACEHOLDER": "Başlık ekle",
+      "PHONE_INVALID": "Telefon numarası hatası",
+      "PHONE_INVALID_MESSAGE": "Telefon numarası geçersiz ya da boş",
+      "SHOW_BUBBLE": "Balonu göster",
+      "SHOW_MAP": "Haritayı göster",
+      "TELEPHONE": "Tel *:",
+      "TELEPHONE_PLACEHOLDER": "Telefon numarası ekle",
+      "TITLE": "Başlık:",
+      "TITLE_PLACEHOLDER": "Başlık ekle"
+    },
+    "CANCEL": "İptal",
+    "CHANGE_PASSWORD_MODAL": {
+      "INTRO": "Parolayı buradan değiştirin. Aşağıdaki formu doldurun.",
+      "TITLE": "Parolayı değiştir"
+    },
+    "CHOOSEADDRESS": {
+      "BUTTON_CLOSE_TEXT": "kapat",
+      "BUTTON_CONTINUE_TEXT": "devam",
+      "GO_BUTTON_1": "SEÇİN",
+      "GO_BUTTON_2": "@:HOME.CHOOSEADDRESS.GO_BUTTON_1",
+      "GO_BUTTON_3": "@:HOME.CHOOSEADDRESS.GO_BUTTON_1",
+      "GREAT_DEAL": "HARİKA TEKLİF",
+      "NOT_VALID_DOMAIN": "Etki alanı adında özel karakterler ve boşluklar kullanılamaz.",
+      "TITLE": "Tebrikler, web siteniz oluşturuldu"
+    },
+    "CLOSE": "Kapat",
+    "COMMENTS_MANAGE": {
+      "BLOCKED_TIP": "Kullanıcıların web sitenizde yorum yazmalarını engellemek istiyor musunuz?",
+      "INTRO2_TIP": "Yorumlarınıza ilişkin ayarları değiştirmek istiyor musunuz?",
+      "INTRO_TIP": "İpucu: İstenmeyen yorumları kolayca web sitenizden silebilirsiniz. Belirli bir kullanıcının yorum yazmasını yasaklamak isterseniz, \"sil ve engelle\" seçeneğini tıklayın.",
+      "INTRO_TITLE": "Bu sayfada web siteniz ile ilgili yorumları yönetebilirsiniz.",
+      "NO_COMMENTS": "Henüz bir yorumunuz yok."
+    },
+    "COMMENTS_SETTINGS": {
+      "APPROVE_COMMENTS": "@:BASE.V3.COMMENTS_WITH_APPROVAL",
+      "APPROVE_SUBTITLE": "Web sitenize gönderilmeden önce yorumları onaylamayı seçebilirsiniz.",
+      "APPROVE_TITLE": "Yorumları onaylama",
+      "DONOT_APPROVE": "@:BASE.V3.COMMENTS_NO_APPROVAL",
+      "EMAIL_SUBTITLE": "Sitenizde bir yorum aldığınız zaman e-postayla bir bildirim almak ister misiniz?",
+      "EMAIL_TITLE": "E-posta mesajı",
+      "NOTIFY_ON_MAIL": "@:BASE.V3.COMMENTS_NOTIFY_YES",
+      "NO_NOTIFY": "@:BASE.V3.COMMENTS_NOTIFY_NO",
+      "OFF": "@:BASE.V3.COMMENTS_OFF",
+      "ON": "@:BASE.V3.COMMENTS_ON",
+      "ON_EXCEPT": "@:BASE.V3.COMMENTS_ON_EXCEPT",
+      "SHOW_COMMENTS_SUBTITLE": "Hangi sayfalarda yorumların gösterileceğini kontrol edebilirsiniz. Bütün siteniz için yorumları etkinleştirmek çok kolaydır.",
+      "SHOW_COMMENTS_TITLE": "Yorumlarınız",
+      "TITLE": "@:BASE.V3.COMMENTS_TITLE",
+      "VIEW_PAGE": "@:BASE.V3.COMMENTS_VIEW_PAGE"
+    },
+    "DEFAULT_PAGE_NAME": "Sayfa",
+    "DEFAULT_TEXT_IN_TEXTSECTION": {
+      "HEADLINE": "Ben bir paragraf başlığıyım",
+      "TEXT": "Ben bir paragrafım Kendi metninizi eklemek ve beni düzenlemek için burayı tıklatın. Öykünüzü anlatmak ve ziyaretçilerinizin sizinle ilgili daha fazla bilgi sahibi olmasını sağlamak için burası harika bir yer."
+    },
+    "DELETE": "Sil",
+    "DESIGN_EDITOR": {
+      "BACK": "Geri",
+      "BACKGROUND": "Arka plan",
+      "BACKGROUNDS": "Arka planlar",
+      "COLORS": "Web sitesi renkleri",
+      "DESIGN": "Düzen",
+      "DESIGN_1": "Düzen 1",
+      "DESIGN_2": "Düzen 2",
+      "DESIGN_3": "Düzen 3",
+      "DESIGN_HEADER": "Web sitesi düzeni",
+      "FONTS": "Web sitesi yazı tipleri",
+      "FREE_LOGOS": "Logolar",
+      "GO_PRO_BACKGROUNDS_MESSAGE": "Bu arka planı kullanmak için Pro'ya yükseltin",
+      "GO_PRO_MESSAGE_TITLE": "Pro'ya geç",
+      "MORE_BACKGROUNDS": "daha fazla arka plan",
+      "MORE_COLORS": "daha fazla renk",
+      "MORE_DESIGNS": "Daha fazla düzen",
+      "MORE_FONTS": "daha fazla yazı tipi",
+      "MORE_LOGOS": "Daha fazla logo",
+      "NO_BACKGROUND": "Arka plan yok",
+      "NO_LOGO": "Logo yok",
+      "PRO_BACKGROUNDS": "Pro Arka Planlar",
+      "PRO_FONTS": "Pro Yazı Tipleri",
+      "PRO_LOGOS": "Premium logolar",
+      "REPLACE_BACKGROUND": "Arkaplanı değiştir",
+      "UPGRADE_TO_PRO": "PRO'ya yükselt",
+      "UPLOAD_BACKGROUND": "Arka plan yükle",
+      "UPLOAD_LOGO": "Logo yükle",
+      "UPLOAD_YOUR_OWN": "Kendi arka planınızı yükleyin (görüntü 5MB'dan büyük olamaz).",
+      "VIDEO_BACKGROUND": "Video ",
+      "YOUR_OWN_BACKGROUND": "Kendi arka planınız"
+    },
+    "DOMAINBAR": {
+      "CONTACT_TEXT": "Müşteri hizmetleriyle iletişime geçin",
+      "DOMAIN_STATUS_TEXT": "Alan adınızı satın aldınız ama henüz aktifleştirmediniz.",
+      "DOMAIN_STATUS_TEXT_24": "Alan adınızı 24 saat içinde satın aldınız.",
+      "DOMAIN_STATUS_TEXT_24-48": " Alan adınızı 24-48 saat içinde satın aldınız.",
+      "DOMAIN_STATUS_TEXT_48-76": " Alan adınızı 48-76 saat içinde satın aldınız.",
+      "DOMAIN_STATUS_TEXT_76": " Alan adınızı 76 saatten fazla bir süre içinde satın aldınız."
+    },
+    "ERROR": "Hata",
+    "GOT_IT": "TAMAM, ANLADIM",
+    "HEADLINE_PLACEHOLDER": "@:BASE.V3.HOME_HEADLINE_PLACEHOLDER",
+    "LIVE_WEBSITE": "Canlı web sitesi",
+    "MAINMENU": {
+      "ACCOUNT": "Hesap",
+      "ACCOUNT_SETTINGS": "Hesap",
+      "ACCOUNT_SETTINGS_TITLE": "Hesap bilgileri",
+      "ALL_SET": "Her şey hazır",
+      "AUTOSAVING": "Kaydediliyor...",
+      "DESIGN": "Tasarım",
+      "DESIGN_TITLE": "Web sitesi tasarımını değiştir",
+      "EDIT_WEBSITE": "Web sitesini düzenle",
+      "LIVE_WEBSITE": "@:HOME.LIVE_WEBSITE",
+      "LOGOUT": "Oturumu kapat",
+      "PAGES": "Sayfalar",
+      "PAGES_TITLE": "Web sitesi sayfalarını düzenle",
+      "PREVIEW_WEBSITE": "Web sitesini ön izleyin"
+    },
+    "MORE": "Daha fazla",
+    "OFFER": {
+      "CLOSE_BUTTON_TEXT": "kapat"
+    },
+    "OK": "Tamam",
+    "PAGES_OVERVIEW": {
+      "ADD_PAGE": "Sayfa ekle",
+      "DELETE_MODAL": {
+        "CANCEL": "@:HOME.CANCEL",
+        "DELETE": "@:HOME.DELETE",
+        "REALLY": "\"{{pageName}}\" sayfasını sil?",
+        "TITLE": "Sayfayı sil"
+      },
+      "DELETE_PAGE": "Sil",
+      "DELETE_PAGE_TITLE": "Sayfayı sil",
+      "DONE": "Bitti",
+      "FIELD_EMPTY": "@:BASE.V3.FIELD_EMPTY",
+      "NEW_PAGE_MODAL": {
+        "ABOUT_US": "Hakkımızda",
+        "ABOUT_US_TEXT": "Kendinizden, işinizden veya şirketinizden bahsedin",
+        "ADD": "Ekle",
+        "ADDRESS_PAGE": "Adres",
+        "ADDRESS_PAGE_TEXT": "İnsanların sizinle iletişim kurabilmeleri için iletişim bilgilerinizi ekleyin",
+        "BLOG": "Blog",
+        "BLOG_TEXT": "Fikirlerinizi, etkinliklerinizi ve deneyimlerinizi yazın",
+        "CONTACT_ME": "İletişim sayfası",
+        "CONTACT_ME_TEXT": "Ziyaretçilerinizin size e-posta yoluyla ulaşmaları için iletişim sayfanızı ekleyin",
+        "GUESTBOOK_PAGE": "Ziyaretçi Defteri",
+        "GUESTBOOK_PAGE_TEXT": "Ziyaretçilerinize size mesaj bırakmaları için bir alan sağlayın",
+        "MY_PROJECT": "Projem",
+        "MY_PROJECT_TEXT": "Dünyanın ne üzerine çalıştığınızı bilmesine izin ver veya halihazırda tamamlamış olduğun işleri sergile",
+        "PEOPLE_GALLERY": "Kişiler galerisi",
+        "PEOPLE_GALLERY_TEXT": "Gerçekleştirdiğiniz faaliyetlerin arkasındaki kilit kişiler kimler? Web sitenize bir insan dokunuşu eklemek için bu kişileri burada gösterin",
+        "PHOTO_ALBUM": "Fotoğraf albümü",
+        "PHOTO_ALBUM_TEXT": "Görüntüler ekleyin ve görsel öykülerinizi paylaşın",
+        "PHOTO_STORY": "Fotoğraf hikayesi",
+        "PHOTO_STORY_TEXT": "Bir resim bin kelime değerindedir. Sadece sözcüklerle anlatılamayan bir hikayeyi anlatmak için resimleri kullanın",
+        "PLACEHOLDER": "Sayfa adı",
+        "SERVICE_LIST": "Hizmet listesi",
+        "SERVICE_LIST_TEXT": "Ziyaretçilerinize sunmuş olduğunuz hizmetlerden bahsedin. Karşılaştırma yapabilmeleri için ücretleri, açıklamaları ve resimleri dahil edin",
+        "STANDARD_PAGE": "Boş",
+        "STANDARD_PAGE_TEXT": "Tam istediğiniz gibi bir sayfa oluşturun",
+        "TITLE": "Yeni sayfa ekle",
+        "WEBSHOP": "Web mağazası",
+        "WEBSHOP_TEXT": "Ürünlerinizi internet üzerinden satın"
+      },
+      "NOPAGES_1": "Hiçbir sayfa yok,",
+      "NOPAGES_2": "bir tane ekleyin!",
+      "PAGE_MANAGE_WEBSHOP": "Yönet",
+      "PAGE_NAME_EMPTY": "@:BASE.V3.PAGE_NAME_EMPTY",
+      "PAGE_OPTIONS": "Sayfa seçenekleri",
+      "RENAME_PAGE": "Yeniden adlandır",
+      "RENAME_PAGE_TITLE": "Sayfayı yeniden adlandır",
+      "REORDER_PAGE": "Tekrar sipariş",
+      "REORDER_PAGE_TITLE": "Tekrar sipariş sayfası",
+      "TITLE": "@:HOME.MAINMENU.PAGES",
+      "UPDATE_MODAL": {
+        "CHANGE_TITLE": "Sayfanızı yeniden adlandırın",
+        "OK": "@:HOME.OK"
+      }
+    },
+    "PARAGRAPH_PLACEHOLDER": "Add paragraph text",
+    "PERSONAL_INFO_MODAL": {
+      "MISSING_EMAIL": "@:BASE.V3.CHANGE_PERSONAL_INFO_VALIDATION_MISSING_EMAIL",
+      "MISSING_URL": "@:BASE.V3.CHANGE_PERSONAL_INFO_EMPTY_URL"
+    },
+    "PITCHBOX_BLUE": {
+      "BUTTON": "devam",
+      "HEADER": "sınırlı teklif",
+      "LINE": "Ücretsiz alan adını seç"
+    },
+    "PREVIEW": {
+      "ADD_IMAGE_MODAL": {
+        "CATEGORIES": {
+          "ANIMALS": "Hayvanlar",
+          "FASHION": "Moda",
+          "FOOD": "Yiyecek",
+          "FUN": "Eğlence",
+          "KIDS": "Çocuklar",
+          "LOVE": "Aşk",
+          "NATURE": "Doğa",
+          "OBJECTS": "Objeler",
+          "SCENERY": "Manzara",
+          "WORK": "İş"
+        },
+        "CATEGORY": "Hepsi",
+        "CATEGORY_LABEL": "Kategori",
+        "TIP": "İpucu: Kategori seçerek görüntüleri filtreleyebilirsiniz",
+        "TITLE": "Resim Seç",
+        "UPLOAD_BUTTON": "Yükle"
+      },
+      "ADD_SECTION_MODAL": {
+        "TITLE": "İçerik ekle"
+      },
+      "COLUMNS_SECTION": {
+        "BLOCK": "Blok #",
+        "BLOCKS": "Bloklar",
+        "DESCRIPTION_PLACEHOLDER": "Açıklama ekle",
+        "HEADLINE_PLACEHOLDER": "Sütun başlığı ekle",
+        "MODAL_LABEL": "Başlık",
+        "MODAL_LINK_LABEL": "Başlık neyle ilgili olmalı?",
+        "MODAL_TITLE": "Başlık ayarları",
+        "SELECT_PAGE_OPTION": "Bir sayfa seç",
+        "SWITCH_BUTTONS_LABEL": "Sütun sayısı",
+        "THREE_COLUMNS": "3 sütun",
+        "TWO_COLUMNS": "2 sütun"
+      },
+      "COMMENTS_BOX": {
+        "ADD_COMMENT_BUTTON": "@:BASE.V3.COMMENTS_BOX_ADD_COMMENT_BTN",
+        "CHECKBOX_TEXT": "@:BASE.V3.COMMENTS_BOX_CHECKBOX",
+        "EMAIL_PLACEHOLDER_TEXT": "@:BASE.V3.CONTACTME_TBXYOUREMAIL",
+        "GOT_IT": "@:HOME.GOT_IT",
+        "INFOTEXT1": "Bu kısım sayfanın yorumlar bölümüdür. Buraya ziyaretçileriniz websiteniz için yorum bırakabilirler.",
+        "INFOTEXT2": "Yorumlar, ziyaretçilerinizden geri bildirim almak için harika bir yoldur. E-postadan farklı olarak, yorumlar sadece sizin tarafınızdan değil, diğer ziyaretçiler tarafından da görülebilir.",
+        "INFOTEXT3": "Ziyaretçilerinizin bıraktığı yorumları görmek için [livewebsite]'a veya '[@:HOME.MAINMENU.ACCOUNT]' sekmesindeki yorum ayarlarına gidin. Ayrıca bu ayarlardan yorumları inceleyip silebilir ve web sitenizdeki ayrı ayrı sayfalar için yorumları açıp kapatabilirsiniz.",
+        "INFOTEXT_TEASER": "Bu kısım sayfanın yorumlar bölümüdür. Buraya ziyaretçileriniz websiteniz için yorum bırakabilirler.",
+        "LIVE_WEBSITE": "@:HOME.LIVE_WEBSITE",
+        "MORE": "@:HOME.MORE",
+        "NAME_PLACEHOLDER_TEXT": "@:BASE.V3.CONTACTME_TBXYOURNAME",
+        "TEXT_AREA_PLACEHOLDER_TEXT": "@:BASE.V3.CONTACTME_TBXYOURMESSAGE",
+        "TITLE": "@:BASE.V3.COMMENTS_BOX_TITLE"
+      },
+      "CONTACT_ME": {
+        "FORM_BUTTON": "Gönder - Buraya tıklayın!",
+        "FORM_EMAIL": "@:BASE.V3.CONTACTME_TBXYOUREMAIL",
+        "FORM_HEADLINE": "Mesajınızı buraya yazın. Formu doldurun:",
+        "FORM_MESSAGE": "@:BASE.V3.CONTACTME_TBXYOURMESSAGE",
+        "FORM_NAME": "@:BASE.V3.CONTACTME_TBXYOURNAME",
+        "GOT_IT": "@:HOME.GOT_IT",
+        "INFOTEXT1": "Bu, Kişiler sayfasıdır. Bu sayfa, ziyaretçilerin sizinle iletişim kurmak için e-posta gönderebilmelerini sağlar.",
+        "INFOTEXT2": "Sayfanın üst kısmına ziyaretçileriniz için kısa bir mesaj yazdığınızdan emin olun. Size yazmadan önce, ziyaretçilerinizin şunu genellikle bilmeleri gerekir",
+        "INFOTEXT3": "Size ne hakkında yazmalılar?",
+        "INFOTEXT4": "Cevap vermeniz normalde ne kadar sürer?",
+        "INFOTEXT5": "Sizinle iletişime geçmek için başka hangi yollar var? (örn. telefon ya da sosyal medya)",
+        "INFOTEXT_TEASER": "Bu sayfa Kişiler sayfasıdır. Bu sayfa ziyaretçilerin size bir e-posta gönderebilmelerini sağlar. E-posta, doğrudan e-posta gelen kutusuna gidecek, böylece hemen yanıtlayabilirsiniz.",
+        "MORE": "@:HOME.MORE",
+        "RECIEVED_MESSAGES_BUTTON": "Alınan mesajları görüntüle",
+        "TEXT_PLACEHOLDER": "@:HOME.PARAGRAPH_PLACEHOLDER",
+        "TITLE_PLACEHOLDER": "@:HOME.HEADLINE_PLACEHOLDER"
+      },
+      "CREATE": {
+        "BUTTON": "PRO ile reklamları kaldırın",
+        "TEXT": "Web sitenizin tamamen ücretsiz kalabilmesi için bunu ufak bir SimpleSite reklamı karşılığında yapıyoruz.",
+        "TITLE": "Web siteniz ücretsiz"
+      },
+      "DELETE_MODAL": {
+        "DELETE": "@:HOME.DELETE",
+        "DELETE_TITLE": "İçeriği sil",
+        "IS_EMPTY": "Bu bölüm boştur. Devam etmeniz durumunda, bu bölüm silinecektir. Bu bölümü silmek istiyor musunuz?",
+        "NAH": "@:HOME.PAGES_OVERVIEW.DELETE_MODAL.REALLY_NAH",
+        "REALLY": "Bu içeriği sayfanızdan silmek istiyor musunuz?",
+        "YEAH": "@:HOME.PAGES_OVERVIEW.DELETE_MODAL.REALLY_YEAH"
+      },
+      "DIVIDER_SECTION": {
+        "STYLE": "Divider stili",
+        "STYLES": {
+          "DASHED": "Kesikli",
+          "DOTTED": "Noktalı",
+          "SOLID": "Düz çizgi"
+        }
+      },
+      "FOOTER": {
+        "FREEMIUM": {
+          "LINK": "Kendi ÜCRETSİZ web sitenizi alın. Burayı tıklatın!",
+          "TEXT": "Bu sitesi SimpleSite ile oluşturuldu"
+        },
+        "PAYING": {
+          "TEXT": "SimpleSite ile oluşturun"
+        }
+      },
+      "HERO_SECTION": {
+        "CTA_OPTIONS": {
+          "CTA_LINK_LABEL": "Buton nereye bağlanmalı?",
+          "CTA_TEXT_LABEL": "Buton ne demeli? (Örnekler: ‘Daha fazla okuyun’, ‘Bize ulaşın’)",
+          "INVALID_LINK": "Kullanıcılar butona tıkladığında hangi sayfanın görüntüleneceğini belirlemelisiniz.",
+          "INVALID_TEXT": "Buton için bir metin belirlemelisiniz. Metinsiz bir buton, kullanıcılar için çok fazla bir anlam ifade etmez.",
+          "TITLE": "Buton ayarları"
+        },
+        "CTA_PLACEHOLDER": "Bana tıkla",
+        "HEADLINE_PLACEHOLDER": "Başlık",
+        "INCLUDE_BUTTON": "Butonu dahil et",
+        "LINK_DEFAULT_OPTION": "Bağlantı hedefi",
+        "TEXT_PLACEHOLDER": "Ben bir paragrafım. Kendi yazını ekleyip beni düzenlemek için buraya tıkla. Hikayeni anlatman ve ziyaretçilerinin senin hakkında daha fazla bilmeleri için müthiş bir yerim.",
+        "UPLOAD_IMAGE": "@:HOME.PREVIEW.SS_IMAGE.UPLOAD_IMAGE"
+      },
+      "MENU": {
+        "DESKTOP": {
+          "MORE": "DAHA FAZLA"
+        },
+        "MOBILE": {
+          "MORE": "Sayfa listesi"
+        }
+      },
+      "NEWS_SECTION": {
+        "ADDNEWS": "haber ekle",
+        "ADD_NEWS_PLACEHOLDER": "Bülten başlığı ekle",
+        "CANCEL": "iptal",
+        "DELETE": "haberi sil",
+        "DESCRIPTION_PLACEHOLDER": "Metin ekle",
+        "LINK": "bağlantı yok",
+        "LINK_LABEL": "Bu haberi bir sayfaya bağla",
+        "NEWS_HEADLINE_PLACEHOLDER": "Başlık ekle",
+        "SAVE": "kaydet"
+      },
+      "PHOTO_ALBUM": {
+        "FILE_NOT_UPLOADED": "Dosyalarınızdan biri yüklenemedi",
+        "PHOTO_CAPTION": "Açıklama ekle",
+        "SHOW_SLIDESHOW": "Sayfada slayt gösterisini göster",
+        "TITLE_PLACEHOLDER": "Bir başlık yazın",
+        "TRANSITIONS": {
+          "CUBIC": "Kübik",
+          "FADE": "Soluk",
+          "RANDOM": "Rasgele",
+          "SLIDE": "Slayt",
+          "STRIPE": "Çizgili",
+          "UPDOWN": "Yukarı/Aşağı"
+        },
+        "UPLOAD_IMAGES": "Resim yükle"
+      },
+      "SECTIONS": {
+        "ADD_SECTION_TEXT": "İçerik ekle",
+        "COLUMNS": "Sütunlar",
+        "DIVIDER": "Divider",
+        "HERO": "Poster",
+        "NEWS": "Haberler",
+        "PHOTO": "Görüntü",
+        "SIGNATURE": "İmza",
+        "SLIDESHOW": "Slayt Gösterisi",
+        "TEXT": "Metin",
+        "TEXTLEFT": "Metin + resim",
+        "TEXTNOIMAGE": "Metin",
+        "TEXTRIGHT": "Metin + resim",
+        "TITLE": "Başlık",
+        "VIDEO": "Görüntü"
+      },
+      "SELECT_IMAGE_MODAL": {
+        "LIBRARY_BUTTON": "Kütüphaneden",
+        "LIBRARY_BUTTON_TEXT": "Ücretsiz yüksek kaliteli görüntü kütüphanemizden bir görüntü kullanın",
+        "OUTTRO": "İpucu: Görüntüyü daha sonra her zaman değiştirebilirsiniz",
+        "TITLE": "Kullanmak istediğiniz görüntüyü seçin",
+        "UPLOAD_BUTTON": "Yükle",
+        "UPLOAD_BUTTON_TEXT": "Kendi görüntünüzü yükleyin"
+      },
+      "SHARE": {
+        "COPY_CLIPBOARD": "Panoya kopyala",
+        "FACEBOOK": "Facebook'ta paylaş",
+        "GOOGLEPLUS": "Google+'ta paylaş",
+        "MAIL_BODY": "Web sitemi şimdi burada güncelledim [livewebsite]",
+        "MAIL_SUBJECT": "Web siteme göz at",
+        "SHARE": "Paylaş",
+        "SOCIAL_MEDIA": "Web siteni paylaş",
+        "TITLE": "Bu sayfayı paylaş",
+        "TWITTER": "Twitter'da paylaş",
+        "URL_LABEL": "Web sitenizin adresi"
+      },
+      "SIGNATURE_SECTION": {
+        "REGARDS_TEXT_PLACEHOLDER": "Saygılarımızla",
+        "SIGNATURE_PREVIEW_TEXT": "İmza",
+        "SIGNATURE_TEXT_PLACEHOLDER": "İmza"
+      },
+      "SLIDESHOW_SECTION": {
+        "ADD_CAPTION_PLACEHOLDER": "Başlık ekle",
+        "ERR_FINISH_EDITING": "Görseli düzenlemeyi bitirin veya yükleyin!",
+        "ERR_MAX_SLIDESHOW_NUMBER": "Maksimum sayıda görsel",
+        "HEADLINE_IMAGE_PLACEHOLDER": "Resim başlığı ekle",
+        "HEADLINE_SELECT": "Başlık bağlantısı",
+        "LINK_IMAGE_TITLE": "Link resmi",
+        "TRANSITION_CUBIC": "Kübik",
+        "TRANSITION_FADE": "Soluk",
+        "TRANSITION_RANDOM": "Rasgele",
+        "TRANSITION_SELECT_DEFAULT": "Geçişler",
+        "TRANSITION_SLIDE": "Slayt",
+        "TRANSITION_STRIPE": "Çizgili",
+        "TRANSITION_TITLE_TEXT": "geçiş türü",
+        "TRANSITION_UPDOWN": "Yukarı/Aşağı",
+        "UPLOAD_TEXT": "resim yükle"
+      },
+      "SS_IMAGE": {
+        "CAPTION": "Başlık",
+        "CHANGE_IMAGE": "@:BASE.V3.CHANGE_IMAGE",
+        "CROP": "Kırp",
+        "DONE": "Bitti",
+        "REPLACE_IMAGE": "Resmi değiştir",
+        "ROTATE_LEFT": "Sola döndür",
+        "ROTATE_RIGHT": "Sağa döndür",
+        "SELECT_IMAGE": "Resim seç",
+        "UPLOAD_IMAGE": "Yükle",
+        "WRONG_FILETYPE": "Yanlış dosya biçimi. Lütfen bir resim dosyası yükleyin."
+      },
+      "SS_TEXTEDITOR": {
+        "ADD_TEXT": "Metin ekle",
+        "PLACEHOLDER": "Metin eklemek için tıklatın",
+        "RESET_STYLES": "Sıfırla",
+        "SWIPE_TEXT": "Daha fazlası için kaydırın"
+      },
+      "TITLE_SECTION": {
+        "DEFAULT_TEXT": "Ben bir başlığım"
+      },
+      "TRANSITION_TITLE_TEXT": "geçiş türü",
+      "UPGRADE_TO_PRO_MODAL": {
+        "UPGRADE_TO_PRO": "PRO'ya yükselt",
+        "UPGRADE_TO_PRO_DIMMED_TEXT": "PRO özellikleri kaydetmeye çalışıyorsunuz",
+        "UPGRADE_TO_PRO_TEXT_1": "Şimdi seçtiğiniz gibi PRO özellikleri yalnızca SimpleSite PRO'da kullanılabilir.",
+        "UPGRADE_TO_PRO_TEXT_2": "SimpleSite PRO, daha fazla tasarım özellikleri sunmaktadır ve web sitenizdeki tüm SimpleSite reklamlarını ve marka detaylarını kaldırır. SimpleSite PRO ile kendi kişisel etki alanı adınıza da sahip olabilirsiniz.",
+        "UPGRADE_TO_PRO_TEXT_3": "SimpleSite PRO'yu 14 gün boyunca hiçbir taahhüt olmadan ücretsiz olarak deneyin.",
+        "UPGRADE_TO_PRO_TEXT_4": "Eğlenin!"
+      },
+      "VIDEO_SECTION": {
+        "ADD": "Video ekle",
+        "ADD_URL_PLACEHOLDER": "Video URL'sini girin",
+        "ADD_VIDEO": "Video ekle",
+        "AVAILABLE_SHORTLY": "Video kısa bir süre içinde kullanılabilecek.",
+        "BROWSE": "Göz at",
+        "ENTER_VIDEO_URL": "Video URL'si girin",
+        "NO_URL_IN_EXTERNAL_INPUT": "Hiçbir URL girilmedi. Lütfen bir YouTube ya da Vimeo URL'si girin.",
+        "OR": "Veya",
+        "PROCESSING_VIDEO": "Videonuzu işliyoruz. Video klibinizi birkaç saniye içinde görüntüleyebileceksiniz.",
+        "TEXT_PLACEHOLDER": "Video açıklaması ekle",
+        "TITLE_PLACEHOLDER": "Video başlığı ekle",
+        "UPLOAD": "Yükle",
+        "VIDEO_DESCRIPTION": "Video açıklaması",
+        "WRONG_FILETYPE": "Desteklenmeyen dosya biçimi. Lütfen bir video dosyası yükleyin.",
+        "WRONG_URL": "Yanlış URL. Lütfen bir YouTube ya da Vimeo URL'si girin."
+      },
+      "WEBSHOP": {
+        "TEST_OR_EDIT": {
+          "EDIT_BUTTON": "Ürün listesini düzenle",
+          "TEST_BUTTON": "Mağazayı canlı göster",
+          "TITLE": "Daha sonra ne yapmak istersiniz?"
+        }
+      }
+    },
+    "PREVIEW_SITE_URL": {
+      "GOTIT": "@:HOME.GOT_IT",
+      "HEADER": "Web sitenizin adı budur"
+    },
+    "PRIMERS": {
+      "CLOSE": "Kapat",
+      "COLUMNS": {
+        "TEXT": "Web sitenize \"Sütunlar\" ekliyorsunuz. Sütunların yalnızca web sitenizin masaüstü sürümünde gösterileceğini lütfen unutmayın. Mobil sitede tek sütun olarak gösterilecektir.",
+        "TITLE": "Sütun ekle"
+      },
+      "CONTINUE": "Devam et",
+      "NEWS": {
+        "TEXT": "Haberler, en yeni haberlerinizi ya da güncellemelerinizi web sitenize yazmanızı sağlar.",
+        "TITLE": "Haber ekle"
+      }
+    },
+    "REMOVEADSPLASH": {
+      "CLOSE": "@:HOME.OFFER.CLOSE_BUTTON_TEXT"
+    },
+    "SALESPITCHBAR": {
+      "BUTTON_BUY_TEXT": "şimdi satın al",
+      "CHANGE_IT_TO": "Buna değiştir:",
+      "WEBSITE_AVAILABLE_AT": "Web sitesi burada mevcut:"
+    },
+    "SALESPITCHBOX": {
+      "BUTTON_TEXT": "Daha fazla bilgi",
+      "FREE_PLAN": "Geçerli planınız ÜCRETSİZDİR"
+    },
+    "SOME_EXPERIMENT_ONLY_IN_ENGLISH": {
+      "TEXT1": "Bu metin 1",
+      "TEXT2": "Bu metin 2"
+    },
+    "TOO_LONG_INPUT": "Sayfanızın başlığı en fazla 20 harf uzunluğunda olabilir. Lütfen daha kısa bir başlık deneyiniz.",
+    "WEBSITE": {
+      "SECTIONS": {
+        "TEXT": {
+          "COLORS": {
+            "BLACK": "Siyah",
+            "BURGUNDY": "Şarap Rengi",
+            "GREEN": "Yeşil",
+            "NAVY": "Lacivert",
+            "OCEAN": "Okyanus Mavisi",
+            "PAPAYA": "Papaya",
+            "RED": "Kırmızı",
+            "SILVER": "Gümüş",
+            "WHITE": "Beyaz"
+          },
+          "HEADER": {
+            "PLACEHOLDER": "Manşetinizi yazın"
+          }
+        }
+      },
+      "SUBTITLE": {
+        "PLACEHOLDER": "Site alt manşeti"
+      },
+      "TITLE": {
+        "PLACEHOLDER": "Site başlığı"
+      }
+    },
+    "WELCOME": {
+      "BODYTEXT1": "{BUSINESSNAME} için web siteniz hazır.",
+      "BODYTEXT2": "En iyi online başlangıcı yapmanız için, işinize uygun olarak tasarlanmış içerk ve dizaynları ekledik.",
+      "BODYTEXT3": "Web siteniz aşağıdaki sayfalara sahiptir:",
+      "BODYTEXT4": "Bunlardan her birini düzenleyebilir, özelleştirebilir ve dilediğiniz kadar ekleyebilirsiniz.",
+      "CLOSE_BUTTON_TEXT": "Kapat",
+      "HEADER": "SimpleSite’a hoşgeldiniz. Tamamen hazırsınız!",
+      "OK_BUTTON_TEXT": "Tamam, başlayalım!"
+    }
+  }
+}

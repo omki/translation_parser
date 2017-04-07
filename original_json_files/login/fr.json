@@ -1,0 +1,21 @@
+{
+  "LOGIN": {
+    "LOGIN_BUTTON": {
+      "ACTIVE": "Connexion",
+      "TEXT": "Se connecter"
+    },
+    "NEW": "Nouveau dans SimpleSite ? Signer",
+    "PASSWORD": {
+      "LABEL": "Mot de passe",
+      "MAXLENGTH": "votre mot de passe est trop long",
+      "MINLENGTH": "votre mot de passe est trop court",
+      "REQUIRED": "n'oubliez pas de saisir votre mot de passe"
+    },
+    "SORRY": "La connexion a échoué. Veuillez contrôler votre nom d'utilisateur et votre mot de passe",
+    "TITLE": "Se connecter",
+    "USERNAME": {
+      "LABEL": "Nom d'utilisateur",
+      "REQUIRED": "Veuillez nous communiquer votre nom d'utilisateur"
+    }
+  }
+}

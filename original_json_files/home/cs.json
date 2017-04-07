@@ -1,0 +1,146 @@
+{
+  "HOME": {
+    "ACCOUNT": {
+      "CHANGE": "Změnit",
+      "COMMENTS_DISABLED": "Komentáře nejsou povoleny",
+      "COMMENTS_ENABLED": "Komentáře jsou povoleny",
+      "COUNTER": "Počitadlo",
+      "CURRENT_PLAN": "Současný plán",
+      "CURRENT_PLAN_LABEL_FREE": "Vaše webové stránky jsou BEZPLATNÉ",
+      "CURRENT_PLAN_LABEL_PRO": "Vaše webové stránky jsou PRO",
+      "EMAIL2": "E-mail",
+      "ENABLE": "Povolit",
+      "GUIDES": "Příručky",
+      "GUIDES_LABEL": "Příručka krok za krokem, jak začít",
+      "HELP_AND_SUPPORT": "Pomoc a podpora",
+      "LANGUAGE": "Jazyk",
+      "LEARN_MORE": "Dozvědět se více ",
+      "MANAGE": "Spravovat",
+      "PASSWORD": "Heslo",
+      "PERSONAL_INFORMATION": "Osobní informace",
+      "SHARE_WIDGET": "Ovladač sdílení",
+      "SHOW_COUNTER": "Zobrazit počitadlo návštěvníků",
+      "SHOW_SHARE_WIDGET": "Zobrazit na webových stránkách ovladač sdílení",
+      "SIDEBAR_TITLE": "@:HOME.MAINMENU.ACCOUNT_SETTINGS",
+      "SUBSCRIPTION_STATUS": "Status registrace",
+      "USERNAME": "Uživatelské jméno",
+      "VISITORS": "Návštěvníci",
+      "VISITORS_COUNT": "Návštěvníci vašich webových stránek",
+      "VISITOR_COMMENTS": "Komentáře návštěvníků",
+      "WEBSITE_CONTROLS": "Ovladače webových stránek",
+      "WEBSITE_NAME2": "Název webových stránek"
+    },
+    "CLOSE": "Zavřít",
+    "DESIGN_EDITOR": {
+      "FREE_LOGOS": "Loga",
+      "MORE_LOGOS": "Další loga",
+      "NO_LOGO": "Žádné logo",
+      "PRO_LOGOS": "Prémiová loga",
+      "REPLACE_BACKGROUND": "Vyměnit pozadí",
+      "UPLOAD_LOGO": "Nahrát logo"
+    },
+    "DOMAINBAR": {
+      "CONTACT_TEXT": "Kontaktovat služby zákazníkům",
+      "DOMAIN_STATUS_TEXT": "Vaše doména byla zakoupena, ale nebyla ještě aktivována.",
+      "DOMAIN_STATUS_TEXT_24": "Doménu jste si zakoupili před méně než 24 hodinami.",
+      "DOMAIN_STATUS_TEXT_24-48": "Doménu jste si zakoupili před 24 - 48 hodinami.",
+      "DOMAIN_STATUS_TEXT_48-76": "Doménu jste si zakoupili před 48 - 76 hodinami.",
+      "DOMAIN_STATUS_TEXT_76": "Doménu jste si zakoupili před více než 76 hodinami."
+    },
+    "ERROR": "Chyba",
+    "GOT_IT": "OK, ROZUMÍM",
+    "HEADLINE_PLACEHOLDER": "@:BASE.V3.HOME_HEADLINE_PLACEHOLDER",
+    "MORE": "Více",
+    "PAGES_OVERVIEW": {
+      "NEW_PAGE_MODAL": {
+        "CONTACT_ME": "Stránka kontaktů",
+        "CONTACT_ME_TEXT": "Přidejte stránku kontaktů, aby vás lidé kontaktovali pomocí e-mailu"
+      },
+      "PAGE_MANAGE_WEBSHOP": "Spravovat"
+    },
+    "PARAGRAPH_PLACEHOLDER": "Add paragraph text",
+    "PREVIEW": {
+      "ADD_IMAGE_MODAL": {
+        "CATEGORY": "Všechny",
+        "CATEGORY_LABEL": "Kategorie",
+        "TIP": "Tip: Obrázky můžete filtrovat pomocí volby kategorie",
+        "TITLE": "Zvolit obrázek",
+        "UPLOAD_BUTTON": "Nahrát"
+      },
+      "COMMENTS_BOX": {
+        "ADD_COMMENT_BUTTON": "@:BASE.V3.COMMENTS_BOX_ADD_COMMENT_BTN",
+        "CHECKBOX_TEXT": "@:BASE.V3.COMMENTS_BOX_CHECKBOX",
+        "EMAIL_PLACEHOLDER_TEXT": "@:BASE.V3.CONTACTME_TBXYOUREMAIL",
+        "GOT_IT": "@:HOME.GOT_IT",
+        "INFOTEXT1": "Toto je část komentářů pro tuto stránku. Zde vám vaši návštěvníci mohou psát na web komentáře.",
+        "INFOTEXT2": "Komentáře jsou užitečný způsob, jak získat od svých návštěvníků zpětnou vazbu. Komentáře na rozdíl od e-mailu nevidíte jen vy, ale také další návštěvníci.",
+        "INFOTEXT3": "Jděte na [livewebsite] nebo na nastavení svých komentářů v záložce '[@:HOME.MAINMENU.ACCOUNT]' a uvidíte, jaké komentáře již vaši návštěvníci zanechali. V těchto nastaveních můžete také komentáře kontrolovat a mazat a na jednotlivých stránkách svého webu je vypínat nebo zapínat.",
+        "INFOTEXT_TEASER": "Toto je část komentářů pro tuto stránku. Zde vám vaši návštěvníci mohou psát na web komentáře.",
+        "MORE": "@:HOME.MORE",
+        "NAME_PLACEHOLDER_TEXT": "@:BASE.V3.CONTACTME_TBXYOURNAME",
+        "TEXT_AREA_PLACEHOLDER_TEXT": "@:BASE.V3.CONTACTME_TBXYOURMESSAGE",
+        "TITLE": "@:BASE.V3.COMMENTS_BOX_TITLE"
+      },
+      "CONTACT_ME": {
+        "FORM_BUTTON": "Poslat - klikněte zde!",
+        "FORM_EMAIL": "@:BASE.V3.CONTACTME_TBXYOUREMAIL",
+        "FORM_HEADLINE": "Zde napište svoji zprávu. Vyplňte formulář:",
+        "FORM_MESSAGE": "@:BASE.V3.CONTACTME_TBXYOURMESSAGE",
+        "FORM_NAME": "@:BASE.V3.CONTACTME_TBXYOURNAME",
+        "GOT_IT": "@:HOME.GOT_IT",
+        "INFOTEXT1": "Toto je stránka kontaktů. Tato stránka umožňuje, aby vám vaši návštěvníci poslali e-mail a navázali s vámi kontakt.",
+        "INFOTEXT2": "Nezapomeňte napsat svým návštěvníkům krátkou zprávu v horní části stránky. Než vám návštěvníci napíšou, často potřebují vědět",
+        "INFOTEXT3": "O čem vám mají napsat?",
+        "INFOTEXT4": "Jak dlouho vám obvykle trvá než odpovíte?",
+        "INFOTEXT5": "Jakou další cestou s vámi mohou navázat kontakt (např. telefonem nebo přes sociální média)?",
+        "INFOTEXT_TEASER": "Tato stránka je stránka kontaktů. Tato stránka umožňuje, aby vám vaši návštěvníci poslali e-mail. Tento e-mail jde přímo do vaší mailové schránky, takže na něj můžete ihned odpovědět.",
+        "MORE": "@:HOME.MORE",
+        "RECIEVED_MESSAGES_BUTTON": "Zobrazit přijaté zprávy",
+        "TEXT_PLACEHOLDER": "@:HOME.PARAGRAPH_PLACEHOLDER",
+        "TITLE_PLACEHOLDER": "@:HOME.HEADLINE_PLACEHOLDER"
+      },
+      "DELETE_MODAL": {
+        "DELETE_TITLE": "Vymazat obsah"
+      },
+      "SELECT_IMAGE_MODAL": {
+        "LIBRARY_BUTTON": "Z knihovny",
+        "LIBRARY_BUTTON_TEXT": "Použijte obrázek z naší bezplatné knihovny vysoce kvalitních obrázků",
+        "OUTTRO": "Tip: Obrázek můžete kdykoli později změnit",
+        "TITLE": "Zvolit obrázek, který chcete použít",
+        "UPLOAD_BUTTON": "Nahrát",
+        "UPLOAD_BUTTON_TEXT": "Nahrát vlastní obrázek"
+      },
+      "SHARE": {
+        "COPY_CLIPBOARD": "Zkopírovat do schránky",
+        "MAIL_BODY": "Právě jsem aktualizovala své webové stránky na [livewebsite]",
+        "MAIL_SUBJECT": "Podívejte se na mé webové stránky",
+        "SHARE": "Sdílet",
+        "SOCIAL_MEDIA": "Sdílet vaše webové stránky",
+        "URL_LABEL": "Adresa vašich webových stránek"
+      },
+      "SLIDESHOW_SECTION": {
+        "ERR_FINISH_EDITING": "Ukončit editaci nebo nahrávání aktuálního obrázku!",
+        "ERR_MAX_SLIDESHOW_NUMBER": "Maximální počet obrázků: "
+      },
+      "SS_IMAGE": {
+        "SELECT_IMAGE": "Zvolit obrázek"
+      },
+      "VIDEO_SECTION": {
+        "OR": "Nebo"
+      }
+    },
+    "PREVIEW_SITE_URL": {
+      "GOTIT": "@:HOME.GOT_IT",
+      "HEADER": "To je adresa vašich webových stránek"
+    },
+    "WELCOME": {
+      "BODYTEXT1": "Vaše webové stránky pro {BUSINESSNAME} jsou připravené.",
+      "BODYTEXT2": "Pro vaše podnikání jsme přidali obsah a design šitý na míru, abyste měli co nejlepší start.",
+      "BODYTEXT3": "Váš web má následující stránky:",
+      "BODYTEXT4": "Každou z těchto stránek můžete upravovat, měnit a přidávat na ni obsah.",
+      "CLOSE_BUTTON_TEXT": "Zavřít",
+      "HEADER": "Vítejte na SimpleSite. Nyní máte vše nastaveno!",
+      "OK_BUTTON_TEXT": "Ok, začít!"
+    }
+  }
+}

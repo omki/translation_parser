@@ -1,0 +1,21 @@
+{
+  "LOGIN": {
+    "LOGIN_BUTTON": {
+      "ACTIVE": "Iniciando sesión",
+      "TEXT": "Iniciar sesión"
+    },
+    "NEW": "¿Nuevo en SimpleSite? Regístrese",
+    "PASSWORD": {
+      "LABEL": "Contraseña",
+      "MAXLENGTH": "la contraseña es demasiado larga",
+      "MINLENGTH": "la contraseña es demasiado corta",
+      "REQUIRED": "no olvide escribir su contraseña"
+    },
+    "SORRY": "Error de inicio de sesión. Compruebe su nombre de usuario y contraseña.",
+    "TITLE": "Iniciar sesión",
+    "USERNAME": {
+      "LABEL": "Nombre de usuario",
+      "REQUIRED": "Díganos su nombre de usuario"
+    }
+  }
+}

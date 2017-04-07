@@ -1,0 +1,21 @@
+{
+  "LOGIN": {
+    "LOGIN_BUTTON": {
+      "ACTIVE": "Proses masuk",
+      "TEXT": "Masuk"
+    },
+    "NEW": "Baru di SimpleSite? Daftar",
+    "PASSWORD": {
+      "LABEL": "Kata sandi",
+      "MAXLENGTH": "kata sandi terlalu panjang",
+      "MINLENGTH": "kata sandi terlalu pendek",
+      "REQUIRED": "jangan lupa memasukkan kata sandi"
+    },
+    "SORRY": "Proses masuk gagal. Periksa nama pengguna dan kata sandi Anda",
+    "TITLE": "Masuk",
+    "USERNAME": {
+      "LABEL": "Nama pengguna",
+      "REQUIRED": "Sebutkan nama pengguna Anda"
+    }
+  }
+}

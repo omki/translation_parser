@@ -1,0 +1,21 @@
+{
+  "LOGIN": {
+    "LOGIN_BUTTON": {
+      "ACTIVE": "Anmeldung erfolgt",
+      "TEXT": "Anmelden"
+    },
+    "NEW": "Neu bei SimpleSite? Registrieren",
+    "PASSWORD": {
+      "LABEL": "Kennwort",
+      "MAXLENGTH": "Ihr Kennwort ist zu lang.",
+      "MINLENGTH": "Ihr Kennwort ist zu kurz.",
+      "REQUIRED": "Bitte geben Sie Ihr Kennwort an."
+    },
+    "SORRY": "Anmeldung fehlgeschlagen Bitte überprüfen Sie Benutzernamen und Kennwort.",
+    "TITLE": "Anmelden",
+    "USERNAME": {
+      "LABEL": "Benutzername",
+      "REQUIRED": "Bitte geben Sie Ihren Benutzernamen an."
+    }
+  }
+}

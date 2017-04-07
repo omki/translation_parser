@@ -117,18 +117,12 @@
       "BACKGROUND": "Hintergrund",
       "BACKGROUNDS": "Hintergründe",
       "COLORS": "Website-Farben",
-      "DESIGN": "Layout",
-      "DESIGN_1": "Layout 1",
-      "DESIGN_2": "Layout 2",
-      "DESIGN_3": "Layout 3",
-      "DESIGN_HEADER": "Website-Layout",
       "FONTS": "Website-Schriftarten",
       "FREE_LOGOS": "Logos",
       "GO_PRO_BACKGROUNDS_MESSAGE": "Auf Pro aktualisieren, um diesen Hintergrund zu verwenden",
       "GO_PRO_MESSAGE_TITLE": "Auf Pro aktualisieren",
       "MORE_BACKGROUNDS": "Mehr Hintergründe",
       "MORE_COLORS": "Weitere Farben",
-      "MORE_DESIGNS": "Mehr Layouts",
       "MORE_FONTS": "Weitere Schriftarten",
       "MORE_LOGOS": "Mehr Logos",
       "NO_BACKGROUND": "Kein Hintergrund",
@@ -140,9 +134,8 @@
       "UPGRADE_TO_PRO": "Auf PRO aktualisieren",
       "UPLOAD_BACKGROUND": "Hintergrund hochladen",
       "UPLOAD_LOGO": "Logo hochladen",
-      "UPLOAD_YOUR_OWN": "Bild darf nicht größer als 5MB sein.",
-      "VIDEO_BACKGROUND": "Video ",
-      "YOUR_OWN_BACKGROUND": "Ihr Hintergrund"
+      "UPLOAD_YOUR_OWN": "Eigenen Hintergrund hochladen (Bild darf nicht größer sein als 5 MB)",
+      "YOUR_OWN_BACKGROUND": "Ihr eigener Hintergrund"
     },
     "DOMAINBAR": {
       "CONTACT_TEXT": "Kundenservice kontaktieren",
@@ -189,28 +182,18 @@
       "DONE": "Fertig",
       "FIELD_EMPTY": "@:BASE.V3.FIELD_EMPTY",
       "NEW_PAGE_MODAL": {
-        "ABOUT_US": "Über uns",
-        "ABOUT_US_TEXT": "Erzählen Sie etwas über sich, Ihr Geschäft oder Unternehmen",
         "ADD": "Hinzufügen",
         "ADDRESS_PAGE": "Adresse",
         "ADDRESS_PAGE_TEXT": "Fügen Sie Kontaktdaten hinzu, damit die Besucher Sie erreichen können.",
         "BLOG": "Blog",
         "BLOG_TEXT": "Schreiben Sie über Ihre Meinungen, Aktivitäten und Erfahrungen.",
-        "CONTACT_ME": "Kontaktseite",
-        "CONTACT_ME_TEXT": "Fügen Sie Ihre Kontaktseite hinzu, damit Besucher Sie über E-Mail erreichen können.",
+        "CONTACT_ME": "Kontakt-Seite",
+        "CONTACT_ME_TEXT": "Fügen Sie Ihre Kontakt-Seite hinzu, damit Ihre Besucher Sie per Mail kontaktieren können",
         "GUESTBOOK_PAGE": "Gästebuch",
         "GUESTBOOK_PAGE_TEXT": "Hier können Besucher Ihnen eine Nachricht schreiben.",
-        "MY_PROJECT": "Mein Projekt",
-        "MY_PROJECT_TEXT": "Teilen Sie der Welt mit, woran Sie gerade arbeiten oder zeigen Sie, was Sie schon geschafft haben.",
-        "PEOPLE_GALLERY": "Mitarbeiter-Galerie",
-        "PEOPLE_GALLERY_TEXT": "Wer sind die Leute in Ihrem Unternehmen? Stellen Sie Ihre Mitarbeiter vor, um Ihrer Website eine menschliche Note zu verleihen.",
         "PHOTO_ALBUM": "Fotoalbum",
         "PHOTO_ALBUM_TEXT": "Fügen Sie Bilder hinzu und erzählen Sie visuell Ihre Geschichte.",
-        "PHOTO_STORY": "Foto-Story",
-        "PHOTO_STORY_TEXT": "Ein Bild sagt mehr als tausend Worte. Unterstützen Sie Ihre Inhalte mit Bildern, wenn Worte nicht ausreichen.",
         "PLACEHOLDER": "Seitenname",
-        "SERVICE_LIST": "Service-Liste",
-        "SERVICE_LIST_TEXT": "Erzählen Sie Ihren Besuchern, welche Dienste Sie anbieten. Binden Sie Preise, Beschreibungen und Bilder ein, damit Besucher einfach vergleichen können.",
         "STANDARD_PAGE": "Leer",
         "STANDARD_PAGE_TEXT": "Erstellen Sie eine Seite nach Ihren Wünschen.",
         "TITLE": "Neue Seite hinzufügen",
@@ -244,18 +227,6 @@
     },
     "PREVIEW": {
       "ADD_IMAGE_MODAL": {
-        "CATEGORIES": {
-          "ANIMALS": "Tiere",
-          "FASHION": "Mode",
-          "FOOD": "Lebensmittel",
-          "FUN": "Freizeit",
-          "KIDS": "Kinder",
-          "LOVE": "Liebe",
-          "NATURE": "Natur",
-          "OBJECTS": "Gegenstände",
-          "SCENERY": "Landschaften",
-          "WORK": "Arbeit"
-        },
         "CATEGORY": "Alle",
         "CATEGORY_LABEL": "Kategorie",
         "TIP": "Tipp: Sie können die Bilder filtern, indem Sie eine Kategorie auswählen.",
@@ -266,15 +237,9 @@
         "TITLE": "Inhalt hinzufügen"
       },
       "COLUMNS_SECTION": {
-        "BLOCK": "Blocknr.",
-        "BLOCKS": "Blöcke",
         "DESCRIPTION_PLACEHOLDER": "Beschreibung hinzufügen",
         "HEADLINE_PLACEHOLDER": "Spaltenüberschrift hinzufügen",
-        "MODAL_LABEL": "Titel",
-        "MODAL_LINK_LABEL": "Womit soll der Titel verlinkt werden?",
-        "MODAL_TITLE": "Titeleinstellungen",
         "SELECT_PAGE_OPTION": "Eine Seite auswählen",
-        "SWITCH_BUTTONS_LABEL": "Anzahl an Spalten",
         "THREE_COLUMNS": "Drei Spalten",
         "TWO_COLUMNS": "Zwei Spalten"
       },
@@ -285,7 +250,7 @@
         "GOT_IT": "@:HOME.GOT_IT",
         "INFOTEXT1": "Dies ist der Kommentarbereich für diese Seite. Hier können Besucher Kommentare auf Ihrer Website hinterlassen.",
         "INFOTEXT2": "Kommentare sind eine gute Methode, um Feedback von Ihren Besuchern zu erhalten. Anders als E-Mails sind Kommentare nicht nur für Sie, sondern auch für andere Besucher sichtbar.",
-        "INFOTEXT3": "Wechseln Sie zu Ihrer {livewebsite} oder Ihren Kommentareinstellungen auf der Registerkarte '[@:HOME.MAINMENU.ACCOUNT]‘, um die Kommentare anzusehen, die Besucher bereits abgegeben haben. In den Einstellungen können Sie Kommentare auch prüfen und löschen und das Kommentarfeld auf einzelnen Seiten Ihrer Website ein- bzw. ausschalten.",
+        "INFOTEXT3": "Wechseln Sie zu Ihrer [livewebsite] oder Ihren Kommentareinstellungen auf der Registerkarte '[@:HOME.MAINMENU.ACCOUNT]', um die Kommentare anzusehen, die Besucher bereits abgegeben haben. In den Einstellungen können Sie Kommentare auch prüfen und löschen und das Kommentarfeld auf einzelnen Seiten Ihrer Website ein- bzw. ausschalten.",
         "INFOTEXT_TEASER": "Dies ist der Kommentarbereich für diese Seite. Hier können Besucher Kommentare auf Ihrer Website hinterlassen.",
         "LIVE_WEBSITE": "@:HOME.LIVE_WEBSITE",
         "MORE": "@:HOME.MORE",
@@ -312,25 +277,16 @@
         "TITLE_PLACEHOLDER": "@:HOME.HEADLINE_PLACEHOLDER"
       },
       "CREATE": {
-        "BUTTON": "Werbung entfernen mit PRO",
-        "TEXT": "In diesem Bereich wird eine kleine Werbung für SimpleSite angezeigt, so dass Ihre Website komplett kostenlos bleibt.",
+        "BUTTON": "Mit PRO Werbung entfernen",
+        "TEXT": "Wir verwenden diese Stelle für eine kleine SimpleSite-Werbeeinschaltung, damit Ihre Website komplett kostenlos bleiben kann.",
         "TITLE": "Ihre Website ist kostenlos"
       },
       "DELETE_MODAL": {
         "DELETE": "@:HOME.DELETE",
         "DELETE_TITLE": "Inhalt löschen",
-        "IS_EMPTY": "Dieser Bereich ist leer. Wenn Sie fortfahren, wird der Bereich gelöscht. Möchten Sie den Bereich löschen?",
         "NAH": "@:HOME.PAGES_OVERVIEW.DELETE_MODAL.REALLY_NAH",
         "REALLY": "Diesen Inhalt von der Seite löschen?",
         "YEAH": "@:HOME.PAGES_OVERVIEW.DELETE_MODAL.REALLY_YEAH"
-      },
-      "DIVIDER_SECTION": {
-        "STYLE": "Divider-Stil",
-        "STYLES": {
-          "DASHED": "Gestrichelt",
-          "DOTTED": "Punkte",
-          "SOLID": "Linie"
-        }
       },
       "FOOTER": {
         "FREEMIUM": {
@@ -343,17 +299,15 @@
       },
       "HERO_SECTION": {
         "CTA_OPTIONS": {
-          "CTA_LINK_LABEL": "Womit soll die Schaltfläche verlinkt werden?",
-          "CTA_TEXT_LABEL": "Was soll auf der Schaltfläche stehen? (Beispiele: „Mehr erfahren“, „Jetzt Kontakt aufnehmen“)",
-          "INVALID_LINK": "Geben Sie an, welche Seite angezeigt wird, wenn Benutzer die Schaltfläche anklicken.",
-          "INVALID_TEXT": "Geben Sie einen Text für die Schaltfläche ein. Eine Schaltfäche ohne Text wird für Ihre Besucher keinen Sinn ergeben.",
-          "TITLE": "Schaltflächeneinstellungen"
+          "CTA_LINK_LABEL": "Wo soll der Button hin verlinken?",
+          "CTA_TEXT_LABEL": "Was soll auf dem Button stehen? (Beispiele: ‚Mehr lesen’, ‚Kontaktieren Sie uns’)",
+          "TITLE": "Button Einstellungen"
         },
         "CTA_PLACEHOLDER": "Hier klicken",
-        "HEADLINE_PLACEHOLDER": "Überschrift",
-        "INCLUDE_BUTTON": "Schaltfäche einbeziehen",
+        "HEADLINE_PLACEHOLDER": "Kopfzeile",
+        "INCLUDE_BUTTON": "Button einbinden",
         "LINK_DEFAULT_OPTION": "Link zu",
-        "TEXT_PLACEHOLDER": "Dies ist ein Absatz. Klicken Sie hier, um Ihren eigenen Text einzugeben. Erzählen Sie hier Ihre Geschichte und verraten Sie Ihren Besuchern etwas mehr über sich.",
+        "TEXT_PLACEHOLDER": "Ich bin ein Textabschnitt. Klicken Sie hier, um mich zu bearbeiten und eigenen Text hinzuzufügen. Ich bin der perfekte Ort, um Ihre Geschichte zu erzählen oder Ihre Benutzer mehr über Sie erfahren zu lassen.",
         "UPLOAD_IMAGE": "@:HOME.PREVIEW.SS_IMAGE.UPLOAD_IMAGE"
       },
       "MENU": {
@@ -370,9 +324,8 @@
         "CANCEL": "Abbrechen",
         "DELETE": "Neuigkeiten löschen",
         "DESCRIPTION_PLACEHOLDER": "Text hinzufügen",
-        "LINK": "Eine Seite auswählen",
-        "LINK_LABEL": "Diese Nachrichten mit einer Seite verlinken",
-        "NEWS_HEADLINE_PLACEHOLDER": "Überschrift hinzufügen",
+        "LINK": "Kein Link",
+        "NEWS_HEADLINE_PLACEHOLDER": "Ãberschrift hinzufügen",
         "SAVE": "Speichern"
       },
       "PHOTO_ALBUM": {
@@ -384,7 +337,7 @@
           "CUBIC": "Kubisch",
           "FADE": "Ausblenden",
           "RANDOM": "Zufällig",
-          "SLIDE": "Wischen",
+          "SLIDE": "Ziehen",
           "STRIPE": "Streifen",
           "UPDOWN": "Nach oben/Nach unten"
         },
@@ -393,17 +346,12 @@
       "SECTIONS": {
         "ADD_SECTION_TEXT": "Inhalt hinzufügen",
         "COLUMNS": "Spalten",
-        "DIVIDER": "Divider",
-        "HERO": "Autor",
+        "HERO": "Poster",
         "NEWS": "Neuigkeiten",
         "PHOTO": "Bild",
         "SIGNATURE": "Unterschrift",
         "SLIDESHOW": "Dia-Show",
         "TEXT": "Text",
-        "TEXTLEFT": "Text + Bild",
-        "TEXTNOIMAGE": "Text",
-        "TEXTRIGHT": "Text + Bild",
-        "TITLE": "Überschrift",
         "VIDEO": "Video"
       },
       "SELECT_IMAGE_MODAL": {
@@ -415,16 +363,16 @@
         "UPLOAD_BUTTON_TEXT": "Laden Sie Ihr eigenes Bild hoch."
       },
       "SHARE": {
-        "COPY_CLIPBOARD": "In Zwischenablage kopieren",
+        "COPY_CLIPBOARD": "Link kopieren",
         "FACEBOOK": "Auf Facebook teilen",
         "GOOGLEPLUS": "Auf Google+ teilen",
-        "MAIL_BODY": "Ich habe eine neue Website [livewebsite]",
-        "MAIL_SUBJECT": "Sehen Sie sich meine Website an",
+        "MAIL_BODY": "Ich habe gerade meine Webseite aktualisiert unter [livewebsite]",
+        "MAIL_SUBJECT": "Schauen Sie sich meine Webseite an",
         "SHARE": "Teilen",
-        "SOCIAL_MEDIA": "Ihre Website teilen",
+        "SOCIAL_MEDIA": "Teilen Sie Ihre Webseite",
         "TITLE": "Diese Seite teilen",
         "TWITTER": "Auf Twitter teilen",
-        "URL_LABEL": "Adresse Ihrer Website"
+        "URL_LABEL": "Ihre Webseiten-Adresse"
       },
       "SIGNATURE_SECTION": {
         "REGARDS_TEXT_PLACEHOLDER": "Herzliche Grüße",
@@ -433,11 +381,10 @@
       },
       "SLIDESHOW_SECTION": {
         "ADD_CAPTION_PLACEHOLDER": "Beschriftung hinzufügen",
-        "ERR_FINISH_EDITING": "Bearbeiten oder laden Sie das aktuelle Bild hoch!",
-        "ERR_MAX_SLIDESHOW_NUMBER": "Max. Anzahl an Bildern: ",
+        "ERR_FINISH_EDITING": "Bearbeitung oder Hochladen des aktuellen Bildes beenden!",
+        "ERR_MAX_SLIDESHOW_NUMBER": "Max. Anzahl Bilder: ",
         "HEADLINE_IMAGE_PLACEHOLDER": "Bildüberschrift hinzufügen",
         "HEADLINE_SELECT": "Link zur Überschrift",
-        "LINK_IMAGE_TITLE": "Bild verlinken",
         "TRANSITION_CUBIC": "Kubisch",
         "TRANSITION_FADE": "Ausblenden",
         "TRANSITION_RANDOM": "Zufällig",
@@ -451,25 +398,18 @@
       "SS_IMAGE": {
         "CAPTION": "Beschriftung",
         "CHANGE_IMAGE": "@:BASE.V3.CHANGE_IMAGE",
-        "CROP": "Zuschneiden",
         "DONE": "Fertig",
-        "REPLACE_IMAGE": "Ersetzen",
-        "ROTATE_LEFT": "Nach links drehen",
-        "ROTATE_RIGHT": "Nach rechts drehen",
+        "REPLACE_IMAGE": "Bild ersetzen",
         "SELECT_IMAGE": "Bild auswählen",
-        "UPLOAD_IMAGE": "Hochladen",
+        "UPLOAD_IMAGE": "Bild hochladen",
         "WRONG_FILETYPE": "Falsches Dateiformat. Bitte laden Sie eine Bilddatei hoch."
       },
       "SS_TEXTEDITOR": {
         "ADD_TEXT": "Text hinzufügen",
         "PLACEHOLDER": "Klicken, um Text hinzuzufügen.",
-        "RESET_STYLES": "Stil zurücksetzen",
+        "RESET_STYLES": "Formatierung zurücksetzen",
         "SWIPE_TEXT": "Wischen, um mehr anzusehen"
       },
-      "TITLE_SECTION": {
-        "DEFAULT_TEXT": "Ich bin eine Überschrift"
-      },
-      "TRANSITION_TITLE_TEXT": "Übergangstyp",
       "UPGRADE_TO_PRO_MODAL": {
         "UPGRADE_TO_PRO": "Auf PRO aktualisieren",
         "UPGRADE_TO_PRO_DIMMED_TEXT": "Sie versuchen, PRO-Funktionen zu speichern.",
@@ -479,19 +419,15 @@
         "UPGRADE_TO_PRO_TEXT_4": "Viel Spaß!"
       },
       "VIDEO_SECTION": {
-        "ADD": "Video hinzufügen",
         "ADD_URL_PLACEHOLDER": "Video-URL eingeben",
         "ADD_VIDEO": "Video hinzufügen",
         "AVAILABLE_SHORTLY": "Das Video ist in Kürze verfügbar.",
         "BROWSE": "Durchsuchen",
-        "ENTER_VIDEO_URL": "Video-URL eingeben",
         "NO_URL_IN_EXTERNAL_INPUT": "Keine URL eingegeben. Bitte geben Sie eine YouTube- oder Vimeo-URL ein.",
         "OR": "Oder",
         "PROCESSING_VIDEO": "Ihr Video wird bearbeitet. In wenigen Minuten können Sie Ihren Video-Clip ansehen.",
         "TEXT_PLACEHOLDER": "Video-Beschreibung hinzufügen",
-        "TITLE_PLACEHOLDER": "Video-Überschrift hinzufügen",
-        "UPLOAD": "Hochladen",
-        "VIDEO_DESCRIPTION": "Videobeschreibung",
+        "TITLE_PLACEHOLDER": "Video-Ãberschrift hinzufügen",
         "WRONG_FILETYPE": "Nicht unterstütztes Dateiformat. Bitte laden Sie eine Videodatei hoch.",
         "WRONG_URL": "Fehlerhafte URL. Bitte geben Sie eine YouTube- oder Vimeo-URL ein."
       },
@@ -504,8 +440,8 @@
       }
     },
     "PREVIEW_SITE_URL": {
-      "GOTIT": "OK, VERSTANDEN",
-      "HEADER": "Das ist die Adresse Ihrer Website"
+      "GOTIT": "Ok, verstanden",
+      "HEADER": "Dies ist Ihre Webseiten-Adresse"
     },
     "PRIMERS": {
       "CLOSE": "Schließen",

@@ -1,0 +1,21 @@
+{
+  "LOGIN": {
+    "LOGIN_BUTTON": {
+      "ACTIVE": "Fazendo login",
+      "TEXT": "Login"
+    },
+    "NEW": "Novo no SimpleSite? Cadastrar-se",
+    "PASSWORD": {
+      "LABEL": "Senha",
+      "MAXLENGTH": "sua senha é muito longa",
+      "MINLENGTH": "sua senha é muito curta",
+      "REQUIRED": "não se esqueça de inserir sua senha"
+    },
+    "SORRY": "Falha no login. Verifique seu nome de usuário e senha.",
+    "TITLE": "Login",
+    "USERNAME": {
+      "LABEL": "Nome de usuário",
+      "REQUIRED": "Informe-nos seu nome de usuário"
+    }
+  }
+}

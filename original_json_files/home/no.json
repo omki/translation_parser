@@ -1,0 +1,64 @@
+{
+  "HOME": {
+    "ACCOUNT": {
+      "CHANGE": "Endre",
+      "CURRENT_PLAN": "Nåværende abonnement",
+      "CURRENT_PLAN_LABEL_FREE": "Du har et GRATIS abonnement ",
+      "CURRENT_PLAN_LABEL_PRO": "Du har et PRO abonnement ",
+      "EMAIL2": "E-post",
+      "GUIDES": "Guide",
+      "GUIDES_LABEL": "Steg-for-steg guide for å komme I gang ",
+      "HELP_AND_SUPPORT": "Hjelp og support ",
+      "LEARN_MORE": "Lær mer",
+      "MANAGE": "Administrer",
+      "PASSWORD": "Passord",
+      "PERSONAL_INFORMATION": "Personlig informasjon",
+      "SUBSCRIPTION_STATUS": "Abonnementstatus ",
+      "USERNAME": "Brukernavn",
+      "WEBSITE_NAME2": "Hjemmesidenavn"
+    },
+    "CLOSE": "Lukk",
+    "DESIGN_EDITOR": {
+      "REPLACE_BACKGROUND": "Erstatt bakgrunn "
+    },
+    "DOMAINBAR": {
+      "CONTACT_TEXT": "Kontakt kundeservice",
+      "DOMAIN_STATUS_TEXT": "Ditt domene har blitt kjøpt men det er ikke aktivert.",
+      "DOMAIN_STATUS_TEXT_24": "Du har kjøpt domene for mindre enn 24 timer siden.",
+      "DOMAIN_STATUS_TEXT_24-48": " Du har kjøpt domene for 24 til 48 timer siden.",
+      "DOMAIN_STATUS_TEXT_48-76": " Du har kjøpt domene for 48 til 76 timer siden.",
+      "DOMAIN_STATUS_TEXT_76": " Du har kjøpt domene for mer enn 76 timer siden."
+    },
+    "ERROR": "Feil",
+    "HEADLINE_PLACEHOLDER": "@:BASE.V3.HOME_HEADLINE_PLACEHOLDER",
+    "PAGES_OVERVIEW": {
+      "PAGE_MANAGE_WEBSHOP": "administrer"
+    },
+    "PARAGRAPH_PLACEHOLDER": "Add paragraph text",
+    "PREVIEW": {
+      "DELETE_MODAL": {
+        "DELETE_TITLE": "Slett innhold"
+      },
+      "SLIDESHOW_SECTION": {
+        "ERR_FINISH_EDITING": "Fullfør endring eller last opp nåværende bilde!",
+        "ERR_MAX_SLIDESHOW_NUMBER": "Max antall bilder: "
+      },
+      "VIDEO_SECTION": {
+        "OR": "Eller"
+      }
+    },
+    "PREVIEW_SITE_URL": {
+      "GOTIT": "OK, SKJØNNER",
+      "HEADER": "Dette er adresse på hjemmesiden din"
+    },
+    "WELCOME": {
+      "BODYTEXT1": "Din hjemmeside {BUSINESSNAME} er klar.",
+      "BODYTEXT2": "Vi har lagt til innhold og design som passer din virksomhet slik at du kan starte best mulig online.",
+      "BODYTEXT3": "Din hjemmeside har følgende sider:",
+      "BODYTEXT4": "Du kan endre, personliggjøre og legge til hver av disses så mye du vil.",
+      "CLOSE_BUTTON_TEXT": "Lukk",
+      "HEADER": "Velkommen til SimpleSite. Du er ferrdig!",
+      "OK_BUTTON_TEXT": "Ok, las oss komme I gang!"
+    }
+  }
+}

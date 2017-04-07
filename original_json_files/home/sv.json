@@ -1,0 +1,485 @@
+{
+  "HOME": {
+    "ACCOUNT": {
+      "CHANGE": "Redigera",
+      "COMMENTS_DISABLED": "Kommentarer är inte aktiverade",
+      "COMMENTS_ENABLED": "Kommentarer är aktiverade",
+      "CONTACT": "Kontakt",
+      "COUNTER": "Besöksräknare",
+      "CURRENT_PLAN": "Nuvarande betalningsplan",
+      "CURRENT_PLAN_LABEL_FREE": "Du har ett GRAITS abonnemang ",
+      "CURRENT_PLAN_LABEL_PRO": "Du har en PRO plan",
+      "EMAIL": "E-posttjänst",
+      "EMAIL2": "Email",
+      "ENABLE": "Aktivera",
+      "GUIDES": "Guider",
+      "GUIDES_LABEL": "Steg för steg anvisningar för att komma igång",
+      "HELP_AND_SUPPORT": "Hjälp och kundtjänst",
+      "INFORMATION": "Din information",
+      "LANGUAGE": "Språk",
+      "LEARN_MORE": "Läs mer",
+      "LOGOUT": "@:HOME.MAINMENU.LOGOUT",
+      "MANAGE": "Hantera",
+      "MORE_SPACE": "Skaffa mer utrymme",
+      "PASSWORD": "Lösenord",
+      "PERSONAL": "Personliga uppgifter",
+      "PERSONAL_INFORMATION": "Personliga uppgifter",
+      "SHARE_WIDGET": "Dela widget",
+      "SHOW_COUNTER": "Visa besöksräknare",
+      "SHOW_SHARE_WIDGET": "Visa dela widget på webbplats",
+      "SIDEBAR_TITLE": "@:HOME.MAINMENU.ACCOUNT_SETTINGS",
+      "SUBSCRIPTION": "Din prenumeration",
+      "SUBSCRIPTION_STATUS": "Abonnemangstatus",
+      "UPGRADE": "Uppgradera till PRO",
+      "USERNAME": "Användarnamn",
+      "VISITORS": "Besökare",
+      "VISITORS_COUNT": "Besökare på din webbplats",
+      "VISITOR_COMMENTS": "Besökarkommentarer",
+      "WEBSITE_CONTROLS": "Webbplatskontroller",
+      "WEBSITE_NAME": "Hemsidans namn",
+      "WEBSITE_NAME2": "Namn på hemsida"
+    },
+    "ADDRESS": {
+      "ADDRESS": "Adress:",
+      "ADDRESS_PLACEHOLDER": "Lägg till adress",
+      "EMAIL": "E-postadress*:",
+      "EMAIL_INVALID": "E-postfel",
+      "EMAIL_INVALID_MESSAGE": "E-postadressen är ogiltig eller saknas helt",
+      "EMAIL_PLACEHOLDER": "Lägg till e-postadress",
+      "ENTER_BUBBLETEXT": "Ange en text för pratbubbla",
+      "ENTER_LOCATION": "Ange en plats",
+      "OPENING_HOURS": "Öppettider:",
+      "OPENING_HOURS_PLACEHOLDER": "Lägg till öppettider",
+      "OPENING_HOURS_TITLE": "Titel för öppettider:",
+      "OPENING_HOURS_TITLE_PLACEHOLDER": "Lägg till rubrik för öppettider",
+      "PAGE_TITLE": "Sidtitel:",
+      "PAGE_TITLE_PLACEHOLDER": "Lägg till sidrubrik",
+      "PARAGRAPH_TEXT": "Stycketext:",
+      "PARAGRAPH_TITLE": "Styckerubrik:",
+      "PARAGRAPH_TITLE_PLACEHOLDER": "Lägg till rubrik",
+      "PHONE_INVALID": "Telefonnummerfel",
+      "PHONE_INVALID_MESSAGE": "Telefonnumret är ogiltigt eller saknas helt",
+      "SHOW_BUBBLE": "Visa pratbubbla",
+      "SHOW_MAP": "Visa karta",
+      "TELEPHONE": "Tfn*:",
+      "TELEPHONE_PLACEHOLDER": "Lägg till telefonnummer",
+      "TITLE": "Titel:",
+      "TITLE_PLACEHOLDER": "Lägg till titel:"
+    },
+    "CANCEL": "Avbryt",
+    "CHANGE_PASSWORD_MODAL": {
+      "INTRO": "Här kan du byta ditt lösenord. Fyll i fälten nedan.",
+      "TITLE": "Byta ut ditt lösenord"
+    },
+    "CHOOSEADDRESS": {
+      "BUTTON_CLOSE_TEXT": "stäng",
+      "BUTTON_CONTINUE_TEXT": "fortsätt",
+      "GO_BUTTON_1": "VÄLJ",
+      "GO_BUTTON_2": "@:HOME.CHOOSEADDRESS.GO_BUTTON_1",
+      "GO_BUTTON_3": "@:HOME.CHOOSEADDRESS.GO_BUTTON_1",
+      "GREAT_DEAL": "FANTASTISKT ERBJUDANDE",
+      "NOT_VALID_DOMAIN": "Specialtecken och blanksteg är inte tillåtna i ett domännamn.",
+      "TITLE": "Grattis, du har skapat din webbplats"
+    },
+    "CLOSE": "Stäng",
+    "COMMENTS_MANAGE": {
+      "BLOCKED_TIP": "Har du blockerat besökare så att de inte kan skriva kommentarer på din hemsida?",
+      "INTRO2_TIP": "Vill du ändra inställningar för dina kommentarer?",
+      "INTRO_TIP": "Du kan lätt svara på en kommentar genom att klicka på \"Se sida\" i kommentaren. Då kan du svara direkt från den sida där kommentaren är gjord. KOM IHÅG: Om du upplever att en besökare skriver något obehagligt kan du radera kommentaren. Om du vill blockera en besökare helt från att skriva kommentarer på din hemsida, klickar du på \"Radera och blockera\"",
+      "INTRO_TITLE": "Här ser du de senaste kommentarerna från din hemsida.",
+      "NO_COMMENTS": "Du har inte några kommentarer ännu."
+    },
+    "COMMENTS_SETTINGS": {
+      "APPROVE_COMMENTS": "@:BASE.V3.COMMENTS_WITH_APPROVAL",
+      "APPROVE_SUBTITLE": "Du kan välja att godkänna kommentarerna innan de visas på din hemsida.",
+      "APPROVE_TITLE": "Godkänn kommentarer",
+      "DONOT_APPROVE": "@:BASE.V3.COMMENTS_NO_APPROVAL",
+      "EMAIL_SUBTITLE": "Vill du få ett e-postmeddelande när någon skriver en kommentar på din hemsida?",
+      "EMAIL_TITLE": "E-postmeddelanden",
+      "NOTIFY_ON_MAIL": "@:BASE.V3.COMMENTS_NOTIFY_YES",
+      "NO_NOTIFY": "@:BASE.V3.COMMENTS_NOTIFY_NO",
+      "OFF": "@:BASE.V3.COMMENTS_OFF",
+      "ON": "@:BASE.V3.COMMENTS_ON",
+      "ON_EXCEPT": "@:BASE.V3.COMMENTS_ON_EXCEPT",
+      "SHOW_COMMENTS_SUBTITLE": "Du kan själv välja vilka sidor som ska ha kommentarer. Det enklaste är att visa kommentarer för hela din hemsida på en gång.",
+      "SHOW_COMMENTS_TITLE": "Sidor med kommentarer",
+      "TITLE": "@:BASE.V3.COMMENTS_TITLE",
+      "VIEW_PAGE": "@:BASE.V3.COMMENTS_VIEW_PAGE"
+    },
+    "DEFAULT_PAGE_NAME": "Min sida",
+    "DEFAULT_TEXT_IN_TEXTSECTION": {
+      "HEADLINE": "Jag är en styckerubrik",
+      "TEXT": "Jag är ett stycke. Klicka här för att lägga till din egen text och redigera mig. Jag är ett jättebra ställe för dig att berätta din historia på så att dina besökare kan få veta lite mer om dig."
+    },
+    "DELETE": "Radera",
+    "DESIGN_EDITOR": {
+      "BACK": "Tillbaka",
+      "BACKGROUND": "Bakgrund",
+      "BACKGROUNDS": "Bakgrunder",
+      "COLORS": "Färger för hemsida",
+      "FONTS": "Teckensnitt för hemsida",
+      "FREE_LOGOS": "Logotyper",
+      "GO_PRO_BACKGROUNDS_MESSAGE": "Uppgradera till PRO för att använda denna bakgrund",
+      "GO_PRO_MESSAGE_TITLE": "Skaffa PRO",
+      "MORE_BACKGROUNDS": "fler bakgrunder",
+      "MORE_COLORS": "fler färger",
+      "MORE_FONTS": "fler teckensnitt",
+      "MORE_LOGOS": "Fler logotyper",
+      "NO_BACKGROUND": "Ingen bakgrund",
+      "NO_LOGO": "Ingen logotyp",
+      "PRO_BACKGROUNDS": "PRO-bakgrunder",
+      "PRO_FONTS": "PRO-teckensnitt",
+      "PRO_LOGOS": "Premiumlogotyper",
+      "REPLACE_BACKGROUND": "Byt bakgrund",
+      "UPGRADE_TO_PRO": "Uppgradera till PRO",
+      "UPLOAD_BACKGROUND": "Ladda upp bakgrund",
+      "UPLOAD_LOGO": "Ladda upp logotyp",
+      "UPLOAD_YOUR_OWN": "Ladda upp din egen bakgrund (bilden får inte vara större än 5 MB).",
+      "YOUR_OWN_BACKGROUND": "Din egen bakgrund"
+    },
+    "DOMAINBAR": {
+      "CONTACT_TEXT": "Kontakta kundtjänsten",
+      "DOMAIN_STATUS_TEXT": "Du har köpt domännamnet med det är inte aktiverat ännu.",
+      "DOMAIN_STATUS_TEXT_24": "Du har köpt domännamnet för mindre än 24 timmar sedan.",
+      "DOMAIN_STATUS_TEXT_24-48": "Du har köpt domännamnet mellan 24 och 48 timmar sedan.",
+      "DOMAIN_STATUS_TEXT_48-76": "Du har köpt domännamnet mellan 48 och 76 timmar sedan.",
+      "DOMAIN_STATUS_TEXT_76": "Du har köpt domännamnet för mer än 76 timmar sedan."
+    },
+    "ERROR": "Fel",
+    "GOT_IT": "OK, JAG FÖRSTÅR",
+    "HEADLINE_PLACEHOLDER": "@:BASE.V3.HOME_HEADLINE_PLACEHOLDER",
+    "LIVE_WEBSITE": "Live hemsida",
+    "MAINMENU": {
+      "ACCOUNT": "Konto",
+      "ACCOUNT_SETTINGS": "Konto",
+      "ACCOUNT_SETTINGS_TITLE": "Kontoinställningar",
+      "ALL_SET": "Allt är färdigt",
+      "AUTOSAVING": "Sparas automatiskt...",
+      "DESIGN": "Design",
+      "DESIGN_TITLE": "Ändra hemsidesdesign",
+      "EDIT_WEBSITE": "Redigera hemsida",
+      "LIVE_WEBSITE": "@:HOME.LIVE_WEBSITE",
+      "LOGOUT": "Logga ut",
+      "PAGES": "Sidor",
+      "PAGES_TITLE": "Redigera sidor på hemsidan",
+      "PREVIEW_WEBSITE": "Förhandsgranska hemsida"
+    },
+    "MORE": "Mer",
+    "OFFER": {
+      "CLOSE_BUTTON_TEXT": "stäng"
+    },
+    "OK": "OK",
+    "PAGES_OVERVIEW": {
+      "ADD_PAGE": "Lägg till sida",
+      "DELETE_MODAL": {
+        "CANCEL": "@:HOME.CANCEL",
+        "DELETE": "@:HOME.DELETE",
+        "REALLY": "Radera \"{{pageName}}\" sida?",
+        "TITLE": "Radera sida"
+      },
+      "DELETE_PAGE": "Radera",
+      "DELETE_PAGE_TITLE": "Radera sida",
+      "DONE": "Klar",
+      "FIELD_EMPTY": "@:BASE.V3.FIELD_EMPTY",
+      "NEW_PAGE_MODAL": {
+        "ADD": "Lägg till",
+        "ADDRESS_PAGE": "Adress",
+        "ADDRESS_PAGE_TEXT": "Lägg till information om hur man kan kontakta dig",
+        "BLOG": "Blogg",
+        "BLOG_TEXT": "Skriv om dina åsikter, aktiviteter och upplevelser",
+        "CONTACT_ME": "Kontaktsida",
+        "CONTACT_ME_TEXT": "Lägg till en kontaktsida så att besökare kan kontakta dig via email",
+        "GUESTBOOK_PAGE": "Gästbok",
+        "GUESTBOOK_PAGE_TEXT": "Erbjud besökare ett ställe att lämna meddelanden till dig",
+        "PHOTO_ALBUM": "Fotoalbum",
+        "PHOTO_ALBUM_TEXT": "Lägg till bilder och dela dina visuella berättelser",
+        "PLACEHOLDER": "Sidnamn",
+        "STANDARD_PAGE": "Tom",
+        "STANDARD_PAGE_TEXT": "Skapa en sida precis som du vill ha den",
+        "TITLE": "Lägg till ny sida",
+        "WEBSHOP": "Webbutik",
+        "WEBSHOP_TEXT": "Sälj dina produkter online"
+      },
+      "NOPAGES_1": "Det finns inga sidor,",
+      "NOPAGES_2": "lägg till en!",
+      "PAGE_MANAGE_WEBSHOP": "Administrera",
+      "PAGE_NAME_EMPTY": "@:BASE.V3.PAGE_NAME_EMPTY",
+      "PAGE_OPTIONS": "Sidalternativ",
+      "RENAME_PAGE": "Byt namn",
+      "RENAME_PAGE_TITLE": "Byt namn på sida",
+      "REORDER_PAGE": "Sortera om",
+      "REORDER_PAGE_TITLE": "Sortera om sida",
+      "TITLE": "@:HOME.MAINMENU.PAGES",
+      "UPDATE_MODAL": {
+        "CHANGE_TITLE": "Byt namn på din sida",
+        "OK": "@:HOME.OK"
+      }
+    },
+    "PARAGRAPH_PLACEHOLDER": "Add paragraph text",
+    "PERSONAL_INFO_MODAL": {
+      "MISSING_EMAIL": "@:BASE.V3.CHANGE_PERSONAL_INFO_VALIDATION_MISSING_EMAIL",
+      "MISSING_URL": "@:BASE.V3.CHANGE_PERSONAL_INFO_EMPTY_URL"
+    },
+    "PITCHBOX_BLUE": {
+      "BUTTON": "fortsätt",
+      "HEADER": "begränsat erbjudande",
+      "LINE": "Väl ledigt domännamn"
+    },
+    "PREVIEW": {
+      "ADD_IMAGE_MODAL": {
+        "CATEGORY": "Alla",
+        "CATEGORY_LABEL": "Kategori",
+        "TIP": "Tips! Du kan filtrera bilderna genom att välja en kategori",
+        "TITLE": "Välj bild",
+        "UPLOAD_BUTTON": "Ladda upp"
+      },
+      "ADD_SECTION_MODAL": {
+        "TITLE": "Lägg till innehåll"
+      },
+      "COLUMNS_SECTION": {
+        "DESCRIPTION_PLACEHOLDER": "Lägg till beskrivning",
+        "HEADLINE_PLACEHOLDER": "Lägg till spaltrubrik",
+        "SELECT_PAGE_OPTION": "Välj en sida",
+        "THREE_COLUMNS": "3 spalter",
+        "TWO_COLUMNS": "2 spalter"
+      },
+      "COMMENTS_BOX": {
+        "ADD_COMMENT_BUTTON": "@:BASE.V3.COMMENTS_BOX_ADD_COMMENT_BTN",
+        "CHECKBOX_TEXT": "@:BASE.V3.COMMENTS_BOX_CHECKBOX",
+        "EMAIL_PLACEHOLDER_TEXT": "@:BASE.V3.CONTACTME_TBXYOUREMAIL",
+        "GOT_IT": "@:HOME.GOT_IT",
+        "INFOTEXT1": "Det här är kommentarsdelen för den här sidan. Här kan dina besökare skriva kommentarer på din webbplats.",
+        "INFOTEXT2": "Kommentarer är ett jättebra sätt för dig att få feedback av dina besökare. Det är bara du som kan se meddelanden du får via mail medan kommentarerna kan ses av alla besökare.",
+        "INFOTEXT3": "Gå till din [livewebsite] eller dina kommentarsinställningar '[@:HOME.MAINMENU.ACCOUNT]' för att se vilka kommentarer dina besökare redan har skrivit. I de här inställningarna kan du även granska och radera kommentarer och stänga på och av kommentarer på olika sidor på din webbplats.",
+        "INFOTEXT_TEASER": "Det här är kommentarsdelen för den här sidan. Här kan dina besökare skriva kommentarer på din webbplats.",
+        "LIVE_WEBSITE": "@:HOME.LIVE_WEBSITE",
+        "MORE": "@:HOME.MORE",
+        "NAME_PLACEHOLDER_TEXT": "@:BASE.V3.CONTACTME_TBXYOURNAME",
+        "TEXT_AREA_PLACEHOLDER_TEXT": "@:BASE.V3.CONTACTME_TBXYOURMESSAGE",
+        "TITLE": "@:BASE.V3.COMMENTS_BOX_TITLE"
+      },
+      "CONTACT_ME": {
+        "FORM_BUTTON": "Skicka - klicka här!",
+        "FORM_EMAIL": "@:BASE.V3.CONTACTME_TBXYOUREMAIL",
+        "FORM_HEADLINE": "Skriv ditt meddelande här. Fyll i formuläret:",
+        "FORM_MESSAGE": "@:BASE.V3.CONTACTME_TBXYOURMESSAGE",
+        "FORM_NAME": "@:BASE.V3.CONTACTME_TBXYOURNAME",
+        "GOT_IT": "@:HOME.GOT_IT",
+        "INFOTEXT1": "Det här är en kontaktsida. På den här sidan kan dina besökare kontakta dig via mail.",
+        "INFOTEXT2": "Skriv ett kort meddelande till dina besökare längst upp på sidan. Innan de skriver till dig behöver dina besökare oftast veta",
+        "INFOTEXT3": "Vad de ska skriva till dig om",
+        "INFOTEXT4": "Hur lång tid det brukar ta innan du svarar",
+        "INFOTEXT5": "Om det finns andra sätt att komma i kontakt med dig (t ex via telefon eller sociala medier)",
+        "INFOTEXT_TEASER": "Den här sidan är en kontaktsida. På den här sidan kan dina besökare skicka ett mail till dig. Mailet skickas direkt till din inkorg så att du kan svara direkt.",
+        "MORE": "@:HOME.MORE",
+        "RECIEVED_MESSAGES_BUTTON": "Visa mottagna meddelanden",
+        "TEXT_PLACEHOLDER": "@:HOME.PARAGRAPH_PLACEHOLDER",
+        "TITLE_PLACEHOLDER": "@:HOME.HEADLINE_PLACEHOLDER"
+      },
+      "CREATE": {
+        "BUTTON": "Ta bort annonser med PRO",
+        "TEXT": "Vi använder detta utrymme för en liten SimpleSite-annons, så din webbplats kan förbli helt gratis.",
+        "TITLE": "Din webbplats är gratis"
+      },
+      "DELETE_MODAL": {
+        "DELETE": "@:HOME.DELETE",
+        "DELETE_TITLE": "Radera innehåll",
+        "NAH": "@:HOME.PAGES_OVERVIEW.DELETE_MODAL.REALLY_NAH",
+        "REALLY": "Radera detta innehåll på din sida?",
+        "YEAH": "@:HOME.PAGES_OVERVIEW.DELETE_MODAL.REALLY_YEAH"
+      },
+      "FOOTER": {
+        "FREEMIUM": {
+          "LINK": "Skaffa en egen hemsida UTAN KOSTNAD. Klicka här!",
+          "TEXT": "Denna hemsida har skapats med SimpleSite"
+        },
+        "PAYING": {
+          "TEXT": "Skapad med SimpleSite"
+        }
+      },
+      "HERO_SECTION": {
+        "CTA_OPTIONS": {
+          "CTA_LINK_LABEL": "Vad ska knappen länka till?",
+          "CTA_TEXT_LABEL": "Vad ska det stå på knappen? (Exempel: ‘Läs mer’, ‘Kontakta oss’)",
+          "TITLE": "Knapp inställningar"
+        },
+        "CTA_PLACEHOLDER": "Klicka på mig",
+        "HEADLINE_PLACEHOLDER": "Rubrik",
+        "INCLUDE_BUTTON": "Inkludera knapp",
+        "LINK_DEFAULT_OPTION": "Länka till",
+        "TEXT_PLACEHOLDER": "Det här är en paragraf. Klicka här för att lägga till din egen text och redigera paragrafen. Det här är rätt ställe att skriva lite mera om dig själv och introducera hemsidan för dina besökare.",
+        "UPLOAD_IMAGE": "@:HOME.PREVIEW.SS_IMAGE.UPLOAD_IMAGE"
+      },
+      "MENU": {
+        "DESKTOP": {
+          "MORE": "MER"
+        },
+        "MOBILE": {
+          "MORE": "Sidlista"
+        }
+      },
+      "NEWS_SECTION": {
+        "ADDNEWS": "lägg till nyheter",
+        "ADD_NEWS_PLACEHOLDER": "Lägg till rubrik för anslagstavla",
+        "CANCEL": "avbryt",
+        "DELETE": "radera nyheter",
+        "DESCRIPTION_PLACEHOLDER": "Lägg till text",
+        "LINK": "ingen länk",
+        "NEWS_HEADLINE_PLACEHOLDER": "Lägg till rubrik",
+        "SAVE": "spara"
+      },
+      "PHOTO_ALBUM": {
+        "FILE_NOT_UPLOADED": "En av dina filer laddades inte upp",
+        "PHOTO_CAPTION": "Lägg till beskrivning",
+        "SHOW_SLIDESHOW": "Visa bildspel på sida",
+        "TITLE_PLACEHOLDER": "Skriv en titel",
+        "TRANSITIONS": {
+          "CUBIC": "Kubisk",
+          "FADE": "In- och uttoning",
+          "RANDOM": "Slumpmässig",
+          "SLIDE": "vattenglidbana",
+          "STRIPE": "Randig",
+          "UPDOWN": "Upp/ned"
+        },
+        "UPLOAD_IMAGES": "Ladda upp bilder"
+      },
+      "SECTIONS": {
+        "ADD_SECTION_TEXT": "Lägg till innehåll",
+        "COLUMNS": "Spalter",
+        "HERO": "Poster",
+        "NEWS": "Nyheter",
+        "PHOTO": "Bild",
+        "SIGNATURE": "Underskrift",
+        "SLIDESHOW": "Bildspel",
+        "TEXT": "Text",
+        "VIDEO": "Video"
+      },
+      "SELECT_IMAGE_MODAL": {
+        "LIBRARY_BUTTON": "Från bibliotek",
+        "LIBRARY_BUTTON_TEXT": "Använd en bild från vårt gratisbibliotek av högkvalitativa bilder",
+        "OUTTRO": "Tips! Du kan alltid ändra bild senare om du vill",
+        "TITLE": "Välj en bild du vill använda",
+        "UPLOAD_BUTTON": "Ladda upp",
+        "UPLOAD_BUTTON_TEXT": "Ladda upp din egen bild"
+      },
+      "SHARE": {
+        "COPY_CLIPBOARD": "Kopiera till urklipp",
+        "FACEBOOK": "Dela på Facebook",
+        "GOOGLEPLUS": "Dela på Google+",
+        "MAIL_BODY": "Jag har precis uppdaterat min hemsida på [livewebsite]",
+        "MAIL_SUBJECT": "Kolla in min hemsida",
+        "SHARE": "Dela",
+        "SOCIAL_MEDIA": "Dela din hemsida",
+        "TITLE": "Dela denna sida",
+        "TWITTER": "Dela på Twitter",
+        "URL_LABEL": "Din hemsidesadress"
+      },
+      "SIGNATURE_SECTION": {
+        "REGARDS_TEXT_PLACEHOLDER": "Med vänlig hälsning",
+        "SIGNATURE_PREVIEW_TEXT": "Underskrift",
+        "SIGNATURE_TEXT_PLACEHOLDER": "Underskrift"
+      },
+      "SLIDESHOW_SECTION": {
+        "ADD_CAPTION_PLACEHOLDER": "Lägg till bildtext",
+        "ERR_FINISH_EDITING": "Bearbetar redigering eller uppladdning av bilden!",
+        "ERR_MAX_SLIDESHOW_NUMBER": "Max antal sidor: ",
+        "HEADLINE_IMAGE_PLACEHOLDER": "Lägg till bildrubrik",
+        "HEADLINE_SELECT": "Rubriklänk",
+        "TRANSITION_CUBIC": "Kubisk",
+        "TRANSITION_FADE": "In- och uttoning",
+        "TRANSITION_RANDOM": "Random",
+        "TRANSITION_SELECT_DEFAULT": "Övergångar",
+        "TRANSITION_SLIDE": "vattenglidbana",
+        "TRANSITION_STRIPE": "Randig",
+        "TRANSITION_TITLE_TEXT": "övergångstyp",
+        "TRANSITION_UPDOWN": "Upp/ned",
+        "UPLOAD_TEXT": "ladda upp bilder"
+      },
+      "SS_IMAGE": {
+        "CAPTION": "Bildtext",
+        "CHANGE_IMAGE": "@:BASE.V3.CHANGE_IMAGE",
+        "DONE": "Klar",
+        "REPLACE_IMAGE": "Ersätt bild",
+        "SELECT_IMAGE": "Välj bild",
+        "UPLOAD_IMAGE": "Ladda upp bild",
+        "WRONG_FILETYPE": "Felaktigt filformat. Ladda upp en bildfil."
+      },
+      "SS_TEXTEDITOR": {
+        "ADD_TEXT": "Lägg till text",
+        "PLACEHOLDER": "Klicka för att lägga till text",
+        "RESET_STYLES": "Återställ stil",
+        "SWIPE_TEXT": "Svep för mer"
+      },
+      "UPGRADE_TO_PRO_MODAL": {
+        "UPGRADE_TO_PRO": "Uppgradera till PRO",
+        "UPGRADE_TO_PRO_DIMMED_TEXT": "Du försöker spara PRO-funktioner",
+        "UPGRADE_TO_PRO_TEXT_1": "PRO-funktioner, som den du precis har valt, är endast tillgängliga i SimpleSite PRO.",
+        "UPGRADE_TO_PRO_TEXT_2": "SimpleSite PRO erbjuder fler designfunktioner och tar bort alla SimpleSite-annonser och -varumärken från din hemsida. Du kan även ha ditt eget personliga domännamn med SimpleSite PRO.",
+        "UPGRADE_TO_PRO_TEXT_3": "Testa SimpleSite PRO gratis i 14 dagar, utan att förbinda dig till något.",
+        "UPGRADE_TO_PRO_TEXT_4": "Mycket nöje!"
+      },
+      "VIDEO_SECTION": {
+        "ADD_URL_PLACEHOLDER": "Ange video-URL",
+        "ADD_VIDEO": "Lägg till video",
+        "AVAILABLE_SHORTLY": "Videon kommer att vara tillgänglig inom kort.",
+        "BROWSE": "Bläddra",
+        "NO_URL_IN_EXTERNAL_INPUT": "Ingen URL angiven. Ange en YouTube- eller Vimeo-URL.",
+        "OR": "Eller",
+        "PROCESSING_VIDEO": "Vi bearbetar din video. Du kommer att kunna visa ditt videoklipp alldeles strax.",
+        "TEXT_PLACEHOLDER": "Lägg till videobeskrivning",
+        "TITLE_PLACEHOLDER": "Lägg till videorubrik",
+        "WRONG_FILETYPE": "Filformatet stöds ej. Ladda upp en videofil.",
+        "WRONG_URL": "Felaktig URL. Ange en YouTube- eller Vimeo-URL."
+      },
+      "WEBSHOP": {
+        "TEST_OR_EDIT": {
+          "EDIT_BUTTON": "Redigera produktlista",
+          "TEST_BUTTON": "Visa butik live",
+          "TITLE": "Vad vill du göra nu?"
+        }
+      }
+    },
+    "PREVIEW_SITE_URL": {
+      "GOTIT": "@:HOME.GOT_IT",
+      "HEADER": "Det här är hemsidans adress"
+    },
+    "PRIMERS": {
+      "CLOSE": "Stäng",
+      "COLUMNS": {
+        "TEXT": "Du lägger till \"Spalter\" till din hemsida. Observera att spalter endast visas i datorversionen av din hemsida. På den mobilanpassade versionen presenteras allt i en spalt.",
+        "TITLE": "Lägg till spalter"
+      },
+      "CONTINUE": "Fortsätt",
+      "NEWS": {
+        "TEXT": "Nyheter är den plats där du kan skriva senaste nytt eller uppdateringar på din hemsida.",
+        "TITLE": "Lägg till nyheter"
+      }
+    },
+    "REMOVEADSPLASH": {
+      "CLOSE": "@:HOME.OFFER.CLOSE_BUTTON_TEXT"
+    },
+    "SALESPITCHBAR": {
+      "BUTTON_BUY_TEXT": "köp nu",
+      "CHANGE_IT_TO": "Ändra detta till",
+      "WEBSITE_AVAILABLE_AT": "Hemsida tillgänglig på"
+    },
+    "SALESPITCHBOX": {
+      "BUTTON_TEXT": "Läs mer",
+      "FREE_PLAN": "Din nuvarande prenumeration är GRATIS"
+    },
+    "SOME_EXPERIMENT_ONLY_IN_ENGLISH": {
+      "TEXT1": "Detta är text 1",
+      "TEXT2": "Detta är text 2"
+    },
+    "TOO_LONG_INPUT": "Sidans titel kan inte vara längre än 20 tecken. Vänligen pröva med en kortare titel.",
+    "WELCOME": {
+      "BODYTEXT1": "Din hemsida för {BUSINESSNAME} är klar.",
+      "BODYTEXT2": "Vi har lagt till innehåll och en design skräddarsydd för ditt företag så att du ska få den bästa möjliga start online.",
+      "BODYTEXT3": "Din hemsida har följande sidor:",
+      "BODYTEXT4": "Du kan redigera, anpassa och lägga till så mycket innehåll du vill.",
+      "CLOSE_BUTTON_TEXT": "Stäng",
+      "HEADER": "Välkommen till SimpleSite. Du har en hemsida!",
+      "OK_BUTTON_TEXT": "Ok, kom igång!"
+    }
+  }
+}

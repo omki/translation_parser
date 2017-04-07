@@ -1,0 +1,21 @@
+{
+  "LOGIN": {
+    "LOGIN_BUTTON": {
+      "ACTIVE": "Logger ind",
+      "TEXT": "Log ind"
+    },
+    "NEW": "Ny hos SimpleSite? Opret en konto",
+    "PASSWORD": {
+      "LABEL": "Adgangskode",
+      "MAXLENGTH": "den adgangskode er for lang",
+      "MINLENGTH": "din adgangskode er for kort",
+      "REQUIRED": "glem ikke adgangskode"
+    },
+    "SORRY": "Desværre  :(",
+    "TITLE": "Log ind",
+    "USERNAME": {
+      "LABEL": "Brugernavn",
+      "REQUIRED": "Fortæl os dit brugernavn"
+    }
+  }
+}

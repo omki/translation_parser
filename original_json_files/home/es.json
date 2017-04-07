@@ -1,0 +1,559 @@
+{
+  "HOME": {
+    "ACCOUNT": {
+      "CHANGE": "Cambiar",
+      "COMMENTS_DISABLED": "Comentarios no está habilitado",
+      "COMMENTS_ENABLED": "Comentarios está habilitado",
+      "CONTACT": "Contacto",
+      "COUNTER": "Contador",
+      "CURRENT_PLAN": "Plan actual",
+      "CURRENT_PLAN_LABEL_FREE": "Tu web está en el plan GRATUITO",
+      "CURRENT_PLAN_LABEL_PRO": "Tu web está en el plan PRO",
+      "EMAIL": "Servicio de correo electrónico",
+      "EMAIL2": "Correo electrónico",
+      "ENABLE": "Habilitar",
+      "GUIDES": "Guías",
+      "GUIDES_LABEL": "Guías paso a paso para comenzar",
+      "HELP_AND_SUPPORT": "Ayuda y soporte",
+      "INFORMATION": "Tu información",
+      "LANGUAGE": "Idioma",
+      "LEARN_MORE": "Más información",
+      "LOGOUT": "@:HOME.MAINMENU.LOGOUT",
+      "MANAGE": "Gestionar",
+      "MORE_SPACE": "Obtener más espacio",
+      "PASSWORD": "Contraseña",
+      "PERSONAL": "Personal",
+      "PERSONAL_INFORMATION": "Información Personal",
+      "SHARE_WIDGET": "Compartir widget",
+      "SHOW_COUNTER": "Mostrar recuento de visitantes",
+      "SHOW_SHARE_WIDGET": "Mostrar uso compartido de widget en el sitio web",
+      "SIDEBAR_TITLE": "@:HOME.MAINMENU.ACCOUNT_SETTINGS",
+      "SUBSCRIPTION": "Su suscripción",
+      "SUBSCRIPTION_STATUS": "Estado de la suscripción",
+      "UPGRADE": "Mejorar a PRO",
+      "USERNAME": "Nombre de usuario",
+      "VISITORS": "Visitantes",
+      "VISITORS_COUNT": "Visitas a tu sitio web",
+      "VISITOR_COMMENTS": "Comentarios del visitante",
+      "WEBSITE_CONTROLS": "Controles del sitio web",
+      "WEBSITE_NAME": "Nombre del sitio web",
+      "WEBSITE_NAME2": "Nombre del sitio web"
+    },
+    "ADDRESS": {
+      "ADDRESS": "Dirección:",
+      "ADDRESS_PLACEHOLDER": "Añadir dirección",
+      "EMAIL": "Correo electrónico*:",
+      "EMAIL_INVALID": "Error de correo electrónico",
+      "EMAIL_INVALID_MESSAGE": "Mensaje de correo electrónico no válido o vacío",
+      "EMAIL_PLACEHOLDER": "Añadir correo electrónico",
+      "ENTER_BUBBLETEXT": "Introduzca texto en la burbuja",
+      "ENTER_LOCATION": "Introduzca una ubicación",
+      "OPENING_HOURS": "Horario de apertura:",
+      "OPENING_HOURS_PLACEHOLDER": "Añadir horario de apertura",
+      "OPENING_HOURS_TITLE": "Título del horario de apertura:",
+      "OPENING_HOURS_TITLE_PLACEHOLDER": "Añadir encabezado del horario de apertura",
+      "PAGE_TITLE": "Título de la página:",
+      "PAGE_TITLE_PLACEHOLDER": "Añadir encabezado de página",
+      "PARAGRAPH_TEXT": "Texto de párrafo:",
+      "PARAGRAPH_TITLE": "Título de párrafo:",
+      "PARAGRAPH_TITLE_PLACEHOLDER": "Añadir encabezado",
+      "PHONE_INVALID": "Error en el número de teléfono",
+      "PHONE_INVALID_MESSAGE": "Número de teléfono no válido o vacío",
+      "SHOW_BUBBLE": "Ver burbuja",
+      "SHOW_MAP": "Ver mapa",
+      "TELEPHONE": "Tel *:",
+      "TELEPHONE_PLACEHOLDER": "Añadir número de teléfono",
+      "TITLE": "Título:",
+      "TITLE_PLACEHOLDER": "Añadir título"
+    },
+    "CANCEL": "Cancelar",
+    "CHANGE_PASSWORD_MODAL": {
+      "INTRO": "Aquí puedes cambiar tu contraseña. Rellena los recuadros de abajo.",
+      "TITLE": "Cambiar tu contraseña"
+    },
+    "CHOOSEADDRESS": {
+      "BUTTON_CLOSE_TEXT": "cerrar",
+      "BUTTON_CONTINUE_TEXT": "siguiente",
+      "GO_BUTTON_1": "ELIJA",
+      "GO_BUTTON_2": "@:HOME.CHOOSEADDRESS.GO_BUTTON_1",
+      "GO_BUTTON_3": "@:HOME.CHOOSEADDRESS.GO_BUTTON_1",
+      "GREAT_DEAL": "GRAN OFERTA",
+      "NOT_VALID_DOMAIN": "No se pueden utilizar caracteres especiales ni espacios en un nombre de dominio.",
+      "TITLE": "Enhorabuena, se creó su sitio web "
+    },
+    "CLOSE": "Cerrar",
+    "COMMENTS_MANAGE": {
+      "BLOCKED_TIP": "¿Has bloqueado a algún visitante para que no pueda escribir comentarios en tu página web?",
+      "INTRO2_TIP": "¿Quieres cambiar los parámetros para tus comentarios?",
+      "INTRO_TIP": "Puedes responder fácilmente a un comentario clicando en \"Ver página\" en el comentario. Así puedes responder directamente desde la página donde se ha publicado el comentario. RECUERDA: Si un visitante escribe algo desagradable, puedes borrar fácilmente el comentario. Si quieres bloquear por completo todos los comentarios de un visitante en tu página web, debes clicar en \"Eliminar y bloquear\".",
+      "INTRO_TITLE": "Aquí puedes ver los últimos comentarios de tu página web.",
+      "NO_COMMENTS": "Todavía no has recibido ningún comentario."
+    },
+    "COMMENTS_SETTINGS": {
+      "APPROVE_COMMENTS": "@:BASE.V3.COMMENTS_WITH_APPROVAL",
+      "APPROVE_SUBTITLE": "Puedes aprobar los comentarios antes de que publiquen en tu página web.",
+      "APPROVE_TITLE": "Aprueba comentarios",
+      "DONOT_APPROVE": "@:BASE.V3.COMMENTS_NO_APPROVAL",
+      "EMAIL_SUBTITLE": "¿Quieres recibir un correo electrónico cuando tengas un comentario en tu página web?",
+      "EMAIL_TITLE": "Mensajes de correo electrónico",
+      "NOTIFY_ON_MAIL": "@:BASE.V3.COMMENTS_NOTIFY_YES",
+      "NO_NOTIFY": "@:BASE.V3.COMMENTS_NOTIFY_NO",
+      "OFF": "@:BASE.V3.COMMENTS_OFF",
+      "ON": "@:BASE.V3.COMMENTS_ON",
+      "ON_EXCEPT": "@:BASE.V3.COMMENTS_ON_EXCEPT",
+      "SHOW_COMMENTS_SUBTITLE": "Tú decides en qué páginas debe haber comentarios. Lo más fácil es visualizar a la vez los comentarios de toda tu página web.",
+      "SHOW_COMMENTS_TITLE": "Páginas con comentarios",
+      "TITLE": "@:BASE.V3.COMMENTS_TITLE",
+      "VIEW_PAGE": "@:BASE.V3.COMMENTS_VIEW_PAGE"
+    },
+    "DEFAULT_PAGE_NAME": "Mi página",
+    "DEFAULT_TEXT_IN_TEXTSECTION": {
+      "HEADLINE": "Soy un encabezado de párrafo",
+      "TEXT": "Soy un párrafo. Haz clic aquí para añadir tu propio texto y modificarme. Soy un gran lugar para que cuentes tu historia y que tus visitantes te conozcan un poco mejor."
+    },
+    "DELETE": "Borrar",
+    "DESIGN_EDITOR": {
+      "BACK": "Atrás",
+      "BACKGROUND": "Fondo de página",
+      "BACKGROUNDS": "Fondos de página",
+      "COLORS": "Colores del sitio web",
+      "DESIGN": "Plano",
+      "DESIGN_1": "Plano 1",
+      "DESIGN_2": "Plano 2",
+      "DESIGN_3": "Plano 3",
+      "DESIGN_HEADER": "Plano de pagina",
+      "FONTS": "Fuentes del sitio web",
+      "FREE_LOGOS": "Logotipos",
+      "GO_PRO_BACKGROUNDS_MESSAGE": "Mejorar a pro para utilizar este fondo",
+      "GO_PRO_MESSAGE_TITLE": "Mejorar a pro",
+      "MORE_BACKGROUNDS": "más fondos de página",
+      "MORE_COLORS": "más colores",
+      "MORE_DESIGNS": "Más planos",
+      "MORE_FONTS": "más fuentes",
+      "MORE_LOGOS": "Más logotipos",
+      "NO_BACKGROUND": "Sin fondo de página",
+      "NO_LOGO": "Sin logotipo",
+      "PRO_BACKGROUNDS": "Fondos de página pro",
+      "PRO_FONTS": "Fuentes pro",
+      "PRO_LOGOS": "Logotipos pro",
+      "REPLACE_BACKGROUND": "Cambiar el fondo",
+      "UPGRADE_TO_PRO": "Mejorar a PRO",
+      "UPLOAD_BACKGROUND": "Subir fondo de página",
+      "UPLOAD_LOGO": "Subir logotipo",
+      "UPLOAD_YOUR_OWN": "Suba su propio fondo de página (la imagen no puede ocupar más de 5 MB).",
+      "YOUR_OWN_BACKGROUND": "Su propio fondo de página"
+    },
+    "DOMAINBAR": {
+      "CONTACT_TEXT": "Contacta a atención al cliente",
+      "DOMAIN_STATUS_TEXT": "Tu dominio ya ha sido comprador pero todavía no está activo.",
+      "DOMAIN_STATUS_TEXT_24": "Compraste el dominio hace menos de 24 horas.",
+      "DOMAIN_STATUS_TEXT_24-48": "Han pasado de 24 a 48 horas desde que compraste el dominio.",
+      "DOMAIN_STATUS_TEXT_48-76": " Han pasado de 48 a 76 horas desde que compraste el dominio.",
+      "DOMAIN_STATUS_TEXT_76": " Compraste el dominio hace más de 76 horas."
+    },
+    "DONE": "Completado",
+    "ERROR": "Error",
+    "GOT_IT": "MUY BIEN, ENTENDIDO",
+    "HEADLINE_PLACEHOLDER": "@:BASE.V3.HOME_HEADLINE_PLACEHOLDER",
+    "LIVE_WEBSITE": "Sitio web en vivo",
+    "MAINMENU": {
+      "ACCOUNT": "Cuenta",
+      "ACCOUNT_SETTINGS": "Cuenta",
+      "ACCOUNT_SETTINGS_TITLE": "Configuración de la cuenta",
+      "ALL_SET": "Todo listo",
+      "AUTOSAVING": "Guardando ...",
+      "DESIGN": "Diseño",
+      "DESIGN_TITLE": "Modificar el diseño del sitio web",
+      "EDIT_WEBSITE": "Modificar el sitio web",
+      "LIVE_WEBSITE": "@:HOME.LIVE_WEBSITE",
+      "LOGOUT": "Finalizar sesión",
+      "PAGES": "Páginas",
+      "PAGES_TITLE": "Editar las páginas del sitio web",
+      "PREVIEW_WEBSITE": "Vista preliminar del sitio web"
+    },
+    "MORE": "Más",
+    "OFFER": {
+      "CLOSE_BUTTON_TEXT": "cerrar"
+    },
+    "OK": "Aceptar",
+    "PAGES_OVERVIEW": {
+      "ADD": "Añadir",
+      "ADD_PAGE": "Añadir",
+      "DELETE_MODAL": {
+        "CANCEL": "@:HOME.CANCEL",
+        "DELETE": "@:HOME.DELETE",
+        "REALLY": "¿Deseas borrar la página \"{{pageName}}\"?",
+        "TITLE": "Borrar página"
+      },
+      "DELETE_PAGE": "Borrar",
+      "DELETE_PAGE_TITLE": "Borrar página",
+      "DONE": "@:HOME.DONE",
+      "FIELD_EMPTY": "@:BASE.V3.FIELD_EMPTY",
+      "NEW_PAGE_MODAL": {
+        "ADD": "Añadir",
+        "ADDRESS_PAGE": "Dirección",
+        "ADDRESS_PAGE_TEXT": "Añade tu información de contacto",
+        "BLOG": "Blog",
+        "BLOG_TEXT": "Escribe sus opiniones, actividades y experiencias ",
+        "CONTACT_ME": "Página de contacto",
+        "CONTACT_ME_TEXT": "Agrega tu página de contacto para que las personas se comuniquen contigo por email ",
+        "GUESTBOOK_PAGE": "Libro de visitas",
+        "GUESTBOOK_PAGE_TEXT": "Ofrezca a sus visitantes un lugar donde dejarle mensajes",
+        "PHOTO_ALBUM": "Álbum de fotos",
+        "PHOTO_ALBUM_TEXT": "Añade imágenes y comparte tus historias visuales",
+        "PLACEHOLDER": "Nombre de la página",
+        "STANDARD_PAGE": "Vacía",
+        "STANDARD_PAGE_TEXT": "Crea una página como lo desees",
+        "TITLE": "Añadir página nueva",
+        "WEBSHOP": "Tienda virtual",
+        "WEBSHOP_TEXT": "Vende tus productos en línea"
+      },
+      "NOPAGES_1": "No hay páginas,",
+      "NOPAGES_2": "añada una.",
+      "PAGE_MANAGE_WEBSHOP": "Gestionar",
+      "PAGE_NAME_EMPTY": "@:BASE.V3.PAGE_NAME_EMPTY",
+      "PAGE_OPTIONS": "Opciones de página",
+      "RENAME_PAGE": "Cambiar nombre",
+      "RENAME_PAGE_TITLE": "Cambiar nombre de la página",
+      "REORDER_PAGE": "Reordenar",
+      "REORDER_PAGE_TITLE": "Reordenar página",
+      "TITLE": "@:HOME.MAINMENU.PAGES",
+      "UPDATE_MODAL": {
+        "CHANGE_TITLE": "Cambiar nombre de la página",
+        "OK": "@:HOME.OK"
+      }
+    },
+    "PARAGRAPH_PLACEHOLDER": "Añade un párrafo",
+    "PERSONAL_INFO_MODAL": {
+      "MISSING_EMAIL": "@:BASE.V3.CHANGE_PERSONAL_INFO_VALIDATION_MISSING_EMAIL",
+      "MISSING_URL": "@:BASE.V3.CHANGE_PERSONAL_INFO_EMPTY_URL"
+    },
+    "PITCHBOX_BLUE": {
+      "BUTTON": "siguiente",
+      "HEADER": "oferta limitada",
+      "LINE": "Elija un nombre de dominio "
+    },
+    "PREVIEW": {
+      "ADD_IMAGE_MODAL": {
+        "CATEGORIES": {
+          "ANIMALS": "Animales",
+          "FASHION": "Moda",
+          "FOOD": "Comida",
+          "FUN": "Diversión",
+          "KIDS": "Infantil",
+          "LOVE": "Amor",
+          "NATURE": "Naturaleza",
+          "OBJECTS": "Cosas",
+          "SCENERY": "Paisajes",
+          "WORK": "Trabajo"
+        },
+        "CATEGORY": "Todas",
+        "CATEGORY_LABEL": "Categoría",
+        "TIP": "Consejo: Puedes filtrar las imágenes seleccionando una categoría",
+        "TITLE": "Seleccionar imagen",
+        "UPLOAD_BUTTON": "Subir"
+      },
+      "ADD_SECTION_MODAL": {
+        "TITLE": "Añadir contenido"
+      },
+      "COLUMNS_SECTION": {
+        "DESCRIPTION_PLACEHOLDER": "Añadir descripción ",
+        "HEADLINE_PLACEHOLDER": "Añadir encabezado de columna",
+        "SELECT_PAGE_OPTION": "Seleccionar una página",
+        "THREE_COLUMNS": "3 columnas",
+        "TWO_COLUMNS": "2 columnas"
+      },
+      "COMMENTS_BOX": {
+        "ADD_COMMENT_BUTTON": "@:BASE.V3.COMMENTS_BOX_ADD_COMMENT_BTN",
+        "CHECKBOX_TEXT": "@:BASE.V3.COMMENTS_BOX_CHECKBOX",
+        "EMAIL_PLACEHOLDER_TEXT": "@:BASE.V3.CONTACTME_TBXYOUREMAIL",
+        "GOT_IT": "@:HOME.GOT_IT",
+        "INFOTEXT1": "Ésta es la sección de comentarios de esta página. Aquí, los visitantes pueden dejar comentarios sobre tu sitio web.",
+        "INFOTEXT2": "Los comentarios son una manera extraordinaria de conocer las sugerencias de tus visitantes. A diferencia del correo electrónico, los comentarios no sólo los ves tú sino también otros visitantes.",
+        "INFOTEXT3": "Vete a [livewebsite] o a ajustes de comentarios en la pestaña '[@:HOME.MAINMENU.ACCOUNT]' para ver qué comentarios han añadido ya tus visitantes. También puedes revisar y eliminar comentarios en estos ajustes, e incluso activar o desactivar comentarios sobre páginas concretas en tu sitio web.",
+        "INFOTEXT_TEASER": "Ésta es la sección de comentarios de esta página. Aquí, los visitantes pueden dejar comentarios sobre tu sitio web.",
+        "LIVE_WEBSITE": "@:HOME.LIVE_WEBSITE",
+        "MORE": "@:HOME.MORE",
+        "NAME_PLACEHOLDER_TEXT": "@:BASE.V3.CONTACTME_TBXYOURNAME",
+        "TEXT_AREA_PLACEHOLDER_TEXT": "@:BASE.V3.CONTACTME_TBXYOURMESSAGE",
+        "TITLE": "@:BASE.V3.COMMENTS_BOX_TITLE"
+      },
+      "CONTACT_ME": {
+        "FORM_BUTTON": "Enviar - ¡Haz clic aquí!",
+        "FORM_EMAIL": "@:BASE.V3.CONTACTME_TBXYOUREMAIL",
+        "FORM_HEADLINE": "Escribe tu mensaje aquí. Cumplimenta el formulario:",
+        "FORM_MESSAGE": "@:BASE.V3.CONTACTME_TBXYOURMESSAGE",
+        "FORM_NAME": "@:BASE.V3.CONTACTME_TBXYOURNAME",
+        "GOT_IT": "@:HOME.GOT_IT",
+        "INFOTEXT1": "Ésta es una página de contacto. Esta página permite a tus visitantes enviarte un email para contactarte.",
+        "INFOTEXT2": "Asegúrate de escribir un mensaje corto para tus visitantes en la parte superior de la página. Antes de escribirte, a menudo ellos quieren saber:",
+        "INFOTEXT3": "¿Sobre qué tema deberían escribirte?",
+        "INFOTEXT4": "¿Cuánto tiempo sueles tomar en responderles?",
+        "INFOTEXT5": "¿De qué otras formas te pueden contactar? (por ejemplo por teléfono o redes sociales)",
+        "INFOTEXT_TEASER": "Esta página es una Página de contacto. Esta página permite a los visitantes enviarte un correo electrónico. El correo electrónico irá directamente a tu bandeja de entrada, para que puedas responder de inmediato.",
+        "MORE": "@:HOME.MORE",
+        "RECIEVED_MESSAGES_BUTTON": "Ver mensajes recibidos",
+        "TEXT_PLACEHOLDER": "@:HOME.PARAGRAPH_PLACEHOLDER",
+        "TITLE_PLACEHOLDER": "@:HOME.HEADLINE_PLACEHOLDER"
+      },
+      "CREATE": {
+        "BUTTON": "Elimina anuncios con PRO",
+        "TEXT": "Vamos a utilizar este espacio para un pequeño anuncio de SimpleSite. Así tu sitio web puede seguir siendo completamente gratuito.",
+        "TITLE": "Tu sitio web es gratuito."
+      },
+      "DELETE_MODAL": {
+        "DELETE": "@:HOME.DELETE",
+        "DELETE_TITLE": "Eliminar contenido",
+        "IS_EMPTY": "Esta sección está vacía. Si continúas esta sección será eliminada. ¿Quieres eliminar esta sección?",
+        "NAH": "@:HOME.PAGES_OVERVIEW.DELETE_MODAL.REALLY_NAH",
+        "REALLY": "¿Eliminar este contenido de tu página?",
+        "YEAH": "@:HOME.PAGES_OVERVIEW.DELETE_MODAL.REALLY_YEAH"
+      },
+      "DIVIDER_SECTION": {
+        "STYLE": "TIPO DE SEPARADOR",
+        "STYLES": {
+          "DASHED": "Guiones",
+          "DOTTED": "Puntos",
+          "SOLID": "Línea"
+        }
+      },
+      "FOOTER": {
+        "FREEMIUM": {
+          "LINK": "Consigue tu propio sitio web GRATIS. ¡HAZ CLIC AQUÍ!",
+          "TEXT": "Creado con SimpleSite"
+        },
+        "PAYING": {
+          "TEXT": "Creado con SimpleSite"
+        }
+      },
+      "HERO_SECTION": {
+        "CTA_OPTIONS": {
+          "CTA_LINK_LABEL": "¿A dónde debería enlazar el botón?",
+          "CTA_TEXT_LABEL": "¿Qué debería decir el botón? (Ejemplos: ‘Lee más’, ‘Contáctanos’)",
+          "TITLE": "Configuraciones del botón"
+        },
+        "CTA_PLACEHOLDER": "Hazme clic",
+        "HEADLINE_PLACEHOLDER": "Título",
+        "INCLUDE_BUTTON": "Incluye un botón",
+        "LINK_DEFAULT_OPTION": "Enlazar a",
+        "TEXT_PLACEHOLDER": "Soy un párrafo. Haz clic aquí para añadir tu propio texto y editarme. Soy un gran lugar para que puedas contar tu historia y hacer que tus visitantes conozcan un poco más acerca de tí.",
+        "UPLOAD_IMAGE": "@:HOME.PREVIEW.SS_IMAGE.UPLOAD_IMAGE"
+      },
+      "MENU": {
+        "DESKTOP": {
+          "MORE": "MÁS"
+        },
+        "MOBILE": {
+          "MORE": "Lista de páginas"
+        }
+      },
+      "NEWS_SECTION": {
+        "ADDNEWS": "añadir noticias",
+        "ADD_NEWS_PLACEHOLDER": "Añadir encabezado de boletín",
+        "CANCEL": "cancelar",
+        "DELETE": "borrar noticias",
+        "DESCRIPTION_PLACEHOLDER": "Añadir texto",
+        "LINK": "sin enlace",
+        "NEWS_HEADLINE_PLACEHOLDER": "Añadir encabezado ",
+        "SAVE": "@:HOME.SAVE"
+      },
+      "PHOTO_ALBUM": {
+        "FILE_NOT_UPLOADED": "Uno de los archivos no se ha cargado.",
+        "PHOTO_CAPTION": "Añadir descripción",
+        "SHOW_SLIDESHOW": "Mostrar diapositivas en la página",
+        "TITLE_PLACEHOLDER": "Escribir un título",
+        "TRANSITIONS": {
+          "CUBIC": "Cúbico",
+          "FADE": "Desvanecer",
+          "RANDOM": "Alazar",
+          "SLIDE": "Deslizar",
+          "STRIPE": "Rayas",
+          "UPDOWN": "Arriba/Abajo"
+        },
+        "TRANSITION_TITLE_TEXT": "@:HOME.PREVIEW.TRANSITION_TITLE_TEXT",
+        "UPLOAD_IMAGES": "Cargar imágenes"
+      },
+      "SECTIONS": {
+        "ADD_SECTION_TEXT": "Añadir contenido",
+        "COLUMNS": "Columnas",
+        "DIVIDER": "Separador",
+        "HERO": "Poster",
+        "NEWS": "Noticias",
+        "PHOTO": "Imagen",
+        "SIGNATURE": "Firma",
+        "SLIDESHOW": "Presentación de diapositivas",
+        "TEXT": "Texto",
+        "TEXTLEFT": "Texto e imagen",
+        "TEXTNOIMAGE": "Texto",
+        "TEXTRIGHT": "Texto e imagen",
+        "TITLE": "Título",
+        "VIDEO": "Vídeo"
+      },
+      "SELECT_IMAGE_MODAL": {
+        "LIBRARY_BUTTON": "De la biblioteca",
+        "LIBRARY_BUTTON_TEXT": "Utilizar una imagen de nuestra biblioteca gratuita de imágenes de alta calidad",
+        "OUTTRO": "Consejo: Siempre puedes volver a cambiar la imagen",
+        "TITLE": "Selecciona la imagen que quieras utilizar",
+        "UPLOAD_BUTTON": "Subir",
+        "UPLOAD_BUTTON_TEXT": "Sube tu propia imagen"
+      },
+      "SHARE": {
+        "COPY_CLIPBOARD": " Copiar al portapapeles",
+        "FACEBOOK": "Compartir en Facebook",
+        "GOOGLEPLUS": "Compartir en Google+",
+        "MAIL_BODY": "Acabo de actualizar mi sitio web en [livewebsite]",
+        "MAIL_SUBJECT": "Ver mi sitio web",
+        "SHARE": "Compartir",
+        "SOCIAL_MEDIA": "Comparte tu sitio web",
+        "TITLE": "Compartir esta página",
+        "TWITTER": "Compartir en Twitter",
+        "URL_LABEL": "La dirección de tu sitio web"
+      },
+      "SIGNATURE_SECTION": {
+        "REGARDS_TEXT_PLACEHOLDER": "Atentamente,",
+        "SIGNATURE_PREVIEW_TEXT": "Firma",
+        "SIGNATURE_TEXT_PLACEHOLDER": "Firma"
+      },
+      "SLIDESHOW_SECTION": {
+        "ADD_CAPTION_PLACEHOLDER": "Añadir título",
+        "ERR_FINISH_EDITING": "¡He terminado de editar o subir la imagen actual!",
+        "ERR_MAX_SLIDESHOW_NUMBER": "Número máximo de imágenes: ",
+        "HEADLINE_IMAGE_PLACEHOLDER": "Añadir encabezado de imagen",
+        "HEADLINE_SELECT": "Vínculo del encabezado",
+        "TRANSITION_CUBIC": "Cúbico",
+        "TRANSITION_FADE": "Desvanecer",
+        "TRANSITION_RANDOM": "Aleatorio",
+        "TRANSITION_SELECT_DEFAULT": "Transiciones",
+        "TRANSITION_SLIDE": "Diapositiva",
+        "TRANSITION_STRIPE": "Banda",
+        "TRANSITION_TITLE_TEXT": "@:HOME.PREVIEW.TRANSITION_TITLE_TEXT",
+        "TRANSITION_UPDOWN": "Arriba/Abajo",
+        "UPLOAD_TEXT": "cargar imágenes"
+      },
+      "SS_IMAGE": {
+        "CAPTION": "Título",
+        "CHANGE_IMAGE": "@:BASE.V3.CHANGE_IMAGE",
+        "CROP": "Cortar",
+        "DONE": "Completado",
+        "REPLACE_IMAGE": "Reemplazar imagen",
+        "ROTATE_LEFT": "Girar Izq",
+        "ROTATE_RIGHT": "Girar Der",
+        "SELECT_IMAGE": "Seleccionar imagen",
+        "UPLOAD_IMAGE": "Cargar imagen",
+        "WRONG_FILETYPE": "Formato de archivo incorrecto. Cargue un archivo de imagen."
+      },
+      "SS_TEXTEDITOR": {
+        "ADD_TEXT": "Añadir texto",
+        "PLACEHOLDER": "Haga clic para añadir texto",
+        "RESET_STYLES": "Restablecer formato",
+        "SWIPE_TEXT": "Deslizar para obtener más"
+      },
+      "TITLE_SECTION": {
+        "DEFAULT_TEXT": "Soy un título"
+      },
+      "TRANSITION_TITLE_TEXT": "tipo de transición",
+      "UPGRADE_TO_PRO_MODAL": {
+        "UPGRADE_TO_PRO": "Mejorar a PRO",
+        "UPGRADE_TO_PRO_DIMMED_TEXT": "Está intentando guardar funciones PRO",
+        "UPGRADE_TO_PRO_TEXT_1": "Las funciones PRO, como la que acaba de seleccionar, sólo están disponibles en SimpleSite PRO.",
+        "UPGRADE_TO_PRO_TEXT_2": "SimpleSite PRO ofrece más funciones de diseño y elimina todos los anuncios de SimpleSite y otras marcas de su sitio web. También puede obtener su propio nombre de dominio con SimpleSite PRO.",
+        "UPGRADE_TO_PRO_TEXT_3": "Pruebe SimpleSite PRO de forma gratuita durante 14 días, sin ningún tipo de compromiso.",
+        "UPGRADE_TO_PRO_TEXT_4": "¡Que lo disfrute!"
+      },
+      "VIDEO_SECTION": {
+        "ADD": "Añadir",
+        "ADD_URL_PLACEHOLDER": "Escribir URL del vídeo",
+        "AVAILABLE_SHORTLY": "El vídeo estará disponible en breve.",
+        "BROWSE": "Explorar",
+        "ENTER_VIDEO_URL": "Escribir URL del vídeo",
+        "NO_URL_IN_EXTERNAL_INPUT": "No se introdujo una URL. Introduzca una URL de YouTube o Vimeo.",
+        "OR": "O",
+        "PROCESSING_VIDEO": "Estamos procesando su vídeo. Podrá ver el vídeo clip en unos instantes.",
+        "TEXT_PLACEHOLDER": "Añadir descripción del vídeo",
+        "TITLE_PLACEHOLDER": "Añadir encabezado del vídeo",
+        "UPLOAD": "Cargar",
+        "VIDEO_DESCRIPTION": "Video description",
+        "WRONG_FILETYPE": "Formato de archivo no admitido. Cargue un archivo de vídeo.",
+        "WRONG_URL": "URL incorrecta Introduzca una URL de YouTube o Vimeo."
+      },
+      "WEBSHOP": {
+        "TEST_OR_EDIT": {
+          "EDIT_BUTTON": "Editar lista de productos",
+          "TEST_BUTTON": "Ver tienda en directo",
+          "TITLE": "¿Qué desea hacer a continuación?"
+        }
+      }
+    },
+    "PREVIEW_SITE_URL": {
+      "GOTIT": "@:HOME.GOT_IT",
+      "HEADER": "Esta es la dirección de tu sitio web"
+    },
+    "PRIMERS": {
+      "CLOSE": "Cerrar",
+      "COLUMNS": {
+        "TEXT": "Está añadiendo \"columnas\" a su sitio web. Tenga en cuenta que las columnas se muestran sólo en la versión de escritorio de su sitio web. En móviles se presenta una sola columna.",
+        "TITLE": "Añadir columnas"
+      },
+      "CONTINUE": "Siguiente",
+      "NEWS": {
+        "TEXT": "Aquí puede escribir sus últimas noticias o actualizaciones en su sitio web.",
+        "TITLE": "Añadir noticias"
+      }
+    },
+    "REMOVEADSPLASH": {
+      "CLOSE": "@:HOME.OFFER.CLOSE_BUTTON_TEXT"
+    },
+    "SALESPITCHBAR": {
+      "BUTTON_BUY_TEXT": "comprar ahora",
+      "CHANGE_IT_TO": "Cambiar a",
+      "WEBSITE_AVAILABLE_AT": "Sitio web disponible en"
+    },
+    "SALESPITCHBOX": {
+      "BUTTON_TEXT": "Más información",
+      "FREE_PLAN": "Su plan actual es GRATIS",
+      "SIMPLESITE_PRO": "SimpleSite PRO",
+      "UPGRADE_NOW": "@:BASE.UPGRADENOW"
+    },
+    "SAVE": "Guardar",
+    "SOME_EXPERIMENT_ONLY_IN_ENGLISH": {
+      "TEXT1": "Este texto es 1",
+      "TEXT2": "Este texto es 2"
+    },
+    "TOO_LONG_INPUT": "El título de tu página sólo puede tener 20 caracteres. Por favor intenta con un título más corto.",
+    "WEBSITE": {
+      "SECTIONS": {
+        "TEXT": {
+          "COLORS": {
+            "BLACK": "Negro",
+            "BURGUNDY": "Vino tinto",
+            "GREEN": "Verde",
+            "NAVY": "Azul oscuro",
+            "OCEAN": "Océano",
+            "PAPAYA": "Papaya",
+            "RED": "Rojo",
+            "SILVER": "Plata",
+            "WHITE": "Blanco"
+          },
+          "HEADER": {
+            "PLACEHOLDER": "Escribe un título aquí "
+          }
+        }
+      },
+      "SUBTITLE": {
+        "PLACEHOLDER": "Subtítulo del sitio web"
+      },
+      "TITLE": {
+        "PLACEHOLDER": "Título del sitio web"
+      }
+    },
+    "WELCOME": {
+      "BODYTEXT1": "El sitio web de {BUSINESSNAME} está listo.",
+      "BODYTEXT2": "Hemos elegido el diseño y contenido que se adaptan precisamente al propósito de tu sitio web. Así puedes tener el mejor comienzo en línea.",
+      "BODYTEXT3": "Tu sitio web tiene las siguientes páginas:",
+      "BODYTEXT4": "Este es el editor de tu sitio web. Aquí puedes editar, personalizar y añadir todo lo que quieras.",
+      "CLOSE_BUTTON_TEXT": "Cerrar",
+      "HEADER": "¡Felicitaciones, tu SimpleSite ya está listo!",
+      "OK_BUTTON_TEXT": "Muy bien, comencemos!"
+    }
+  }
+}

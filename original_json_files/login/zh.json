@@ -1,0 +1,21 @@
+{
+  "LOGIN": {
+    "LOGIN_BUTTON": {
+      "ACTIVE": "登录",
+      "TEXT": "登录"
+    },
+    "NEW": "您是 SimpleSite 新用户？注册",
+    "PASSWORD": {
+      "LABEL": "密码",
+      "MAXLENGTH": "您的密码过长",
+      "MINLENGTH": "您的密码过短",
+      "REQUIRED": "别忘了输入您的密码"
+    },
+    "SORRY": "登录失败。请检查您的用户名和密码",
+    "TITLE": "登录",
+    "USERNAME": {
+      "LABEL": "用户名",
+      "REQUIRED": "请输入您的用户名"
+    }
+  }
+}

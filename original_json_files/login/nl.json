@@ -1,0 +1,21 @@
+{
+  "LOGIN": {
+    "LOGIN_BUTTON": {
+      "ACTIVE": "Bezig met inloggen",
+      "TEXT": "Inloggen"
+    },
+    "NEW": "Nieuw bij SimpleSite? Aanmelden",
+    "PASSWORD": {
+      "LABEL": "Wachtwoord",
+      "MAXLENGTH": "je wachtwoord is te lang",
+      "MINLENGTH": "je wachtwoord is te kort",
+      "REQUIRED": "vergeet niet om je wachtwoord in te voeren"
+    },
+    "SORRY": "Inloggen mislukt. Controleer je gebruikersnaam en je wachtwoord",
+    "TITLE": "Inloggen",
+    "USERNAME": {
+      "LABEL": "Gebruikersnaam",
+      "REQUIRED": "Vertel ons wat je gebruikersnaam is"
+    }
+  }
+}

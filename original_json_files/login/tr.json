@@ -1,0 +1,21 @@
+{
+  "LOGIN": {
+    "LOGIN_BUTTON": {
+      "ACTIVE": "Oturum açılıyor",
+      "TEXT": "Oturum aç"
+    },
+    "NEW": "SimpleSite'da Yeni misiniz? Kayıt olun",
+    "PASSWORD": {
+      "LABEL": "Parola",
+      "MAXLENGTH": "parolanız çok uzun",
+      "MINLENGTH": "parolanız çok kısa",
+      "REQUIRED": "parolanızı girmeyi unutmayın"
+    },
+    "SORRY": "Oturum açılamadı. Lütfen kullanıcı adınızı ve parolanızı kontrol edin.",
+    "TITLE": "Oturum aç",
+    "USERNAME": {
+      "LABEL": "Kullanıcı adı",
+      "REQUIRED": "Lütfen bize kullanıcı adınızı söyleyin."
+    }
+  }
+}
