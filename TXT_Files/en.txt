@@ -1,0 +1,13 @@
+HOME.VISITORS_MODULE.TITLE	Unique visits to your website over time
+HOME.VISITORS_MODULE.INFOBOX.FIRSTLINE	You can now see your number of website visitors over time
+HOME.VISITORS_MODULE.INFOBOX.SECONDLINE	Please note that this is a new functionality that may be subject to change over the coming months
+HOME.VISITORS_MODULE.ZERO_MESSAGE.TITLE	Nothing to show (yet)!
+HOME.VISITORS_MODULE.ZERO_MESSAGE.FIRSTLINE	We've registrered no visits to you website yet. Keep in mind that the data is ~24h behind, so check back in again later.
+HOME.VISITORS_MODULE.ZERO_MESSAGE.SECONDLINE	To generate some traffic for your website, try sharing it with people you know.
+HOME.VISITORS_MODULE.ZERO_MESSAGE.THIRDLINE	You can do this by clicking
+HOME.VISITORS_MODULE.ZERO_MESSAGE.FOURTHLINE	in the editor menu.
+HOME.VISITORS_MODULE.CHOOSE_RANGE_TEXT	Choose date range
+HOME.VISITORS_MODULE.ZOOM_TEXT	Manually zoom in range
+BASE.DATES.DAYS	days
+BASE.DATES.MONTH	month
+BASE.DATES.MONTHS	months
